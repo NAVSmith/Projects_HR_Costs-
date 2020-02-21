@@ -6532,8 +6532,8 @@
 6530,UI45,Finizon,Development,Verify output with Mike,2018-06-05,00:27:37,0.4602777777777778,41.321795864204354,Project Manager / Tech Lead,19.02
 6531,UI21,Finizon,Development,[POC] Fix deployment problems XXXg with XXX,2018-06-05,01:00:00,1.0,55.558487247141606,Senior Full-Stack Developer,55.56
 6532,UI45,IntellHive,Development,Prepare billing errors June 2018 report,2018-06-05,00:29:02,0.48388888888888887,41.321795864204354,Project Manager / Tech Lead,20.0
-6533,UI08,TeachZip,Devops,Create env for Membership project,2018-06-05,00:13:00,0.21666666666666667,19.999648464963673,Devops,4.33
-6534,UI08,TeachZip,Devops,Create env for Membership project,2018-06-05,00:48:44,0.8122222222222223,19.999648464963673,Devops,16.24
+6533,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-05,00:13:00,0.21666666666666667,19.999648464963673,Devops,4.33
+6534,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-05,00:48:44,0.8122222222222223,19.999648464963673,Devops,16.24
 6535,UI45,Finizon,Development,XXX Plan,2018-06-05,02:32:52,2.5477777777777777,41.321795864204354,Project Manager / Tech Lead,105.28
 6536,UI32,AgeSolvency,Development,Daily BE - FE meeting with XXX,2018-06-05,00:18:00,0.3,58.19533566111075,Project Manager / Tech Lead,17.46
 6537,UI24,TeachZip,Design,Working on a new round of adjustments of the Membership Signup based in all the new things included on Balsamiq by the client and the google document with the adjustments explanation,2018-06-05,05:24:00,5.4,19.999852637783672,Designer,108.0
@@ -6717,10 +6717,10 @@
 6715,UI30,TeachZip,Development,New FAFSA management,2018-06-10,00:51:27,0.8574999999999999,66.1177986658581,Project Manager / Tech Lead,56.7
 6716,UI36,WeVape,Development,"""Best Rated Strains"" should just say ""Best Rated""",2018-06-10,00:19:00,0.31666666666666665,27.5,Senior Full-Stack Developer,8.71
 6717,UI30,TeachZip,Development,Membership management,2018-06-10,00:20:45,0.3458333333333333,66.1177986658581,Project Manager / Tech Lead,22.87
-6718,UI08,TeachZip,Devops,Create env for Membership project,2018-06-11,01:03:10,1.0527777777777778,19.999648464963673,Devops,21.06
+6718,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-11,01:03:10,1.0527777777777778,19.999648464963673,Devops,21.06
 6719,UI29,Credious,QA,1. Tested Funnel on new server deployed.  2. Retested fixed issues 3. Meetings with Dev for Plaid,2018-06-11,04:00:00,4.0,18.0,Quality Assurance,72.0
 6720,UI12,TeachZip,Development,Added styles for diferent resolutions,2018-06-11,04:00:00,4.0,23.0,Senior Front End Developer,92.0
-6721,UI08,TeachZip,Devops,Create env for Membership project,2018-06-11,00:38:52,0.6477777777777778,19.999648464963673,Devops,12.96
+6721,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-11,00:38:52,0.6477777777777778,19.999648464963673,Devops,12.96
 6722,UI08,Finizon,DevOps,Subdomains & SSL for XXX,2018-06-11,01:00:00,1.0,19.999648464963673,Devops,20.0
 6723,UI13,Credious,Development,"Standup meeting, reviewing PRs, meeting with XXX to discuss sprint",2018-06-11,04:19:08,4.318888888888889,27.47791952894995,Senior Back End Developer,118.67
 6724,UI41,NestPride,Development,Meetings,2018-06-11,02:15:00,2.25,30.00111943511582,Senior Front End Developer,67.5
@@ -6733,7 +6733,7 @@
 6731,UI30,TeachZip,Development,New FAFSA management,2018-06-11,00:37:20,0.6222222222222222,66.1177986658581,Project Manager / Tech Lead,41.14
 6732,UI42,NestPride,Development,backbtn: use back button to close iframe and go back into the wizard,2018-06-11,01:23:46,1.396111111111111,22.0000979048365,Junior Front End Developer,30.71
 6733,UI39,TeachZip,Development,HTPFC theme styles,2018-06-11,00:06:11,0.10305555555555557,24.99711361847284,Junior Front End Developer,2.58
-6734,UI08,TeachZip,Devops,Create env for Membership project,2018-06-11,00:36:00,0.6,19.999648464963673,Devops,12.0
+6734,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-11,00:36:00,0.6,19.999648464963673,Devops,12.0
 6735,UI29,TeachZip,QA,1. Retested XXX backend and Frontend. 2. Retested fixed issues. 3. Calls with Dev,2018-06-11,04:00:00,4.0,18.0,Quality Assurance,72.0
 6736,UI32,Credious,Development,Deploying new XXX Experience release to staging,2018-06-11,01:42:24,1.7066666666666666,58.19533566111075,Project Manager / Tech Lead,99.32
 6737,UI14,Credious,Development,TransUnion implementation on CMS,2018-06-11,04:37:59,4.633055555555556,28.015128169211373,Front End Developer,129.8
@@ -6780,9 +6780,9 @@
 6778,UI14,Credious,Development,TransUnion implementation on CMS,2018-06-12,01:16:00,1.2666666666666666,28.015128169211373,Front End Developer,35.49
 6779,UI29,Credious,QA,1. Retested Funnel on a new server deployed.  2. Tested new Plaid features.,2018-06-12,04:00:00,4.0,18.0,Quality Assurance,72.0
 6780,UI14,Credious,Development,TransUnion implementation on CMS,2018-06-12,04:10:19,4.171944444444445,28.015128169211373,Front End Developer,116.88
-6781,UI08,TeachZip,Devops,Create env for Membership project,2018-06-12,00:58:00,0.9666666666666667,19.999648464963673,Devops,19.33
+6781,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-12,00:58:00,0.9666666666666667,19.999648464963673,Devops,19.33
 6782,UI42,NestPride,Development,backbtn: use back button to close iframe and go back into the wizard,2018-06-12,01:18:20,1.3055555555555556,22.0000979048365,Junior Front End Developer,28.72
-6783,UI08,TeachZip,Devops,Create env for Membership project,2018-06-12,00:40:18,0.6716666666666666,19.999648464963673,Devops,13.43
+6783,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-12,00:40:18,0.6716666666666666,19.999648464963673,Devops,13.43
 6784,UI13,Credious,Development,Reviewing PRs and refactXXXng prospects show action on CRM and XXX,2018-06-12,04:13:40,4.227777777777778,27.47791952894995,Senior Back End Developer,116.17
 6785,UI30,TeachZip,Development,Membership management,2018-06-12,00:42:49,0.7136111111111111,66.1177986658581,Project Manager / Tech Lead,47.18
 6786,UI32,Credious,Development,Deploying new XXX Experience release to production,2018-06-12,01:36:50,1.613888888888889,58.19533566111075,Project Manager / Tech Lead,93.92
@@ -6804,7 +6804,7 @@
 6802,UI36,WeVape,Development,Discussion on pending issues,2018-06-12,00:10:00,0.16666666666666666,27.5,Senior Full-Stack Developer,4.58
 6803,UI24,TeachZip,Design,Working on a new round of adjustments of the membership signup based on the document that I received from the client,2018-06-12,03:20:00,3.3333333333333335,19.999852637783672,Designer,66.67
 6804,UI29,Credious,QA,1. Retested Funnel on a new server deployed.  2. Tested new Plaid features.,2018-06-12,04:00:00,4.0,18.0,Quality Assurance,72.0
-6805,UI08,TeachZip,Devops,Create env for Membership project,2018-06-12,01:00:00,1.0,19.999648464963673,Devops,20.0
+6805,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-12,01:00:00,1.0,19.999648464963673,Devops,20.0
 6806,UI31,Finizon,DevOps,CI/CD slack notification,2018-06-12,01:02:56,1.048888888888889,20.001817355747388,Devops,20.98
 6807,UI25,Credious,Development,Finalize Plaid Dictionary,2018-06-12,02:03:44,2.062222222222222,19.996048992493087,Back End Developer,41.24
 6808,UI20,TeachZip,Development,Finish field encryption,2018-06-12,03:36:00,3.6,20.0,Back End Developer,72.0
@@ -6862,7 +6862,7 @@
 6860,UI47,TeachZip,Development,fafsa submitter,2018-06-14,01:35:03,1.5841666666666667,38.565916819251896,Full-Stack Developer,61.09
 6861,UI29,Credious,QA,1. Tested Plaid features. 2. Tested XXX and Funnel.,2018-06-14,06:00:00,6.0,18.0,Quality Assurance,108.0
 6862,UI30,TeachZip,Development,Membership management,2018-06-14,02:15:19,2.2552777777777777,66.1177986658581,Project Manager / Tech Lead,149.11
-6863,UI08,TeachZip,Devops,Create env for Membership project,2018-06-14,03:30:00,3.5,19.999648464963673,Devops,70.0
+6863,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-14,03:30:00,3.5,19.999648464963673,Devops,70.0
 6864,UI27,AgeSolvency,Development,"working on ""TransUnion implementation on CMS""",2018-06-14,05:45:35,5.759722222222222,23.053426315486142,Front End Developer,132.78
 6865,UI47,TeachZip,Development,fafsa submitter,2018-06-14,05:30:10,5.502777777777778,38.565916819251896,Full-Stack Developer,212.22
 6866,UI45,IntellHive,DevOps,Load test,2018-06-14,01:28:05,1.4680555555555557,41.321795864204354,Project Manager / Tech Lead,60.66
@@ -6902,7 +6902,7 @@
 6900,UI10,TeachZip,Development,HTPFC Staging Requirements & Functional Review,2018-06-14,01:35:00,1.5833333333333335,24.999120922055088,Front End Developer,39.58
 6901,UI36,Credious,DevOps,Discussion on starting with the devops tasks,2018-06-14,00:20:30,0.3416666666666667,27.5,Senior Full-Stack Developer,9.4
 6902,UI26,Credious,Development,Add secxty layer to plaid integration endpoint,2018-06-15,01:10:26,1.173888888888889,17.998787715517242,Junior Back End Developer,21.13
-6903,UI08,TeachZip,Devops,Create env for Membership project,2018-06-15,01:30:00,1.5,19.999648464963673,Devops,30.0
+6903,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-15,01:30:00,1.5,19.999648464963673,Devops,30.0
 6904,UI29,Credious,QA,1. Tested Plaid features. 2. Tested XXX and Funnel. 3. Tested Release 6/14/18,2018-06-15,06:00:00,6.0,18.0,Quality Assurance,108.0
 6905,UI27,AgeSolvency,Development,front-end weekly meeting,2018-06-15,00:45:08,0.7522222222222222,23.053426315486142,Front End Developer,17.34
 6906,UI24,Credious,Design,Front end planning meeting,2018-06-15,01:10:00,1.1666666666666667,19.999852637783672,Designer,23.33
@@ -6925,7 +6925,7 @@
 6923,UI18,TeachZip,Development,Approved states: whitelist update,2018-06-15,00:25:37,0.42694444444444446,27.933613609698867,Full-Stack Developer,11.93
 6924,UI18,TeachZip,Development,Approved states: whitelist update,2018-06-15,00:31:16,0.5211111111111112,27.933613609698867,Full-Stack Developer,14.56
 6925,UI15,TeachZip,Development,Frontend: Add student's application view,2018-06-16,04:00:00,4.0,47.90692369111441,Project Manager / Tech Lead,191.63
-6926,UI08,TeachZip,Devops,Redirect EU visitors to special page,2018-06-16,03:00:00,3.0,19.999648464963673,Devops,60.0
+6926,UI08,TeachZip,DevOps,Redirect EU visitors to special page,2018-06-16,03:00:00,3.0,19.999648464963673,Devops,60.0
 6927,UI10,TeachZip,Development,Research new plugin for social sharing,2018-06-16,01:41:30,1.6916666666666667,24.999120922055088,Front End Developer,42.29
 6928,UI18,TeachZip,Development,bug fixing,2018-06-16,00:25:15,0.42083333333333334,27.933613609698867,Full-Stack Developer,11.76
 6929,UI36,IntellHive,Development,'Add Member to Rebilling Queue' - friendly error message,2018-06-16,00:42:12,0.7033333333333333,27.5,Senior Full-Stack Developer,19.34
@@ -6968,7 +6968,7 @@
 6966,UI24,TeachZip,Design,Working on some new adjustments of the FAFSA signup process based on the big document that I received from the client,2018-06-17,04:04:00,4.066666666666666,19.999852637783672,Designer,81.33
 6967,UI30,TeachZip,Development,New FAFSA management,2018-06-17,00:34:20,0.5722222222222222,66.1177986658581,Project Manager / Tech Lead,37.83
 6968,UI21,NestPride,Development,XCode + Android environments fixes With XXX,2018-06-17,01:30:00,1.5,55.558487247141606,Senior Full-Stack Developer,83.34
-6969,UI08,TeachZip,Devops,Create env for Membership project,2018-06-17,01:00:00,1.0,19.999648464963673,Devops,20.0
+6969,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-17,01:00:00,1.0,19.999648464963673,Devops,20.0
 6970,UI30,TeachZip,Development,Membership management,2018-06-17,00:05:44,0.09555555555555555,66.1177986658581,Project Manager / Tech Lead,6.32
 6971,UI32,AgeSolvency,Development,Sprint planning - Merger,2018-06-17,04:43:21,4.7225,58.19533566111075,Project Manager / Tech Lead,274.83
 6972,UI30,TeachZip,Development,Membership management,2018-06-17,00:54:47,0.9130555555555556,66.1177986658581,Project Manager / Tech Lead,60.37
@@ -7004,7 +7004,7 @@
 7002,UI25,Credious,Development,Finalize Plaid Dictionary - fix failing test after the change,2018-06-18,00:55:28,0.9244444444444444,19.996048992493087,Back End Developer,18.49
 7003,UI32,AgeSolvency,Development,[Creditors] 404 error is coming when user has not budgets associated. Endpoint used Budgets->Index,2018-06-18,01:22:50,1.3805555555555555,58.19533566111075,Project Manager / Tech Lead,80.34
 7004,UI45,IntellHive,Development,Prepare billing errors June 2018 report,2018-06-18,00:21:00,0.35,41.321795864204354,Project Manager / Tech Lead,14.46
-7005,UI08,TeachZip,Devops,Create env for Membership project,2018-06-18,02:01:06,2.018333333333333,19.999648464963673,Devops,40.37
+7005,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-18,02:01:06,2.018333333333333,19.999648464963673,Devops,40.37
 7006,UI42,NestPride,Development,Form Validation: add validation in all inputs,2018-06-18,01:28:02,1.4672222222222224,22.0000979048365,Junior Front End Developer,32.28
 7007,UI30,TeachZip,Development,Membership management,2018-06-18,01:33:36,1.56,66.1177986658581,Project Manager / Tech Lead,103.14
 7008,UI31,Finizon,DevOps,Sprint planning,2018-06-18,00:45:00,0.75,20.001817355747388,Devops,15.0
@@ -7066,8 +7066,8 @@
 7064,UI39,TeachZip,Development,HTPFC floating sidebar in posts,2018-06-19,02:12:05,2.2013888888888893,24.99711361847284,Junior Front End Developer,55.03
 7065,UI31,Credious,DevOps,Docker compose review,2018-06-19,02:06:31,2.108611111111111,20.001817355747388,Devops,42.18
 7066,UI41,NestPride,Development,Send intercom message to member when entering space / event / service,2018-06-19,01:18:42,1.3116666666666668,30.00111943511582,Senior Front End Developer,39.35
-7067,UI08,TeachZip,Devops,Create env for Membership project,2018-06-20,00:30:00,0.5,19.999648464963673,Devops,10.0
-7068,UI08,TeachZip,Devops,Redirect EU visitors to special page,2018-06-20,02:00:00,2.0,19.999648464963673,Devops,40.0
+7067,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-20,00:30:00,0.5,19.999648464963673,Devops,10.0
+7068,UI08,TeachZip,DevOps,Redirect EU visitors to special page,2018-06-20,02:00:00,2.0,19.999648464963673,Devops,40.0
 7069,UI10,TeachZip,Development,HTPFC review planning,2018-06-20,00:43:00,0.7166666666666667,24.999120922055088,Front End Developer,17.92
 7070,UI29,Credious,QA,1. Tested Funnel and XXX with the new deployment. 2. Meeting with devs 3. Tested Plaid.,2018-06-20,05:00:00,5.0,18.0,Quality Assurance,90.0
 7071,UI45,Credious,DevOps,Implement NAT Gateway for the Funnel,2018-06-20,04:52:52,4.881111111111111,41.321795864204354,Project Manager / Tech Lead,201.7
@@ -7105,7 +7105,7 @@
 7103,UI30,TeachZip,Development,Membership management,2018-06-20,07:07:03,7.1175,66.1177986658581,Project Manager / Tech Lead,470.59
 7104,UI25,Credious,Development,Integrating changes made in the branch add_discover_exception by XXX into the current project state,2018-06-20,01:41:58,1.6994444444444445,19.996048992493087,Back End Developer,33.98
 7105,UI39,TeachZip,Development,HTPFC floating sidebar in posts,2018-06-20,02:16:48,2.28,24.99711361847284,Junior Front End Developer,56.99
-7106,UI08,TeachZip,Devops,Create env for Membership project,2018-06-20,01:11:55,1.198611111111111,19.999648464963673,Devops,23.97
+7106,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-20,01:11:55,1.198611111111111,19.999648464963673,Devops,23.97
 7107,UI15,TeachZip,Development,Fix application update error handler,2018-06-21,01:00:00,1.0,47.90692369111441,Project Manager / Tech Lead,47.91
 7108,UI29,Credious,QA,1. Tested funnel endpoints on a new production server. 2. Tested XXX.,2018-06-21,05:00:00,5.0,18.0,Quality Assurance,90.0
 7109,UI14,Revenify,Development,"Create next 5 blog posts (401k,  why you need to review, lenders, savvy people, debt and stress)",2018-06-21,04:05:00,4.083333333333333,28.015128169211373,Front End Developer,114.4
@@ -7136,7 +7136,7 @@
 7134,UI10,TeachZip,Development,HTPFC Requirements & Functional Review,2018-06-21,02:22:09,2.3691666666666666,24.999120922055088,Front End Developer,59.23
 7135,UI26,Credious,Development,standup,2018-06-21,01:03:51,1.0641666666666667,17.998787715517242,Junior Back End Developer,19.15
 7136,UI31,Credious,DevOps,Docker compose env,2018-06-21,01:55:04,1.9177777777777776,20.001817355747388,Devops,38.36
-7137,UI08,TeachZip,Devops,Create env for Membership project,2018-06-21,03:00:00,3.0,19.999648464963673,Devops,60.0
+7137,UI08,TeachZip,DevOps,Create env for Membership project,2018-06-21,03:00:00,3.0,19.999648464963673,Devops,60.0
 7138,UI24,TeachZip,Design,Working on finish the last adjustments list of the FAFSA sign up process based on the client's feedback,2018-06-22,05:23:00,5.383333333333334,19.999852637783672,Designer,107.67
 7139,UI24,Credious,Design,Front end planning meeting,2018-06-22,01:15:00,1.25,19.999852637783672,Designer,25.0
 7140,UI27,AgeSolvency,Development,front-end weekly meeting,2018-06-22,01:14:46,1.2461111111111112,23.053426315486142,Front End Developer,28.73
@@ -7406,7 +7406,7 @@
 7404,UI10,TeachZip,Development,HTPFC Code Review and deploy to staging server,2018-06-29,00:47:30,0.7916666666666666,24.999120922055088,Front End Developer,19.79
 7405,UI16,GlobalMove,Development,Filling out empty fields on Streak forms with data from Typeform,2018-06-29,01:37:00,1.6166666666666667,20.001633986928102,Full-Stack Developer,32.34
 7406,UI14,Credious,Development,Meeting with backend (XXX) to talk about new endpoints on XXX experience project,2018-06-29,00:39:00,0.65,28.015128169211373,Front End Developer,18.21
-7407,UI31,TeachZip,Devops,Prelaunch subdomain and letsencrypt setup,2018-06-29,02:10:03,2.1675,20.001817355747388,Devops,43.35
+7407,UI31,TeachZip,DevOps,Prelaunch subdomain and letsencrypt setup,2018-06-29,02:10:03,2.1675,20.001817355747388,Devops,43.35
 7408,UI30,TeachZip,Development,FAFSA management,2018-06-29,00:32:22,0.5394444444444444,66.1177986658581,Project Manager / Tech Lead,35.67
 7409,UI26,Credious,Development,bugfix/[DTI] Income value and DTI should not be -ve,2018-06-30,02:42:33,2.709166666666667,17.998787715517242,Junior Back End Developer,48.76
 7410,UI15,TeachZip,Development,Add healthcheck to worker and fix application parent fields,2018-06-30,02:30:00,2.5,47.90692369111441,Project Manager / Tech Lead,119.77
@@ -7531,7 +7531,7 @@
 7530,UI10,TeachZip,Development,HTPFC Code Review and deploy to staging server,2018-07-03,00:54:30,0.9083333333333333,25.000235460324937,Front End Developer,22.71
 7531,UI32,AgeSolvency,Development,General improvements to the XXX,2018-07-03,02:41:57,2.6991666666666667,70.64329608938549,Project Manager / Tech Lead,190.68
 7532,UI29,Credious,QA,1. Tested Funnel and XXX backend. 2. Tested XXX Frontend. 3. Tested new Tech Integration features.,2018-07-03,05:00:00,5.0,18.0,Quality Assurance,90.0
-7533,UI45,TeachZip,Devops,yarn seed - membership,2018-07-03,00:56:15,0.9375,51.748726389215456,Project Manager / Tech Lead,48.51
+7533,UI45,TeachZip,DevOps,yarn seed - membership,2018-07-03,00:56:15,0.9375,51.748726389215456,Project Manager / Tech Lead,48.51
 7534,UI14,Credious,Development,"Velocify Link - get query params, create user and send to XXX, then update url with UUID",2018-07-03,03:45:02,3.7505555555555556,21.462681762086174,Front End Developer,80.5
 7535,UI27,AgeSolvency,Development,"working on “general improvements, add debt modal”",2018-07-03,03:59:05,3.9847222222222225,21.82334006219652,Front End Developer,86.96
 7536,UI13,Credious,Development,"RefactXXXng review creditors endpoint, debugging issue with hardship reasons and prospect creation",2018-07-03,02:42:27,2.7075,28.006993374697654,Senior Back End Developer,75.83
@@ -8216,7 +8216,7 @@
 8216,UI08,Finizon,DevOps,Deployments and downtime - do an automation,2018-07-22,00:47:06,0.785,19.998362668849776,Devops,15.7
 8217,UI47,TeachZip,Development,fafsa submitter,2018-07-22,00:23:19,0.38861111111111113,37.63627616069281,Full-Stack Developer,14.63
 8218,UI08,TeachZip,DevOps,Logging for FAFSA and Membership,2018-07-22,00:13:44,0.2288888888888889,19.998362668849776,Devops,4.58
-8219,UI08,TeachZip,Devops,Deployment flow for membership,2018-07-22,01:03:00,1.05,19.998362668849776,Devops,21.0
+8219,UI08,TeachZip,DevOps,Deployment flow for membership,2018-07-22,01:03:00,1.05,19.998362668849776,Devops,21.0
 8220,UI29,Credious,QA,1. Tested Funnel and XXX experience backend. 2. Tested XXX Experience frontend. 3. Tested Tech Integration tickets 4. XXX Production,2018-07-23,05:00:00,5.0,18.0,Quality Assurance,90.0
 8221,UI19,WeVape,Development,Daily Stand Up,2018-07-23,00:05:00,0.08333333333333333,24.0,Junior Back End Developer,2.0
 8222,UI08,TeachZip,DevOps,FAFSA: CI/CD + envs,2018-07-23,02:32:17,2.5380555555555553,19.998362668849776,Devops,50.76
@@ -8473,14 +8473,14 @@
 8473,UI36,WeVape,Development,"store front authXXXzation fixes: cart, reorder and more",2018-07-29,01:31:15,1.5208333333333333,27.500782635917773,Senior Full-Stack Developer,41.82
 8474,UI10,TeachZip,Development,HTPFC Deploy to Production,2018-07-29,01:28:03,1.4675,25.000235460324937,Front End Developer,36.69
 8475,UI32,AgeSolvency,Development,Sprint planning - new week 30/07,2018-07-30,01:32:42,1.545,70.64329608938549,Project Manager / Tech Lead,109.14
-8476,UI08,TeachZip,Devops,Deployment flow for membership,2018-07-30,02:00:00,2.0,19.998362668849776,Devops,40.0
+8476,UI08,TeachZip,DevOps,Deployment flow for membership,2018-07-30,02:00:00,2.0,19.998362668849776,Devops,40.0
 8477,UI15,TeachZip,Development,"XXX validator class/function (document and write test), help with membership project mixpanel issues",2018-07-30,08:00:00,8.0,23.931623931623932,Project Manager / Tech Lead,191.45
 8478,UI36,WeVape,Development,"store front authXXXzation fixes: cart, reorder and more",2018-07-30,01:56:21,1.9391666666666667,27.500782635917773,Senior Full-Stack Developer,53.33
 8479,UI27,AgeSolvency,Development,"working on ""Show loading spinner inside modal plan when edit a plan""",2018-07-30,01:13:13,1.2202777777777778,21.82334006219652,Front End Developer,26.63
 8480,UI14,Credious,Development,Show loading spinner inside modal plan when edit a plan,2018-07-30,01:40:00,1.6666666666666665,21.462681762086174,Front End Developer,35.77
 8481,UI13,Credious,Development,"Standup meeting with the backend team, meeting with the team to discuss operations book for XXX, meeting with XXX to discuss integration",2018-07-30,03:57:08,3.9522222222222223,28.006993374697654,Senior Back End Developer,110.69
 8482,UI29,Credious,QA,1. Tested Funnel and XXX experience backend.  2. Writing XXX javascript automation  3. Meeting with dev,2018-07-30,05:00:00,5.0,18.0,Quality Assurance,90.0
-8483,UI08,TeachZip,Devops,Deployment flow for membership,2018-07-30,00:42:38,0.7105555555555555,19.998362668849776,Devops,14.21
+8483,UI08,TeachZip,DevOps,Deployment flow for membership,2018-07-30,00:42:38,0.7105555555555555,19.998362668849776,Devops,14.21
 8484,UI27,AgeSolvency,Development,"working on ""Exception message modal fixes""",2018-07-30,00:38:17,0.6380555555555555,21.82334006219652,Front End Developer,13.92
 8485,UI45,Finizon,DevOps,Research - Create DataDog alert for when leads are not created in the system after a certain period of time,2018-07-30,00:19:42,0.3283333333333333,51.748726389215456,Project Manager / Tech Lead,16.99
 8486,UI36,WeVape,Development,Farm products based on store,2018-07-30,00:32:00,0.5333333333333333,27.500782635917773,Senior Full-Stack Developer,14.67
@@ -8695,7 +8695,7 @@
 8695,UI08,TeachZip,DevOps,Create env for FAFSA Selenium submitter,2018-08-03,02:04:00,2.066666666666667,20.001124297314178,Devops,41.34
 8696,UI31,Finizon,DevOps,Client nginx api proxy ECS,2018-08-04,03:48:00,3.8,20.0,Devops,76.0
 8697,UI42,NestPride,Development,daily: Metting with Barak about Virtual member flow,2018-08-04,01:09:00,1.15,21.99854486661277,Junior Front End Developer,25.3
-8698,UI08,TeachZip,Devops,Increase XXX wordpress disk size,2018-08-04,00:40:00,0.6666666666666666,20.001124297314178,Devops,13.33
+8698,UI08,TeachZip,DevOps,Increase XXX wordpress disk size,2018-08-04,00:40:00,0.6666666666666666,20.001124297314178,Devops,13.33
 8699,UI29,TeachZip,QA,1. Tested XXX backend. 2. Tested XXX frontend. 3. Reported issues and test fixed issues.,2018-08-04,05:00:00,5.0,18.000297279889015,Quality Assurance,90.0
 8700,UI18,TeachZip,Development,Account step - design changes to get the CTA button above the fold,2018-08-04,01:21:52,1.3644444444444446,24.999777827149522,Full-Stack Developer,34.11
 8701,UI18,TeachZip,Development,"Pressing ""back"" to the login page:",2018-08-04,01:37:31,1.6252777777777778,24.999777827149522,Full-Stack Developer,40.63
@@ -8737,7 +8737,7 @@
 8737,UI30,TeachZip,Development,FAFSA management,2018-08-06,02:22:09,2.3691666666666666,67.7813297678376,Project Manager / Tech Lead,160.59
 8738,UI14,Credious,Development,Formating credit report,2018-08-06,01:24:04,1.401111111111111,22.335138757049528,Front End Developer,31.29
 8739,UI44,Finizon,Development,Separate FE and BE,2018-08-06,02:17:42,2.295,24.99976252671574,Back End Developer,57.37
-8740,UI08,TeachZip,Devops,Deployment flow for membership,2018-08-06,00:57:00,0.95,20.001124297314178,Devops,19.0
+8740,UI08,TeachZip,DevOps,Deployment flow for membership,2018-08-06,00:57:00,0.95,20.001124297314178,Devops,19.0
 8741,UI13,Credious,Development,"Populate new field on TradeLines a exception which is a boolean, code review from XXX and merging PRs",2018-08-06,05:46:07,5.768611111111111,21.432945499081445,Senior Back End Developer,123.64
 8742,UI42,NestPride,Development,virtual member: add New enpoint for New users,2018-08-06,03:12:00,3.2,21.99854486661277,Junior Front End Developer,70.4
 8743,UI15,TeachZip,Development,XXX validator: view integration for dependent students,2018-08-06,02:30:00,2.5,23.933518005540165,Project Manager / Tech Lead,59.83
@@ -8815,7 +8815,7 @@
 8815,UI45,Credious,DevOps,ADR Deploy plan,2018-08-07,00:52:25,0.8736111111111111,41.89961157246183,Project Manager / Tech Lead,36.6
 8816,UI32,AgeSolvency,Development,Call with XXX sales team - XXX showcase,2018-08-07,00:57:43,0.9619444444444444,59.232850032460505,Project Manager / Tech Lead,56.98
 8817,UI30,TeachZip,Development,FAFSA management,2018-08-07,01:38:54,1.6483333333333332,67.7813297678376,Project Manager / Tech Lead,111.73
-8818,UI08,TeachZip,Devops,Membership deploy,2018-08-07,01:00:00,1.0,20.001124297314178,Devops,20.0
+8818,UI08,TeachZip,DevOps,Membership deploy,2018-08-07,01:00:00,1.0,20.001124297314178,Devops,20.0
 8819,UI45,GlobalMove,Development,Automating extraction of action items from evernote,2018-08-07,00:40:41,0.6780555555555555,41.89961157246183,Project Manager / Tech Lead,28.41
 8820,UI36,WeVape,Development,deployment of admin user bug,2018-08-07,00:14:00,0.23333333333333334,27.501254773595196,Senior Full-Stack Developer,6.42
 8821,UI36,WeVape,Development,Current store based order flow - with Rspec,2018-08-07,00:28:00,0.4666666666666667,27.501254773595196,Senior Full-Stack Developer,12.83
@@ -8857,7 +8857,7 @@
 8857,UI07,NestPride,Development,Send tracking events to Mixpanel,2018-08-08,03:05:12,3.086666666666667,24.99989861097029,Senior Full-Stack Developer,77.17
 8858,UI31,Finizon,DevOps,Client ECS,2018-08-08,03:44:11,3.736388888888889,20.0,Devops,74.73
 8859,UI20,TeachZip,Development,Test submission for first case and add more conditions for mapping cases,2018-08-08,03:02:00,3.033333333333333,19.99923093825533,Back End Developer,60.66
-8860,UI08,TeachZip,Devops,Investigate wordpress logs in Kibana,2018-08-08,00:13:49,0.23027777777777778,20.001124297314178,Devops,4.61
+8860,UI08,TeachZip,DevOps,Investigate wordpress logs in Kibana,2018-08-08,00:13:49,0.23027777777777778,20.001124297314178,Devops,4.61
 8861,UI18,TeachZip,Development,Frontend Design - Issue solving,2018-08-08,04:27:06,4.451666666666667,24.999777827149522,Full-Stack Developer,111.29
 8862,UI08,TeachZip,DevOps,Create ECS Backoffice infra,2018-08-08,01:07:52,1.1311111111111112,20.001124297314178,Devops,22.62
 8863,UI36,WeVape,Development,Windows printer electron app: research and setup,2018-08-08,01:20:00,1.3333333333333333,27.501254773595196,Senior Full-Stack Developer,36.67
@@ -9049,7 +9049,7 @@
 9049,UI16,TeachZip,Development,Adding new actions to buttons on dashboard,2018-08-13,02:58:18,2.9716666666666667,20.293084522502745,Full-Stack Developer,60.3
 9050,UI10,TeachZip,Development,Resolve problems of update core and WordPress plugins,2018-08-13,02:30:04,2.5011111111111113,25.000537249283667,Front End Developer,62.53
 9051,UI42,NestPride,Development,virtual member: style service description virtual member page,2018-08-13,02:45:23,2.756388888888889,21.99854486661277,Junior Front End Developer,60.64
-9052,UI08,TeachZip,Devops,FiXXXembership and circleci issues,2018-08-13,01:00:00,1.0,20.001124297314178,Devops,20.0
+9052,UI08,TeachZip,DevOps,FiXXXembership and circleci issues,2018-08-13,01:00:00,1.0,20.001124297314178,Devops,20.0
 9053,UI24,TeachZip,Design,Working on some adjustments of the last things that I uploaded on Zeplin based on the comments provided by the client,2018-08-13,01:40:00,1.6666666666666665,20.000128188693758,Designer,33.33
 9054,UI14,Credious,Development,Testing tasks for deploying to staging (XXX),2018-08-13,00:57:00,0.95,22.335138757049528,Front End Developer,21.22
 9055,UI32,AgeSolvency,Development,Code review - credit score bug fix,2018-08-13,01:09:17,1.1547222222222222,59.232850032460505,Project Manager / Tech Lead,68.4
@@ -14500,7 +14500,7 @@
 14500,UI16,TeachZip,Development,NEW BUG: [School Recommendation] delete all schools and page is blank,2019-01-16,00:11:15,0.1875,36.90753690753691,Full-Stack Developer,6.92
 14501,UI16,TeachZip,Development,NEW BUG: [School Recommendation] delete all schools and page is blank,2019-01-16,00:29:55,0.4986111111111111,36.90753690753691,Full-Stack Developer,18.4
 14502,UI16,TeachZip,Development,Fixigin recommendations flow issues,2019-01-16,00:48:13,0.8036111111111112,36.90753690753691,Full-Stack Developer,29.66
-14503,UI08,TeachZip,Devops,Debug membership lambda function,2019-01-16,01:23:47,1.396388888888889,27.00360011077264,Devops,37.71
+14503,UI08,TeachZip,DevOps,Debug membership lambda function,2019-01-16,01:23:47,1.396388888888889,27.00360011077264,Devops,37.71
 14504,UI14,Credious,Development,"""Initial Debit Date"" needs to be within 30 days of (today)",2019-01-16,03:06:48,3.1133333333333333,30.232030836671452,Front End Developer,94.12
 14505,UI15,TeachZip,Development,Sprint status call,2019-01-16,01:00:00,1.0,26.215592035453465,Project Manager / Tech Lead,26.22
 14506,UI35,Sinbuffer,Development,End to end Test,2019-01-16,03:18:31,3.308611111111111,35.001364147006896,Senior Full-Stack Developer,115.81
@@ -16804,14 +16804,14 @@
 16804,UI35,Sinbuffer,Development,XXX Deployment Test,2019-02-28,01:48:26,1.8072222222222223,35.00047188890387,Senior Full-Stack Developer,63.25
 16805,UI20,AgeSolvency,Development,Working on adding new validation to csv parser,2019-02-28,01:43:00,1.7166666666666668,26.62406815761448,Back End Developer,45.7
 16806,UI16,TeachZip,Development,[New FAFSA] Updated Kill list A,2019-02-28,02:55:15,2.9208333333333334,21.85540921378041,Full-Stack Developer,63.84
-16807,UI29, Credious,QA,Working on the fee rate automation,2019-03-01,00:13:06,0.21833333333333335,18.000116904372224,Quality Assurance,3.93
+16807,UI29,Credious,QA,Working on the fee rate automation,2019-03-01,00:13:06,0.21833333333333335,18.000116904372224,Quality Assurance,3.93
 16808,UI14,Credious,Development,Replace react-redux-form with formik,2019-03-01,02:03:00,2.05,27.25166916473634,Front End Developer,55.87
 16809,UI32,Credious,Development,Amazon S3 image saving research,2019-03-01,02:54:32,2.908888888888889,64.82347534602076,Project Manager / Tech Lead,188.56
-16810,UI29, Credious,QA,Sanity testing on staging,2019-03-01,00:46:42,0.7783333333333334,18.000116904372224,Quality Assurance,14.01
+16810,UI29,Credious,QA,Sanity testing on staging,2019-03-01,00:46:42,0.7783333333333334,18.000116904372224,Quality Assurance,14.01
 16811,UI11,Credious,QA,Review XXX board and documentation,2019-03-01,01:33:19,1.5552777777777778,25.00111111111111,Quality Assurance,38.88
 16812,UI27,Revenify,Development,"working on XXX: ""improvements( add absolute path for components, api, actions, reducers....""",2019-03-01,05:05:38,5.0938888888888885,30.871343675233465,Front End Developer,157.26
 16813,UI37,PilotAxis,Development,"1)refactor: add styles in separate files for notification and doorbell ,2)services",2019-03-01,08:00:00,8.0,30.50682936975664,Front End Developer,244.05
-16814,UI29, Credious,QA,Update lead details automation flow,2019-03-01,02:31:48,2.53,18.000116904372224,Quality Assurance,45.54
+16814,UI29,Credious,QA,Update lead details automation flow,2019-03-01,02:31:48,2.53,18.000116904372224,Quality Assurance,45.54
 16815,UI16,TeachZip,Development,Fixing Texts on Summary after updated pages,2019-03-01,00:57:00,0.95,29.067543792549532,Full-Stack Developer,27.61
 16816,UI06,Sinbuffer,DevOps,XXX Project Env,2019-03-01,00:16:40,0.2777777777777778,26.0,Senior Devops,7.22
 16817,UI46,AgeSolvency,QA,data mapping SF vs Client portal,2019-03-01,01:26:31,1.4419444444444445,14.001321877065433,Quality Assurance,20.19
@@ -16822,23 +16822,23 @@
 16822,UI31,GDP,DevOps,Training environment pipeline,2019-03-01,01:36:40,1.6111111111111112,19.99970704555442,Devops,32.22
 16823,UI13,Credious,Development,XXX administrator hiring process,2019-03-01,02:09:12,2.1533333333333333,63.92045454545454,Senior Back End Developer,137.64
 16824,UI26,Credious,Development,Update create offers api logic,2019-03-01,05:59:39,5.994166666666667,19.998799231508166,Junior Back End Developer,119.88
-16825,UI29, Credious,QA,Update lead details automation flow,2019-03-01,00:33:50,0.5638888888888889,18.000116904372224,Quality Assurance,10.15
+16825,UI29,Credious,QA,Update lead details automation flow,2019-03-01,00:33:50,0.5638888888888889,18.000116904372224,Quality Assurance,10.15
 16826,UI20,Finizon,Development,Working on implementing fetch and update function - XXX,2019-03-01,01:14:15,1.2375,26.476039184537992,Back End Developer,32.76
 16827,UI16,TeachZip,Development,Student properties missing on call to partner-api,2019-03-01,00:45:00,0.75,29.067543792549532,Full-Stack Developer,21.8
-16828,UI29, Credious,QA,Update lead details automation flow,2019-03-01,00:24:10,0.4027777777777778,18.000116904372224,Quality Assurance,7.25
+16828,UI29,Credious,QA,Update lead details automation flow,2019-03-01,00:24:10,0.4027777777777778,18.000116904372224,Quality Assurance,7.25
 16829,UI31,GDP,DevOps,Training environment pipeline,2019-03-01,04:47:24,4.79,19.99970704555442,Devops,95.8
 16830,UI14,Credious,Development,[Bug] XXX is able to enter larger amount than the debt amount in min payment field,2019-03-01,05:29:32,5.492222222222222,27.25166916473634,Front End Developer,149.67
 16831,UI16,TeachZip,Development,Daily Meeting,2019-03-01,00:19:29,0.3247222222222222,29.067543792549532,Full-Stack Developer,9.44
 16832,UI20,TeachZip,Development,Attending daily standup with XXX,2019-03-01,00:22:00,0.36666666666666664,26.476039184537992,Back End Developer,9.71
 16833,UI35,Sinbuffer,Development,Review Feature/save-file-to-s3,2019-03-01,05:19:52,5.3311111111111105,34.99945315348159,Senior Full-Stack Developer,186.59
-16834,UI29, Credious,QA,Update lead details automation flow,2019-03-01,02:23:24,2.39,18.000116904372224,Quality Assurance,43.02
+16834,UI29,Credious,QA,Update lead details automation flow,2019-03-01,02:23:24,2.39,18.000116904372224,Quality Assurance,43.02
 16835,UI06,Sinbuffer,DevOps,XXX Project Env,2019-03-01,02:22:26,2.3738888888888887,26.0,Senior Devops,61.72
 16836,UI20,Finizon,Development,Working on implementing fetch and update function - XXX,2019-03-01,05:00:25,5.006944444444445,26.476039184537992,Back End Developer,132.56
 16837,UI46,AgeSolvency,QA,data mapping SF vs Client portal,2019-03-01,00:43:24,0.7233333333333334,14.001321877065433,Quality Assurance,10.13
 16838,UI45,Finizon,Development,Deffered logic,2019-03-01,02:52:38,2.877222222222222,53.06601671309192,Project Manager / Tech Lead,152.68
 16839,UI13,Credious,Development,XXX administrator hiring process,2019-03-01,01:03:52,1.0644444444444445,63.92045454545454,Senior Back End Developer,68.04
-16840,UI29, Credious,QA,testing tickets on Staging,2019-03-01,00:09:32,0.15888888888888889,18.000116904372224,Quality Assurance,2.86
-16841,UI29, Credious,QA,Update lead details automation flow,2019-03-01,01:03:46,1.0627777777777778,18.000116904372224,Quality Assurance,19.13
+16840,UI29,Credious,QA,testing tickets on Staging,2019-03-01,00:09:32,0.15888888888888889,18.000116904372224,Quality Assurance,2.86
+16841,UI29,Credious,QA,Update lead details automation flow,2019-03-01,01:03:46,1.0627777777777778,18.000116904372224,Quality Assurance,19.13
 16842,UI46,Credious,QA,review fullstory sessions on potentials bugs,2019-03-01,00:17:36,0.29333333333333333,14.001321877065433,Quality Assurance,4.11
 16843,UI36,PilotAxis,Development,ring doorbell groovy setup - snapshots,2019-03-01,03:33:00,3.55,30.000202730098668,Senior Full-Stack Developer,106.5
 16844,UI06,Sinbuffer,DevOps,XXX Project Env,2019-03-01,00:36:00,0.6,26.0,Senior Devops,15.6
@@ -16853,11 +16853,11 @@
 16853,UI11,PilotAxis,QA,Testing Ready for QA tickets,2019-03-02,01:09:00,1.15,25.00111111111111,Quality Assurance,28.75
 16854,UI11,Credious,QA,"Review XXX XXX project (board, documentation, links)",2019-03-02,01:01:00,1.0166666666666666,25.00111111111111,Quality Assurance,25.42
 16855,UI24,DBboards,Design,Working on some new adjustments of the Document manager based on XXX's requierements and all the things discussed with XXX,2019-03-02,01:52:00,1.8666666666666667,19.9995183044316,Designer,37.33
-16856,UI29, Credious,QA,Working on the fee rate automation,2019-03-02,00:24:10,0.4027777777777778,18.000116904372224,Quality Assurance,7.25
-16857,UI29, Credious,QA,Working on the fee rate automation,2019-03-02,00:02:43,0.04527777777777778,18.000116904372224,Quality Assurance,0.82
+16856,UI29,Credious,QA,Working on the fee rate automation,2019-03-02,00:24:10,0.4027777777777778,18.000116904372224,Quality Assurance,7.25
+16857,UI29,Credious,QA,Working on the fee rate automation,2019-03-02,00:02:43,0.04527777777777778,18.000116904372224,Quality Assurance,0.82
 16858,UI13,Credious,Development,Changing vars that rely on SFDC,2019-03-02,01:27:27,1.4575,63.92045454545454,Senior Back End Developer,93.16
 16859,UI45,Finizon,Development,Update Logic,2019-03-02,00:40:04,0.6677777777777777,53.06601671309192,Project Manager / Tech Lead,35.44
-16860,UI29, Credious,QA,Working on the fee rate automation,2019-03-02,01:27:17,1.4547222222222222,18.000116904372224,Quality Assurance,26.19
+16860,UI29,Credious,QA,Working on the fee rate automation,2019-03-02,01:27:17,1.4547222222222222,18.000116904372224,Quality Assurance,26.19
 16861,UI45,GDP,Development,XXX migration,2019-03-02,02:05:15,2.0875000000000004,53.06601671309192,Project Manager / Tech Lead,110.78
 16862,UI35,Finizon,Development,SQS module,2019-03-02,02:51:44,2.8622222222222224,34.99945315348159,Senior Full-Stack Developer,100.18
 16863,UI45,GDP,Development,XXX migration,2019-03-02,02:16:49,2.2802777777777776,53.06601671309192,Project Manager / Tech Lead,121.01
@@ -16873,13 +16873,13 @@
 16873,UI35,Finizon,Development,SQS module,2019-03-03,01:47:25,1.7902777777777776,34.99945315348159,Senior Full-Stack Developer,62.66
 16874,UI14,Revenify,Development,Add FullStory to the Landing Page CMS,2019-03-04,03:31:31,3.5252777777777777,27.25166916473634,Front End Developer,96.07
 16875,UI06,GDP,DevOps,Add tests to CI/CD (with XXX),2019-03-04,01:03:28,1.057777777777778,26.0,Senior Devops,27.5
-16876,UI29, Credious,QA,Testing monday tickets for 02/25/19 - 03/10/19 Sprint on staging,2019-03-04,00:51:52,0.8644444444444445,18.000116904372224,Quality Assurance,15.56
+16876,UI29,Credious,QA,Testing monday tickets for 02/25/19 - 03/10/19 Sprint on staging,2019-03-04,00:51:52,0.8644444444444445,18.000116904372224,Quality Assurance,15.56
 16877,UI45,GDP,DevOps,DevOps planning and ownerships,2019-03-04,00:45:45,0.7625,53.06601671309192,Project Manager / Tech Lead,40.46
 16878,UI08,Credious,DevOps,Creating the sprint,2019-03-04,00:46:35,0.7763888888888889,26.996885274268905,Devops,20.96
 16879,UI06,GDP,DevOps,DevOps meeting,2019-03-04,00:46:17,0.7713888888888889,26.0,Senior Devops,20.06
 16880,UI45,GDP,DevOps,Sprint Planning,2019-03-04,00:39:32,0.6588888888888889,53.06601671309192,Project Manager / Tech Lead,34.96
-16881,UI29, Credious,QA,Sanity testing on staging,2019-03-04,00:06:18,0.10500000000000001,18.000116904372224,Quality Assurance,1.89
-16882,UI29, Credious,QA,Running end to end flow on production,2019-03-04,01:02:35,1.0430555555555556,18.000116904372224,Quality Assurance,18.78
+16881,UI29,Credious,QA,Sanity testing on staging,2019-03-04,00:06:18,0.10500000000000001,18.000116904372224,Quality Assurance,1.89
+16882,UI29,Credious,QA,Running end to end flow on production,2019-03-04,01:02:35,1.0430555555555556,18.000116904372224,Quality Assurance,18.78
 16883,UI37,PilotAxis,Development,aircraft cleaning screen,2019-03-04,08:01:02,8.017222222222223,30.50682936975664,Front End Developer,244.58
 16884,UI36,WeVape,Development,Korona: In-Stock and Out of stock integration based on qty,2019-03-04,02:45:00,2.75,30.000202730098668,Senior Full-Stack Developer,82.5
 16885,UI45,Sinbuffer,Development,XXX Architecture & Requirements,2019-03-04,00:27:30,0.45833333333333337,53.06601671309192,Project Manager / Tech Lead,24.32
@@ -16888,15 +16888,15 @@
 16888,UI14,Credious,Development,Introduce XXX to XXX XXX,2019-03-04,01:39:26,1.6572222222222222,27.25166916473634,Front End Developer,45.16
 16889,UI23,Credious,Development,research about data migration from funnel to debt service,2019-03-04,01:57:00,1.95,22.999681061427566,Back End Developer,44.85
 16890,UI01,GDP,Development,Meeting with XXX Finance team about the project / Studying the code,2019-03-04,10:15:02,10.250555555555556,52.4620446804826,Senior Full-Stack Developer,537.77
-16891,UI29, Credious,QA,Running end to end flow on production,2019-03-04,00:39:27,0.6575,18.000116904372224,Quality Assurance,11.84
-16892,UI29, Credious,QA,Working on Debt Manager,2019-03-04,00:36:00,0.6,18.000116904372224,Quality Assurance,10.8
+16891,UI29,Credious,QA,Running end to end flow on production,2019-03-04,00:39:27,0.6575,18.000116904372224,Quality Assurance,11.84
+16892,UI29,Credious,QA,Working on Debt Manager,2019-03-04,00:36:00,0.6,18.000116904372224,Quality Assurance,10.8
 16893,UI24,GDP,Design,XXX experience planning meeting ,2019-03-04,01:00:00,1.0,19.9995183044316,Designer,20.0
-16894,UI29, Credious,QA,Running end to end flow on production,2019-03-04,01:12:25,1.2069444444444444,18.000116904372224,Quality Assurance,21.73
+16894,UI29,Credious,QA,Running end to end flow on production,2019-03-04,01:12:25,1.2069444444444444,18.000116904372224,Quality Assurance,21.73
 16895,UI32,PilotAxis,Development,"Code review - ring doorbell groovy implementation, call with XXX - doorbell views, notification implementation",2019-03-04,05:08:32,5.142222222222222,64.82347534602076,Project Manager / Tech Lead,333.34
 16896,UI45,Sinbuffer,Development,XXX Architecture & Requirements,2019-03-04,00:41:21,0.6891666666666667,53.06601671309192,Project Manager / Tech Lead,36.57
 16897,UI20,Finizon,Development,Working on summary API,2019-03-04,04:38:02,4.6338888888888885,26.476039184537992,Back End Developer,122.69
 16898,UI45,Finizon,QA,QA Sprint Planning,2019-03-04,00:39:13,0.6536111111111111,53.06601671309192,Project Manager / Tech Lead,34.68
-16899,UI29, Credious,QA,Running end to end flow on production,2019-03-04,03:47:45,3.7958333333333334,18.000116904372224,Quality Assurance,68.33
+16899,UI29,Credious,QA,Running end to end flow on production,2019-03-04,03:47:45,3.7958333333333334,18.000116904372224,Quality Assurance,68.33
 16900,UI35,Finizon,Development,SQS module,2019-03-04,02:28:34,2.4761111111111114,34.99945315348159,Senior Full-Stack Developer,86.66
 16901,UI45,Finizon,DevOps,Deploy Training Env,2019-03-04,00:34:33,0.5758333333333333,53.06601671309192,Project Manager / Tech Lead,30.56
 16902,UI46,Credious,QA,QA Sprint  Planning,2019-03-04,00:34:45,0.5791666666666666,14.001321877065433,Quality Assurance,8.11
@@ -16908,12 +16908,12 @@
 16908,UI06,AgeSolvency,DevOps,Equal dev env and staging env for Client-Portal,2019-03-04,01:12:09,1.2025,26.0,Senior Devops,31.26
 16909,UI17,BetterBooking,Development,Adding new design for new Plana page,2019-03-04,01:34:28,1.5744444444444445,23.04100529100529,Junior Front End Developer,36.28
 16910,UI36,WeVape,Development,Uploading image to farm is crashing,2019-03-04,01:19:00,1.3166666666666667,30.000202730098668,Senior Full-Stack Developer,39.5
-16911,UI29, Credious,QA,QA Sprint planning,2019-03-04,00:30:02,0.5005555555555555,18.000116904372224,Quality Assurance,9.01
+16911,UI29,Credious,QA,QA Sprint planning,2019-03-04,00:30:02,0.5005555555555555,18.000116904372224,Quality Assurance,9.01
 16912,UI20,Finizon,Development,Working on update rates function,2019-03-04,03:41:52,3.697777777777778,26.476039184537992,Back End Developer,97.9
 16913,UI31,GDP,DevOps,Training environment pipeline,2019-03-04,05:01:19,5.021944444444444,19.99970704555442,Devops,100.44
 16914,UI11,Credious,QA,Test XXX stXXXes,2019-03-04,00:56:29,0.9413888888888889,25.00111111111111,Quality Assurance,23.54
 16915,UI45,Finizon,Development,Update - Snapshot,2019-03-04,02:12:22,2.2061111111111114,53.06601671309192,Project Manager / Tech Lead,117.07
-16916,UI29, Credious,QA,Checking CRM endpoints using automation,2019-03-04,00:05:55,0.09861111111111111,18.000116904372224,Quality Assurance,1.78
+16916,UI29,Credious,QA,Checking CRM endpoints using automation,2019-03-04,00:05:55,0.09861111111111111,18.000116904372224,Quality Assurance,1.78
 16917,UI10,TeachZip,Development,Update plugins on HTPFC intances - production and staging and checked compatibility,2019-03-04,00:30:03,0.5008333333333334,24.999022164276404,Front End Developer,12.52
 16918,UI10,TeachZip,Development,Create Team Page review current blocks and planning,2019-03-04,01:20:35,1.3430555555555554,24.999022164276404,Front End Developer,33.58
 16919,UI45,Finizon,Development,Update - Snapshot,2019-03-04,01:39:14,1.6538888888888887,53.06601671309192,Project Manager / Tech Lead,87.77
@@ -16923,31 +16923,31 @@
 16923,UI35,Finizon,Development,Update Logic - create a module,2019-03-05,01:19:17,1.321388888888889,34.99945315348159,Senior Full-Stack Developer,46.25
 16924,UI46,Credious,QA,fullstory review on bugs,2019-03-05,00:26:06,0.435,14.001321877065433,Quality Assurance,6.09
 16925,UI46,Credious,QA,data mapping,2019-03-05,00:19:02,0.3172222222222222,14.001321877065433,Quality Assurance,4.44
-16926,UI29, Credious,QA,Testing monday tickets for 02/25/19 - 03/10/19 Sprint on staging,2019-03-05,00:09:00,0.15,18.000116904372224,Quality Assurance,2.7
-16927,UI29, Credious,QA,Sanity testing on staging,2019-03-05,00:34:16,0.5711111111111111,18.000116904372224,Quality Assurance,10.28
+16926,UI29,Credious,QA,Testing monday tickets for 02/25/19 - 03/10/19 Sprint on staging,2019-03-05,00:09:00,0.15,18.000116904372224,Quality Assurance,2.7
+16927,UI29,Credious,QA,Sanity testing on staging,2019-03-05,00:34:16,0.5711111111111111,18.000116904372224,Quality Assurance,10.28
 16928,UI37,PilotAxis,Development,1)service detail 2)integrate api for history,2019-03-05,00:42:00,0.7,30.50682936975664,Front End Developer,21.35
-16929,UI29, Credious,QA,Sanity testing on production,2019-03-05,00:26:27,0.44083333333333335,18.000116904372224,Quality Assurance,7.94
+16929,UI29,Credious,QA,Sanity testing on production,2019-03-05,00:26:27,0.44083333333333335,18.000116904372224,Quality Assurance,7.94
 16930,UI32,AgeSolvency,Development,Code review - 03/07/19 Release,2019-03-05,05:48:15,5.804166666666666,64.82347534602076,Project Manager / Tech Lead,376.25
 16931,UI20,Finizon,Development,Attending meeting to review update rates function,2019-03-05,00:36:00,0.6,26.476039184537992,Back End Developer,15.89
 16932,UI11,PilotAxis,QA,Sky Meeting and XXX handover,2019-03-05,01:02:39,1.0441666666666667,25.00111111111111,Quality Assurance,26.11
-16933,UI29, Credious,QA,Covering lead details scenarios,2019-03-05,00:16:58,0.2827777777777778,18.000116904372224,Quality Assurance,5.09
+16933,UI29,Credious,QA,Covering lead details scenarios,2019-03-05,00:16:58,0.2827777777777778,18.000116904372224,Quality Assurance,5.09
 16934,UI37,PilotAxis,Development,1)service detail 2)integrate api for history,2019-03-05,07:20:42,7.345,30.50682936975664,Front End Developer,224.07
 16935,UI36,WeVape,DevOps,uploading image to farm is crashing - deployment to production,2019-03-05,00:16:00,0.26666666666666666,30.000202730098668,Senior Full-Stack Developer,8.0
 16936,UI01,GDP,Development,Studying the code,2019-03-05,10:33:41,10.561388888888889,52.4620446804826,Senior Full-Stack Developer,554.07
 16937,UI36,PilotAxis,Development,understanding current notifications implementation,2019-03-05,02:39:58,2.666111111111111,30.000202730098668,Senior Full-Stack Developer,79.98
-16938,UI29, Credious,QA,Covering lead details scenarios,2019-03-05,02:45:24,2.756666666666667,18.000116904372224,Quality Assurance,49.62
+16938,UI29,Credious,QA,Covering lead details scenarios,2019-03-05,02:45:24,2.756666666666667,18.000116904372224,Quality Assurance,49.62
 16939,UI35,Finizon,Development,Update Logic - create a module,2019-03-05,02:14:06,2.235,34.99945315348159,Senior Full-Stack Developer,78.22
 16940,UI45,Finizon,Development,XXX - intro with XXX,2019-03-05,02:04:05,2.068055555555556,53.06601671309192,Project Manager / Tech Lead,109.74
 16941,UI26,Credious,Development,"When an enrollment agreement is created or updated, a callback should send XXX information to an external service",2019-03-05,02:14:10,2.236111111111111,19.998799231508166,Junior Back End Developer,44.72
 16942,UI06,GDP,DevOps,Add tests to CI/CD (with XXX),2019-03-05,00:29:44,0.4955555555555556,26.0,Senior Devops,12.88
 16943,UI06,GDP,DevOps,Make the VPN Changes for production,2019-03-05,00:28:00,0.4666666666666667,26.0,Senior Devops,12.13
 16944,UI08,Credious,DevOps,"Spread the info about VPN, write tutXXXals",2019-03-05,00:57:36,0.96,26.996885274268905,Devops,25.92
-16945,UI29, Credious,QA,Sanity testing on production,2019-03-05,00:32:00,0.5333333333333333,18.000116904372224,Quality Assurance,9.6
+16945,UI29,Credious,QA,Sanity testing on production,2019-03-05,00:32:00,0.5333333333333333,18.000116904372224,Quality Assurance,9.6
 16946,UI45,Finizon,Development,"Update 'Fee Deferral' field value in XXX, Call with XXX",2019-03-05,02:17:16,2.2877777777777775,53.06601671309192,Project Manager / Tech Lead,121.4
 16947,UI20,Finizon,Development,Working on update rates function,2019-03-05,02:24:57,2.415833333333333,26.476039184537992,Back End Developer,63.96
 16948,UI06,GDP,DevOps,Make the VPN Changes for production,2019-03-05,01:18:31,1.3086111111111112,26.0,Senior Devops,34.02
 16949,UI33,Finizon,Development,install environment XXX settlememts,2019-03-05,00:45:59,0.7663888888888889,54.99794220273777,Back End Developer,42.15
-16950,UI29, Credious,QA,Covering lead details scenarios,2019-03-05,03:00:56,3.0155555555555558,18.000116904372224,Quality Assurance,54.28
+16950,UI29,Credious,QA,Covering lead details scenarios,2019-03-05,03:00:56,3.0155555555555558,18.000116904372224,Quality Assurance,54.28
 16951,UI35,Finizon,Development,Update Logic - create a module,2019-03-05,04:42:07,4.701944444444445,34.99945315348159,Senior Full-Stack Developer,164.57
 16952,UI33,Finizon,Development,install environment XXX settlememts,2019-03-05,00:07:40,0.12777777777777777,54.99794220273777,Back End Developer,7.03
 16953,UI36,PilotAxis,Development,understanding current notifications implementation,2019-03-05,03:04:00,3.066666666666667,30.000202730098668,Senior Full-Stack Developer,92.0
@@ -16968,38 +16968,38 @@
 16968,UI36,WeVape,Development,status update with XXX,2019-03-05,00:18:00,0.3,30.000202730098668,Senior Full-Stack Developer,9.0
 16969,UI35,Finizon,Development,Update Logic - create a module,2019-03-05,01:13:19,1.2219444444444445,34.99945315348159,Senior Full-Stack Developer,42.77
 16970,UI45,Finizon,Development,Remove dups from Db,2019-03-05,00:14:53,0.24805555555555556,53.06601671309192,Project Manager / Tech Lead,13.16
-16971,UI29, Credious,QA,Taking understanding of Propono implementation,2019-03-06,00:04:09,0.06916666666666667,18.000116904372224,Quality Assurance,1.25
+16971,UI29,Credious,QA,Taking understanding of Propono implementation,2019-03-06,00:04:09,0.06916666666666667,18.000116904372224,Quality Assurance,1.25
 16972,UI15,Credious,Development,"time entries management talk, QA meeting with XXX, review spring status, code review, stg deplyoment, weekly standup",2019-03-06,03:57:39,3.9608333333333334,29.888416578108394,Project Manager / Tech Lead,118.38
 16973,UI13,Credious,Development,"Helping XXX with issue in healths tab on SFDC UAT, weekly standup meeting, working on recall approval process",2019-03-06,06:30:20,6.5055555555555555,63.92045454545454,Senior Back End Developer,415.84
 16974,UI16,TeachZip,Development,Fixing datatype issue on dependency screen,2019-03-06,01:03:55,1.0652777777777778,29.067543792549532,Full-Stack Developer,30.97
 16975,UI11,Credious,QA,"Testing XXX tickets, Meeting w/x, Weekly project meeting",2019-03-06,02:38:38,2.6438888888888887,25.00111111111111,Quality Assurance,66.1
-16976,UI29, Credious,QA,Sanity testing of  New Test Environment,2019-03-06,00:04:43,0.0786111111111111,18.000116904372224,Quality Assurance,1.42
-16977,UI29, Credious,QA,Testing tickets on production for 02/25/19 - 03/10/19 Sprint,2019-03-06,00:52:38,0.8772222222222222,18.000116904372224,Quality Assurance,15.79
+16976,UI29,Credious,QA,Sanity testing of  New Test Environment,2019-03-06,00:04:43,0.0786111111111111,18.000116904372224,Quality Assurance,1.42
+16977,UI29,Credious,QA,Testing tickets on production for 02/25/19 - 03/10/19 Sprint,2019-03-06,00:52:38,0.8772222222222222,18.000116904372224,Quality Assurance,15.79
 16978,UI27,Revenify,Development,"working on XXX: ""improvements( add absolute path for components, api, actions, reducers....)""",2019-03-06,08:22:00,8.366666666666667,30.871343675233465,Front End Developer,258.29
 16979,UI31,GDP,DevOps,Training environment pipeline,2019-03-06,01:19:47,1.3297222222222222,19.99970704555442,Devops,26.59
 16980,UI16,TeachZip,Development,[New FAFSA] Add design to the pre-lead funnel [Desktop split screen and OTP pages],2019-03-06,00:41:10,0.6861111111111111,29.067543792549532,Full-Stack Developer,19.94
-16981,UI29, Credious,QA,Testing tickets on production for 02/25/19 - 03/10/19 Sprint,2019-03-06,00:02:59,0.04972222222222222,18.000116904372224,Quality Assurance,0.9
+16981,UI29,Credious,QA,Testing tickets on production for 02/25/19 - 03/10/19 Sprint,2019-03-06,00:02:59,0.04972222222222222,18.000116904372224,Quality Assurance,0.9
 16982,UI35,Finizon,Development,Update Logic - create a module,2019-03-06,03:21:43,3.3619444444444446,34.99945315348159,Senior Full-Stack Developer,117.67
-16983,UI29, Credious,QA,Sanity testing on staging,2019-03-06,00:07:34,0.12611111111111112,18.000116904372224,Quality Assurance,2.27
+16983,UI29,Credious,QA,Sanity testing on staging,2019-03-06,00:07:34,0.12611111111111112,18.000116904372224,Quality Assurance,2.27
 16984,UI37,PilotAxis,Development,1)history component 2) logout on hangar screen 3)hangar payment screen,2019-03-06,07:59:00,7.983333333333333,30.50682936975664,Front End Developer,243.55
 16985,UI36,PilotAxis,Development,ring doorbell: sending notifications when we get ringing status,2019-03-06,01:33:00,1.55,30.000202730098668,Senior Full-Stack Developer,46.5
 16986,UI01,GDP,Development,Meeting with x XXX / Standup meeting about future releases / Setting up environment,2019-03-06,09:57:17,9.954722222222221,52.4620446804826,Senior Full-Stack Developer,522.25
-16987,UI29, Credious,QA,Sanity testing on staging,2019-03-06,00:01:43,0.02861111111111111,18.000116904372224,Quality Assurance,0.52
-16988,UI29, Credious,QA,Covering financial profile scenarios,2019-03-06,00:44:04,0.7344444444444443,18.000116904372224,Quality Assurance,13.22
+16987,UI29,Credious,QA,Sanity testing on staging,2019-03-06,00:01:43,0.02861111111111111,18.000116904372224,Quality Assurance,0.52
+16988,UI29,Credious,QA,Covering financial profile scenarios,2019-03-06,00:44:04,0.7344444444444443,18.000116904372224,Quality Assurance,13.22
 16989,UI16,TeachZip,Development,Fixing SSN validation issue,2019-03-06,00:57:00,0.95,29.067543792549532,Full-Stack Developer,27.61
 16990,UI14,Credious,Development,XXX Experience Weekly Standup,2019-03-06,00:42:16,0.7044444444444444,27.25166916473634,Front End Developer,19.2
 16991,UI20,Finizon,Development,Working on Avoid dead lock situation while updating programs,2019-03-06,02:58:11,2.9697222222222224,26.476039184537992,Back End Developer,78.63
-16992,UI29, Credious,QA,Covering financial profile scenarios,2019-03-06,01:15:47,1.2630555555555556,18.000116904372224,Quality Assurance,22.74
+16992,UI29,Credious,QA,Covering financial profile scenarios,2019-03-06,01:15:47,1.2630555555555556,18.000116904372224,Quality Assurance,22.74
 16993,UI23,Credious,Development,"XXX weekly standup discussing about next deployments, sprint structure planning",2019-03-06,00:49:02,0.8172222222222222,22.999681061427566,Back End Developer,18.8
 16994,UI16,TeachZip,Development,[New FAFSA] Add design to the pre-lead funnel [Desktop split screen and OTP pages],2019-03-06,01:54:00,1.9,29.067543792549532,Full-Stack Developer,55.23
 16995,UI36,WeVape,Development,PR: in-store notification testing with Gaurav,2019-03-06,00:20:00,0.3333333333333333,30.000202730098668,Senior Full-Stack Developer,10.0
 16996,UI06,GDP,DevOps,Add tests to CI/CD (with XXX),2019-03-06,00:14:00,0.23333333333333334,26.0,Senior Devops,6.07
 16997,UI36,PilotAxis,Development,ring doorbell: sending notifications when we get ringing status,2019-03-06,02:02:00,2.033333333333333,30.000202730098668,Senior Full-Stack Developer,61.0
 16998,UI33,Finizon,Development,learning nodejs,2019-03-06,00:07:01,0.11694444444444445,54.99794220273777,Back End Developer,6.43
-16999,UI29, Credious,QA,Updating automation flow,2019-03-06,00:45:15,0.7541666666666667,18.000116904372224,Quality Assurance,13.58
+16999,UI29,Credious,QA,Updating automation flow,2019-03-06,00:45:15,0.7541666666666667,18.000116904372224,Quality Assurance,13.58
 17000,UI33,Finizon,Development,learning nodejs,2019-03-06,01:41:25,1.6902777777777778,54.99794220273777,Back End Developer,92.96
 17001,UI45,Sinbuffer,Development,XXX Cashflow field,2019-03-06,01:45:37,1.7602777777777778,53.06601671309192,Project Manager / Tech Lead,93.41
-17002,UI29, Credious,QA,Updating automation flow,2019-03-06,00:01:15,0.020833333333333332,18.000116904372224,Quality Assurance,0.38
+17002,UI29,Credious,QA,Updating automation flow,2019-03-06,00:01:15,0.020833333333333332,18.000116904372224,Quality Assurance,0.38
 17003,UI23,Credious,Development,"working on shoryuken test for CRM, Funnel, XXX",2019-03-06,00:22:07,0.3686111111111111,22.999681061427566,Back End Developer,8.48
 17004,UI11,Credious,QA,Testing XXX Ready for Staging tickets,2019-03-06,03:04:23,3.073055555555556,25.00111111111111,Quality Assurance,76.83
 17005,UI15,TeachZip,Development,daily standup,2019-03-06,00:37:52,0.6311111111111112,29.888416578108394,Project Manager / Tech Lead,18.86
@@ -17007,16 +17007,16 @@
 17007,UI20,Finizon,Development,Working on updating summary api,2019-03-06,02:10:26,2.1738888888888885,26.476039184537992,Back End Developer,57.56
 17008,UI35,Finizon,Development,Update Logic - create a module,2019-03-06,03:42:49,3.713611111111111,34.99945315348159,Senior Full-Stack Developer,129.97
 17009,UI15,GDP,Development,"on boarding XXX, testing XXX's improvements, review duplicate debts on FS, QA talk with XXX",2019-03-06,02:21:09,2.3525,29.888416578108394,Project Manager / Tech Lead,70.31
-17010,UI29, Credious,QA,Testing tickets on production for 02/25/19 - 03/10/19 Sprint,2019-03-06,00:45:23,0.7563888888888889,18.000116904372224,Quality Assurance,13.62
+17010,UI29,Credious,QA,Testing tickets on production for 02/25/19 - 03/10/19 Sprint,2019-03-06,00:45:23,0.7563888888888889,18.000116904372224,Quality Assurance,13.62
 17011,UI45,Sinbuffer,Development,XXX Cashflow field,2019-03-06,01:55:26,1.9238888888888888,53.06601671309192,Project Manager / Tech Lead,102.09
-17012,UI29, Credious,QA,Updating automation flow,2019-03-06,01:26:26,1.4405555555555556,18.000116904372224,Quality Assurance,25.93
+17012,UI29,Credious,QA,Updating automation flow,2019-03-06,01:26:26,1.4405555555555556,18.000116904372224,Quality Assurance,25.93
 17013,UI36,PilotAxis,Development,ring doorbell: sending notifications when we get ringing status,2019-03-06,03:23:00,3.3833333333333333,30.000202730098668,Senior Full-Stack Developer,101.5
 17014,UI13,Credious,Development,"Debugging issue in training environment not working well, working on recall approval process",2019-03-06,03:38:10,3.636111111111111,63.92045454545454,Senior Back End Developer,232.42
 17015,UI16,TeachZip,Development,[New FAFSA] Add design to the pre-lead funnel [Desktop split screen and OTP pages],2019-03-06,01:51:00,1.85,29.067543792549532,Full-Stack Developer,53.77
 17016,UI23,Credious,Development,"working on shoryuken test for CRM, Funnel, XXX",2019-03-06,02:56:43,2.945277777777778,22.999681061427566,Back End Developer,67.74
 17017,UI20,Finizon,Development,Working on update rates function,2019-03-06,00:56:00,0.9333333333333333,26.476039184537992,Back End Developer,24.71
 17018,UI45,Finizon,Development,XXX Weekly Standup,2019-03-06,00:47:11,0.7863888888888889,53.06601671309192,Project Manager / Tech Lead,41.73
-17019,UI29, Credious,QA,Sanity testing on staging,2019-03-06,00:12:42,0.21166666666666667,18.000116904372224,Quality Assurance,3.81
+17019,UI29,Credious,QA,Sanity testing on staging,2019-03-06,00:12:42,0.21166666666666667,18.000116904372224,Quality Assurance,3.81
 17020,UI33,Finizon,Development,learning nodejs,2019-03-06,00:46:12,0.77,54.99794220273777,Back End Developer,42.35
 17021,UI11,Credious,QA,Testing XXX Ready for Staging tickets,2019-03-06,00:28:33,0.47583333333333333,25.00111111111111,Quality Assurance,11.9
 17022,UI22,Credious,DevOps,Onboarding administrative with XXX - Devops,2019-03-06,00:40:00,0.6666666666666666,29.99865561281649,Devops,20.0
@@ -17026,11 +17026,11 @@
 17026,UI26,Credious,Development,"When an enrollment agreement is created or updated, a callback should send XXX information to an external service",2019-03-06,06:04:09,6.069166666666667,19.998799231508166,Junior Back End Developer,121.38
 17027,UI33,Finizon,Development,learning nodejs,2019-03-06,02:24:34,2.4094444444444445,54.99794220273777,Back End Developer,132.51
 17028,UI32,AgeSolvency,Development,"Call with XXX - XXX catchup, reorganize sprints, deploying to production",2019-03-06,05:22:50,5.3805555555555555,64.82347534602076,Project Manager / Tech Lead,348.79
-17029,UI29, Credious,QA,Working on backend automation for training,2019-03-06,00:14:16,0.23777777777777778,18.000116904372224,Quality Assurance,4.28
+17029,UI29,Credious,QA,Working on backend automation for training,2019-03-06,00:14:16,0.23777777777777778,18.000116904372224,Quality Assurance,4.28
 17030,UI06,Sinbuffer,DevOps,Make the VPN Changes for production,2019-03-06,03:29:22,3.4894444444444446,26.0,Senior Devops,90.73
 17031,UI45,GDP,DevOps,XXX training env,2019-03-06,00:28:28,0.47444444444444445,53.06601671309192,Project Manager / Tech Lead,25.18
 17032,UI10,TeachZip,Development,Create Team Page,2019-03-06,02:51:14,2.853888888888889,24.999022164276404,Front End Developer,71.34
-17033,UI29, Credious,QA,Working on backend automation for training,2019-03-06,00:23:19,0.38861111111111113,18.000116904372224,Quality Assurance,7.0
+17033,UI29,Credious,QA,Working on backend automation for training,2019-03-06,00:23:19,0.38861111111111113,18.000116904372224,Quality Assurance,7.0
 17034,UI36,IntellHive,Development,Add Member to Rebilling Queue and get 500,2019-03-06,00:48:00,0.8,30.000202730098668,Senior Full-Stack Developer,24.0
 17035,UI46,Credious,QA,data mapping,2019-03-06,00:29:41,0.49472222222222223,14.001321877065433,Quality Assurance,6.93
 17036,UI13,Credious,Development,Working on recall approval process,2019-03-06,03:08:11,3.136388888888889,63.92045454545454,Senior Back End Developer,200.48
@@ -17045,14 +17045,14 @@
 17045,UI14,Revenify,Development,Fixing XXX Finance - Careers title on sharing that page on Linkedin,2019-03-07,01:44:28,1.7411111111111113,27.25166916473634,Front End Developer,47.45
 17046,UI06,Sinbuffer,DevOps,Make the VPN Changes for production,2019-03-07,00:15:15,0.25416666666666665,26.0,Senior Devops,6.61
 17047,UI06,Sinbuffer,DevOps,XXX Project Env,2019-03-07,01:55:17,1.9213888888888888,26.0,Senior Devops,49.96
-17048,UI29, Credious,QA,Sanity testing on staging,2019-03-07,00:40:00,0.6666666666666666,18.000116904372224,Quality Assurance,12.0
+17048,UI29,Credious,QA,Sanity testing on staging,2019-03-07,00:40:00,0.6666666666666666,18.000116904372224,Quality Assurance,12.0
 17049,UI27,Revenify,Development,"working on XXX: ""improvements( create api url file to handle api Urls)"", ""testing"", ""replace pie chart plugin""",2019-03-07,08:46:59,8.783055555555556,30.871343675233465,Front End Developer,271.14
 17050,UI11,PilotAxis,QA,Meeting w/x,2019-03-07,00:12:00,0.2,25.00111111111111,Quality Assurance,5.0
 17051,UI13,Credious,Development,"Creating document with deployment checklist, meeting with XXX and XXX to discuss about data migration from funnel to debt service, leadership meeting, support approval process in CRM by adding recalled_approval attribute to program details",2019-03-07,04:01:31,4.025277777777777,63.92045454545454,Senior Back End Developer,257.3
 17052,UI20,Finizon,Development,Minor changes to attemps PR,2019-03-07,00:13:00,0.21666666666666667,26.476039184537992,Back End Developer,5.74
-17053,UI29, Credious,QA,Sanity testing on staging,2019-03-07,00:22:17,0.3713888888888889,18.000116904372224,Quality Assurance,6.69
+17053,UI29,Credious,QA,Sanity testing on staging,2019-03-07,00:22:17,0.3713888888888889,18.000116904372224,Quality Assurance,6.69
 17054,UI15,GDP,Development,"management talk with x, set deployment meeting, leadership meeting, fill deployment document",2019-03-07,03:24:10,3.4027777777777777,29.888416578108394,Project Manager / Tech Lead,101.7
-17055,UI29, Credious,QA,Updating automation flow,2019-03-07,02:07:34,2.1261111111111113,18.000116904372224,Quality Assurance,38.27
+17055,UI29,Credious,QA,Updating automation flow,2019-03-07,02:07:34,2.1261111111111113,18.000116904372224,Quality Assurance,38.27
 17056,UI37,PilotAxis,Development,testing,2019-03-07,08:04:28,8.074444444444444,30.50682936975664,Front End Developer,246.33
 17057,UI36,PilotAxis,Development,ring doorbell: sending notifications when we get ringing status,2019-03-07,01:55:00,1.9166666666666665,30.000202730098668,Senior Full-Stack Developer,57.5
 17058,UI35,Finizon,Development,Summary Component,2019-03-07,02:14:24,2.24,34.99945315348159,Senior Full-Stack Developer,78.4
@@ -17069,9 +17069,9 @@
 17069,UI31,GDP,DevOps,XXX AWS and Datadog onboarding,2019-03-07,00:29:55,0.4986111111111111,19.99970704555442,Devops,9.97
 17070,UI36,IntellHive,Development,marking the nexudus invoice paid and removing user from deadLetter,2019-03-07,00:26:00,0.43333333333333335,30.000202730098668,Senior Full-Stack Developer,13.0
 17071,UI20,Sinbuffer,Development,Attending XXX weekly,2019-03-07,00:54:02,0.9005555555555556,26.476039184537992,Back End Developer,23.84
-17072,UI29, Credious,QA,Updating automation flow,2019-03-07,00:01:19,0.021944444444444444,18.000116904372224,Quality Assurance,0.4
-17073,UI29, Credious,QA,Sanity testing on production,2019-03-07,00:20:24,0.33999999999999997,18.000116904372224,Quality Assurance,6.12
-17074,UI29, Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-07,00:55:04,0.9177777777777777,18.000116904372224,Quality Assurance,16.52
+17072,UI29,Credious,QA,Updating automation flow,2019-03-07,00:01:19,0.021944444444444444,18.000116904372224,Quality Assurance,0.4
+17073,UI29,Credious,QA,Sanity testing on production,2019-03-07,00:20:24,0.33999999999999997,18.000116904372224,Quality Assurance,6.12
+17074,UI29,Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-07,00:55:04,0.9177777777777777,18.000116904372224,Quality Assurance,16.52
 17075,UI31,GDP,DevOps,Fix training environment slack deploy approval,2019-03-07,00:40:45,0.6791666666666666,19.99970704555442,Devops,13.58
 17076,UI36,PilotAxis,Development,ring doorbell: sending notifications when we get ringing status,2019-03-07,04:38:00,4.633333333333333,30.000202730098668,Senior Full-Stack Developer,139.0
 17077,UI45,Finizon,Development,Deffered logic,2019-03-07,00:51:32,0.8588888888888888,53.06601671309192,Project Manager / Tech Lead,45.58
@@ -17080,25 +17080,25 @@
 17080,UI20,Finizon,Development,Minor changes to attemps PR,2019-03-07,01:30:35,1.5097222222222222,26.476039184537992,Back End Developer,39.97
 17081,UI35,Finizon,Development,Summary Component,2019-03-07,03:29:00,3.4833333333333334,34.99945315348159,Senior Full-Stack Developer,121.91
 17082,UI16,TeachZip,Development,Create dependency between /leads/generate and /recommend/response calls to partner-api,2019-03-07,00:22:22,0.37277777777777776,29.067543792549532,Full-Stack Developer,10.84
-17083,UI29, Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-07,00:46:36,0.7766666666666667,18.000116904372224,Quality Assurance,13.98
+17083,UI29,Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-07,00:46:36,0.7766666666666667,18.000116904372224,Quality Assurance,13.98
 17084,UI15,GDP,Development,"management talk with x, deployment talk with XXX, code review, stg QA and troubleshooting",2019-03-07,02:21:37,2.3602777777777777,29.888416578108394,Project Manager / Tech Lead,70.54
 17085,UI16,TeachZip,Development,Daily Meeting,2019-03-07,00:22:24,0.3733333333333333,29.067543792549532,Full-Stack Developer,10.85
 17086,UI45,Finizon,QA,Standup,2019-03-07,00:29:05,0.4847222222222222,53.06601671309192,Project Manager / Tech Lead,25.72
 17087,UI15,TeachZip,Development,daily standup,2019-03-07,00:15:00,0.25,29.888416578108394,Project Manager / Tech Lead,7.47
 17088,UI13,Credious,Development,"Debugging issue with user not being able to pull debts from Transunion in staging, remove agent_id support when verifying creditors with coprogram",2019-03-07,02:08:10,2.136111111111111,63.92045454545454,Senior Back End Developer,136.54
 17089,UI23,Credious,Development,testing locally the postgres script to import data from funnel to debt service,2019-03-07,00:16:14,0.27055555555555555,22.999681061427566,Back End Developer,6.22
-17090,UI29, Credious,QA,Updating automation flow,2019-03-07,00:28:42,0.47833333333333333,18.000116904372224,Quality Assurance,8.61
+17090,UI29,Credious,QA,Updating automation flow,2019-03-07,00:28:42,0.47833333333333333,18.000116904372224,Quality Assurance,8.61
 17091,UI45,IntellHive,Development,Bill 'SYSTRA',2019-03-07,00:05:42,0.095,53.06601671309192,Project Manager / Tech Lead,5.04
 17092,UI11,PilotAxis,QA,Write Sky meeting summary and create IoT devices list,2019-03-07,01:28:22,1.472777777777778,25.00111111111111,Quality Assurance,36.82
 17093,UI45,Finizon,Development,Deffered logic,2019-03-07,00:58:28,0.9744444444444444,53.06601671309192,Project Manager / Tech Lead,51.71
 17094,UI20,Finizon,Development,working on sf access token validation,2019-03-07,04:00:04,4.001111111111111,26.476039184537992,Back End Developer,105.93
-17095,UI29, Credious,QA,Updating automation flow,2019-03-07,00:34:17,0.5713888888888888,18.000116904372224,Quality Assurance,10.29
+17095,UI29,Credious,QA,Updating automation flow,2019-03-07,00:34:17,0.5713888888888888,18.000116904372224,Quality Assurance,10.29
 17096,UI26,Credious,Development,"When an enrollment agreement is created or updated, a callback should send XXX information to an external service",2019-03-07,00:51:41,0.8613888888888889,19.998799231508166,Junior Back End Developer,17.23
-17097,UI29, Credious,QA,Updating automation flow,2019-03-07,00:31:56,0.5322222222222223,18.000116904372224,Quality Assurance,9.58
+17097,UI29,Credious,QA,Updating automation flow,2019-03-07,00:31:56,0.5322222222222223,18.000116904372224,Quality Assurance,9.58
 17098,UI45,Finizon,Development,Deffered logic,2019-03-07,00:31:44,0.528888888888889,53.06601671309192,Project Manager / Tech Lead,28.07
 17099,UI06,GDP,DevOps,Make the VPN Changes for production,2019-03-07,00:13:00,0.21666666666666667,26.0,Senior Devops,5.63
 17100,UI16,TeachZip,Development,"[New FAFSA] Add design to the pre-lead funnel [Progress bar, blue bar and hide on scroll effect]",2019-03-07,02:02:30,2.0416666666666665,29.067543792549532,Full-Stack Developer,59.35
-17101,UI29, Credious,QA,Updating automation flow,2019-03-07,01:27:41,1.4613888888888888,18.000116904372224,Quality Assurance,26.31
+17101,UI29,Credious,QA,Updating automation flow,2019-03-07,01:27:41,1.4613888888888888,18.000116904372224,Quality Assurance,26.31
 17102,UI45,Finizon,DevOps,Data migration meeting,2019-03-07,00:26:15,0.4375,53.06601671309192,Project Manager / Tech Lead,23.22
 17103,UI23,Credious,Development,Testing debts service - checking job endpoint -  on staging env,2019-03-07,01:24:09,1.4024999999999999,22.999681061427566,Back End Developer,32.26
 17104,UI45,Finizon,Development,Sprint Planning,2019-03-07,01:23:09,1.3858333333333333,53.06601671309192,Project Manager / Tech Lead,73.54
@@ -17108,10 +17108,10 @@
 17108,UI45,Sinbuffer,Development,XXX Weekly,2019-03-07,01:01:10,1.0194444444444444,53.06601671309192,Project Manager / Tech Lead,54.1
 17109,UI08,Sinbuffer,DevOps,XXX Weekly,2019-03-07,00:54:58,0.9161111111111111,26.996885274268905,Devops,24.73
 17110,UI06,Sinbuffer,DevOps,XXX Weekly,2019-03-07,01:01:33,1.0258333333333334,26.0,Senior Devops,26.67
-17111,UI29, Credious,QA,QA Standup,2019-03-07,00:19:14,0.32055555555555554,18.000116904372224,Quality Assurance,5.77
+17111,UI29,Credious,QA,QA Standup,2019-03-07,00:19:14,0.32055555555555554,18.000116904372224,Quality Assurance,5.77
 17112,UI45,Sinbuffer,Development,Deffered logic,2019-03-07,00:33:22,0.5561111111111111,53.06601671309192,Project Manager / Tech Lead,29.51
 17113,UI32,PilotAxis,Development,finding the Ring doorbell app's deeplinking intents on iOS and Android,2019-03-07,01:53:16,1.8877777777777778,64.82347534602076,Project Manager / Tech Lead,122.37
-17114,UI29, Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-07,00:32:32,0.5422222222222222,18.000116904372224,Quality Assurance,9.76
+17114,UI29,Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-07,00:32:32,0.5422222222222222,18.000116904372224,Quality Assurance,9.76
 17115,UI17,BetterBooking,Development,Adding new design for new Plana page,2019-03-07,04:08:27,4.140833333333334,23.04100529100529,Junior Front End Developer,95.41
 17116,UI36,PilotAxis,Development,discussion with XXX on doorbell and notification status,2019-03-07,00:54:00,0.9,30.000202730098668,Senior Full-Stack Developer,27.0
 17117,UI35,Finizon,Development,Summary Component,2019-03-07,00:34:33,0.5758333333333333,34.99945315348159,Senior Full-Stack Developer,20.15
@@ -17129,19 +17129,19 @@
 17129,UI16,TeachZip,Development,"[New FAFSA] Add design to the pre-lead funnel [Progress bar, blue bar and hide on scroll effect]",2019-03-07,01:15:14,1.2538888888888888,29.067543792549532,Full-Stack Developer,36.45
 17130,UI23,Credious,Development,Testing debts service - checking job endpoint -  on staging env,2019-03-08,00:25:51,0.43083333333333335,22.999681061427566,Back End Developer,9.91
 17131,UI23,Credious,Development,Testing debts service - checking job endpoint -  on staging env,2019-03-08,00:16:14,0.27055555555555555,22.999681061427566,Back End Developer,6.22
-17132,UI29, Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-08,00:22:38,0.3772222222222222,18.000116904372224,Quality Assurance,6.79
-17133,UI29, Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-08,00:12:21,0.20583333333333334,18.000116904372224,Quality Assurance,3.71
+17132,UI29,Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-08,00:22:38,0.3772222222222222,18.000116904372224,Quality Assurance,6.79
+17133,UI29,Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-08,00:12:21,0.20583333333333334,18.000116904372224,Quality Assurance,3.71
 17134,UI20,Sinbuffer,Development,Attending one on one XXX meeting,2019-03-08,00:28:00,0.4666666666666667,26.476039184537992,Back End Developer,12.36
-17135,UI29, Credious,QA,Sanity testing on staging,2019-03-08,00:41:03,0.6841666666666667,18.000116904372224,Quality Assurance,12.32
+17135,UI29,Credious,QA,Sanity testing on staging,2019-03-08,00:41:03,0.6841666666666667,18.000116904372224,Quality Assurance,12.32
 17136,UI16,TeachZip,Development,"[New FAFSA] Add design to the pre-lead funnel [Progress bar, blue bar and hide on scroll effect]",2019-03-08,04:38:16,4.637777777777777,29.067543792549532,Full-Stack Developer,134.81
 17137,UI27,Credious,Development,"working on XXX: ""Getting error when uploading images to CMS"", ""improvements(Update packges,  Move css of components to styles folder, eslint, Add async action types, Replace bind(this) with arrow functions)""",2019-03-08,07:28:13,7.470277777777778,30.871343675233465,Front End Developer,230.62
 17138,UI35,Finizon,Development,Summary Component,2019-03-08,01:17:14,1.287222222222222,34.99945315348159,Senior Full-Stack Developer,45.05
-17139,UI29, Credious,QA,Checking triage tickets,2019-03-08,00:34:45,0.5791666666666666,18.000116904372224,Quality Assurance,10.43
+17139,UI29,Credious,QA,Checking triage tickets,2019-03-08,00:34:45,0.5791666666666666,18.000116904372224,Quality Assurance,10.43
 17140,UI15,GDP,Development,"management talks with QA and devops, help XXX with FE XXX improvements, management talk about CMS, sync with XXX",2019-03-08,05:37:02,5.617222222222223,29.888416578108394,Project Manager / Tech Lead,167.89
 17141,UI31,Finizon,DevOps,Debts staging shoryuken,2019-03-08,01:57:20,1.9555555555555555,19.99970704555442,Devops,39.11
 17142,UI35,Finizon,Development,Review - Add attempts logic,2019-03-08,00:13:13,0.2202777777777778,34.99945315348159,Senior Full-Stack Developer,7.71
 17143,UI37,PilotAxis,Development,1)go to ring app 2)push notifications,2019-03-08,07:51:12,7.853333333333333,30.50682936975664,Front End Developer,239.58
-17144,UI29, Credious,QA,Sanity testing on production,2019-03-08,00:01:15,0.020833333333333332,18.000116904372224,Quality Assurance,0.38
+17144,UI29,Credious,QA,Sanity testing on production,2019-03-08,00:01:15,0.020833333333333332,18.000116904372224,Quality Assurance,0.38
 17145,UI35,Finizon,Development,Optimise SF requests about users,2019-03-08,00:42:48,0.7133333333333333,34.99945315348159,Senior Full-Stack Developer,24.97
 17146,UI36,PilotAxis,Development,multiple push tokens for users,2019-03-08,03:30:00,3.5,30.000202730098668,Senior Full-Stack Developer,105.0
 17147,UI32,PilotAxis,Development,Call with XXX - ring doorbell app intents,2019-03-08,00:23:00,0.38333333333333336,64.82347534602076,Project Manager / Tech Lead,24.85
@@ -17150,23 +17150,23 @@
 17150,UI23,Credious,Development,[XXX Debts] testing Transunion and Equifax prospect with valid and wrong data,2019-03-08,02:29:49,2.4969444444444444,22.999681061427566,Back End Developer,57.43
 17151,UI11,Credious,QA,Testing debts migration,2019-03-08,00:55:00,0.9166666666666666,25.00111111111111,Quality Assurance,22.92
 17152,UI33,Finizon,Development,learning nodejs,2019-03-08,00:21:08,0.3522222222222222,54.99794220273777,Back End Developer,19.37
-17153,UI29, Credious,QA,Updating automation flow,2019-03-08,00:57:15,0.9541666666666666,18.000116904372224,Quality Assurance,17.18
+17153,UI29,Credious,QA,Updating automation flow,2019-03-08,00:57:15,0.9541666666666666,18.000116904372224,Quality Assurance,17.18
 17154,UI33,Finizon,Development,learning nodejs,2019-03-08,04:21:00,4.35,54.99794220273777,Back End Developer,239.24
 17155,UI45,Sinbuffer,Development,"""Notes"" and other info are missing from Review process",2019-03-08,01:57:49,1.963611111111111,53.06601671309192,Project Manager / Tech Lead,104.2
-17156,UI29, Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-08,00:45:17,0.7547222222222222,18.000116904372224,Quality Assurance,13.59
+17156,UI29,Credious,QA,Testing 02/25/19 - 03/10/19 Sprint,2019-03-08,00:45:17,0.7547222222222222,18.000116904372224,Quality Assurance,13.59
 17157,UI14,Credious,Development,"As an agent, I should be able to click recall prospect approval",2019-03-08,01:17:48,1.2966666666666666,27.25166916473634,Front End Developer,35.34
 17158,UI45,Finizon,Development,XXX - XXX - One on One,2019-03-08,00:31:06,0.5183333333333334,53.06601671309192,Project Manager / Tech Lead,27.51
 17159,UI16,TeachZip,Development,Daily Meeting,2019-03-08,00:28:56,0.4822222222222222,29.067543792549532,Full-Stack Developer,14.02
 17160,UI20,TeachZip,Development,Attending daily standup with XXX,2019-03-08,00:25:41,0.4280555555555556,26.476039184537992,Back End Developer,11.33
-17161,UI29, Credious,QA,Sanity testing on production,2019-03-08,00:14:34,0.2427777777777778,18.000116904372224,Quality Assurance,4.37
+17161,UI29,Credious,QA,Sanity testing on production,2019-03-08,00:14:34,0.2427777777777778,18.000116904372224,Quality Assurance,4.37
 17162,UI20,Finizon,Development,Working on creating csv-generator script,2019-03-08,04:39:00,4.65,26.476039184537992,Back End Developer,123.11
-17163,UI29, Credious,QA,Sanity testing on production,2019-03-08,00:11:49,0.19694444444444442,18.000116904372224,Quality Assurance,3.55
+17163,UI29,Credious,QA,Sanity testing on production,2019-03-08,00:11:49,0.19694444444444442,18.000116904372224,Quality Assurance,3.55
 17164,UI14,Credious,Development,Debuging ADR debts bug (Fetching ADR debts with XXX source) (Staging),2019-03-08,04:14:25,4.240277777777778,27.25166916473634,Front End Developer,115.55
-17165,UI29, Credious,QA,Testing Triage tickets with Re-test status,2019-03-08,00:27:09,0.4525,18.000116904372224,Quality Assurance,8.15
+17165,UI29,Credious,QA,Testing Triage tickets with Re-test status,2019-03-08,00:27:09,0.4525,18.000116904372224,Quality Assurance,8.15
 17166,UI31,Finizon,DevOps,Debts data migration,2019-03-08,03:24:52,3.4144444444444444,19.99970704555442,Devops,68.29
-17167,UI29, Credious,QA,Updating automation flow,2019-03-08,00:33:26,0.5572222222222223,18.000116904372224,Quality Assurance,10.03
+17167,UI29,Credious,QA,Updating automation flow,2019-03-08,00:33:26,0.5572222222222223,18.000116904372224,Quality Assurance,10.03
 17168,UI16,TeachZip,Development,"[New FAFSA] Add design to the pre-lead funnel [Progress bar, blue bar and hide on scroll effect]",2019-03-08,01:10:00,1.1666666666666667,29.067543792549532,Full-Stack Developer,33.91
-17169,UI29, Credious,QA,Sanity testing on staging,2019-03-08,00:52:39,0.8775000000000001,18.000116904372224,Quality Assurance,15.8
+17169,UI29,Credious,QA,Sanity testing on staging,2019-03-08,00:52:39,0.8775000000000001,18.000116904372224,Quality Assurance,15.8
 17170,UI45,Finizon,DevOps,DevOps Team Leaders Survey,2019-03-08,00:23:02,0.3838888888888889,53.06601671309192,Project Manager / Tech Lead,20.37
 17171,UI45,Finizon,Development,Cashflow field,2019-03-08,01:05:53,1.0980555555555556,53.06601671309192,Project Manager / Tech Lead,58.27
 17172,UI23,Credious,Development,Helping XXX to Setup XXX Debts project on his local machine,2019-03-08,00:51:51,0.8641666666666666,22.999681061427566,Back End Developer,19.88
@@ -17266,21 +17266,21 @@
 17266,UI24,CareBetter,Design,Working on some adjustments of the landing page 1 based on all the adjustments that I received by XXX,2019-03-11,11:17:00,11.283333333333333,19.9995183044316,Designer,225.66
 17267,UI11,Credious,QA,QA Team Meeting,2019-03-11,00:25:36,0.4266666666666667,25.00111111111111,Quality Assurance,10.67
 17268,UI08,Credious,DevOps,"Spread the info about VPN, write tutXXXals",2019-03-11,00:54:53,0.9147222222222222,26.996885274268905,Devops,24.69
-17269,UI29, Credious,QA,Sanity testing on staging,2019-03-11,00:37:18,0.6216666666666667,18.000116904372224,Quality Assurance,11.19
+17269,UI29,Credious,QA,Sanity testing on staging,2019-03-11,00:37:18,0.6216666666666667,18.000116904372224,Quality Assurance,11.19
 17270,UI22,Credious,DevOps,Fix Vpn conf  file for ubuntu  18.04 and comment the solution in the file https://docs.google.com/document/d/1ywaIxr05VR-9Qk7Rev7mX8GApMpJblPWlZYVEfRMsC0/edit,2019-03-11,00:29:00,0.48333333333333334,29.99865561281649,Devops,14.5
 17271,UI45,Finizon,DevOps,DevOps Planning,2019-03-11,00:17:02,0.28388888888888886,53.06601671309192,Project Manager / Tech Lead,15.06
 17272,UI06,Sinbuffer,DevOps,DevOps meeting,2019-03-11,00:27:10,0.4527777777777778,26.0,Senior Devops,11.77
 17273,UI45,GDP,DevOps,DevOps Sprint Planning,2019-03-11,00:20:53,0.34805555555555556,53.06601671309192,Project Manager / Tech Lead,18.47
 17274,UI08,Credious,DevOps,DevOps - Sprint Planning,2019-03-11,00:20:07,0.3352777777777778,26.996885274268905,Devops,9.05
-17275,UI29, Credious,QA,Sanity testing on production,2019-03-11,00:36:51,0.6141666666666666,18.000116904372224,Quality Assurance,11.06
+17275,UI29,Credious,QA,Sanity testing on production,2019-03-11,00:36:51,0.6141666666666666,18.000116904372224,Quality Assurance,11.06
 17276,UI14,Credious,Development,Sprint growming XXX,2019-03-11,00:59:14,0.9872222222222222,27.25166916473634,Front End Developer,26.9
 17277,UI37,PilotAxis,Development,XXX: Integrate C++ code,2019-03-11,08:02:00,8.033333333333333,30.50682936975664,Front End Developer,245.07
-17278,UI29, Credious,QA,Sanity testing on production,2019-03-11,00:12:18,0.20500000000000002,18.000116904372224,Quality Assurance,3.69
+17278,UI29,Credious,QA,Sanity testing on production,2019-03-11,00:12:18,0.20500000000000002,18.000116904372224,Quality Assurance,3.69
 17279,UI16,TeachZip,Development,[New FAFSA] Add design to the pre-lead funnel [Layout for pages],2019-03-11,04:08:37,4.143611111111111,29.067543792549532,Full-Stack Developer,120.44
 17280,UI01,GDP,Development,Emergency Software analysis / Meetings regarding on going issues,2019-03-11,11:22:31,11.375277777777779,52.4620446804826,Senior Full-Stack Developer,596.77
-17281,UI29, Credious,QA,Sanity testing on production,2019-03-11,00:03:23,0.05638888888888889,18.000116904372224,Quality Assurance,1.02
+17281,UI29,Credious,QA,Sanity testing on production,2019-03-11,00:03:23,0.05638888888888889,18.000116904372224,Quality Assurance,1.02
 17282,UI20,TeachZip,Development,Working on modify sms verification for test users,2019-03-11,01:44:00,1.7333333333333334,26.476039184537992,Back End Developer,45.89
-17283,UI29, Credious,QA,Sanity testing on staging,2019-03-11,00:06:22,0.10611111111111111,18.000116904372224,Quality Assurance,1.91
+17283,UI29,Credious,QA,Sanity testing on staging,2019-03-11,00:06:22,0.10611111111111111,18.000116904372224,Quality Assurance,1.91
 17284,UI32,PilotAxis,Development,"Ring doorbell intents, bug fixes and improvements from XXX's feedback",2019-03-11,07:29:31,7.491944444444444,64.82347534602076,Project Manager / Tech Lead,485.65
 17285,UI45,Finizon,Development,HR call with Gaurav,2019-03-11,00:09:09,0.1525,53.06601671309192,Project Manager / Tech Lead,8.09
 17286,UI06,Sinbuffer,DevOps,XXX_ea_logger service,2019-03-11,01:33:42,1.5616666666666668,26.0,Senior Devops,40.6
@@ -17291,7 +17291,7 @@
 17291,UI36,PilotAxis,Development,multiple push tokens for users,2019-03-11,03:40:00,3.6666666666666665,30.000202730098668,Senior Full-Stack Developer,110.0
 17292,UI14,Credious,Development,XXX Experience Weekly Standup,2019-03-11,01:18:51,1.3141666666666667,27.25166916473634,Front End Developer,35.81
 17293,UI11,Credious,QA,Planning and Post-Release bugs meetings,2019-03-11,01:13:41,1.2280555555555557,25.00111111111111,Quality Assurance,30.7
-17294,UI29, Credious,QA,Sanity testing on production,2019-03-11,00:22:41,0.37805555555555553,18.000116904372224,Quality Assurance,6.81
+17294,UI29,Credious,QA,Sanity testing on production,2019-03-11,00:22:41,0.37805555555555553,18.000116904372224,Quality Assurance,6.81
 17295,UI35,Sinbuffer,Development,XXX tests,2019-03-11,00:28:42,0.47833333333333333,34.99945315348159,Senior Full-Stack Developer,16.74
 17296,UI29,PilotAxis,QA,Setting up project and getting basic understanding,2019-03-11,00:40:15,0.6708333333333333,18.000116904372224,Quality Assurance,12.08
 17297,UI24,GDP,Design,XXX experience planning meeting,2019-03-11,01:00:00,1.0,19.9995183044316,Designer,20.0
@@ -17315,7 +17315,7 @@
 17315,UI46,Credious,QA,QA Sprint  Planning,2019-03-11,00:21:56,0.3655555555555555,14.001321877065433,Quality Assurance,5.12
 17316,UI36,PilotAxis,Development,multiple push tokens for users,2019-03-11,01:13:00,1.2166666666666668,30.000202730098668,Senior Full-Stack Developer,36.5
 17317,UI45,Sinbuffer,Development,XXX Demo,2019-03-11,00:39:26,0.6572222222222223,53.06601671309192,Project Manager / Tech Lead,34.88
-17318,UI29, Credious,QA,Working on XPRT production automation,2019-03-11,01:15:31,1.2586111111111111,18.000116904372224,Quality Assurance,22.66
+17318,UI29,Credious,QA,Working on XPRT production automation,2019-03-11,01:15:31,1.2586111111111111,18.000116904372224,Quality Assurance,22.66
 17319,UI45,Finizon,Development,Bermuda - Two types of file uploading,2019-03-11,00:20:26,0.34055555555555556,53.06601671309192,Project Manager / Tech Lead,18.07
 17320,UI36,PilotAxis,Development,stXXXng the snapshot in S3 and keep the link stored in history api,2019-03-11,01:29:00,1.4833333333333334,30.000202730098668,Senior Full-Stack Developer,44.5
 17321,UI45,Finizon,DevOps,DB workerts and threads issue,2019-03-11,00:59:23,0.9897222222222222,53.06601671309192,Project Manager / Tech Lead,52.52
@@ -17326,7 +17326,7 @@
 17326,UI45,Finizon,Development,XXX Experience Weekly Standup,2019-03-11,00:48:05,0.8013888888888889,53.06601671309192,Project Manager / Tech Lead,42.53
 17327,UI33,Finizon,Development,investigating offer-notes issue from tradelines api,2019-03-11,02:31:46,2.5294444444444446,54.99794220273777,Back End Developer,139.11
 17328,UI06,GDP,DevOps,Make the VPN Changes for production,2019-03-11,00:14:30,0.24166666666666667,26.0,Senior Devops,6.28
-17329,UI29, Credious,QA,QA Sprint planning,2019-03-11,00:14:23,0.23972222222222223,18.000116904372224,Quality Assurance,4.32
+17329,UI29,Credious,QA,QA Sprint planning,2019-03-11,00:14:23,0.23972222222222223,18.000116904372224,Quality Assurance,4.32
 17330,UI17,BetterBooking,Development,Add new globe design,2019-03-11,01:10:40,1.1777777777777778,23.04100529100529,Junior Front End Developer,27.14
 17331,UI06,GDP,DevOps,XXX_ea_logger service,2019-03-11,02:14:23,2.2397222222222224,26.0,Senior Devops,58.23
 17332,UI45,GDP,Development,Help X with XXX,2019-03-11,00:07:15,0.12083333333333333,53.06601671309192,Project Manager / Tech Lead,6.41
@@ -17342,18 +17342,18 @@
 17342,UI08,Credious,DevOps,Debug XXX Prod issue,2019-03-11,04:15:29,4.258055555555556,26.996885274268905,Devops,114.95
 17343,UI06,GDP,DevOps,agent deploy fail,2019-03-11,00:50:21,0.8391666666666667,26.0,Senior Devops,21.82
 17344,UI16,TeachZip,Development,[New FAFSA] Add design to the pre-lead funnel [Layout for pages],2019-03-11,01:30:00,1.5,29.067543792549532,Full-Stack Developer,43.6
-17345,UI29, Credious,QA,XXX Experience Weekly Standup,2019-03-11,01:14:53,1.2480555555555557,18.000116904372224,Quality Assurance,22.47
+17345,UI29,Credious,QA,XXX Experience Weekly Standup,2019-03-11,01:14:53,1.2480555555555557,18.000116904372224,Quality Assurance,22.47
 17346,UI15,GDP,Development,migrating information from debt service to funnel,2019-03-11,01:37:12,1.62,29.888416578108394,Project Manager / Tech Lead,48.42
 17347,UI14,Credious,Development,Rollback XXX,2019-03-11,01:00:14,1.0038888888888888,27.25166916473634,Front End Developer,27.36
 17348,UI13,Credious,Development,Debugging and fixing issues after data migration,2019-03-12,04:01:08,4.018888888888889,63.92045454545454,Senior Back End Developer,256.89
 17349,UI15,Credious,Development,prod troubleshooting,2019-03-12,01:07:38,1.1272222222222223,29.888416578108394,Project Manager / Tech Lead,33.69
 17350,UI16,TeachZip,Development,[New FAFSA] Add design to the pre-lead funnel [Layout for pages],2019-03-12,04:11:47,4.196388888888889,29.067543792549532,Full-Stack Developer,121.98
 17351,UI24,CareBetter,Design,Working on finish the option 2 of the landing page that I've been discussed with XXX,2019-03-12,03:24:00,3.4,19.9995183044316,Designer,68.0
-17352,UI29, Credious,QA,Sanity testing on staging,2019-03-12,00:38:32,0.6422222222222221,18.000116904372224,Quality Assurance,11.56
+17352,UI29,Credious,QA,Sanity testing on staging,2019-03-12,00:38:32,0.6422222222222221,18.000116904372224,Quality Assurance,11.56
 17353,UI15,Credious,Development,"management talks, sprint adjustments,sprint meeting,",2019-03-12,03:49:38,3.827222222222222,29.888416578108394,Project Manager / Tech Lead,114.39
 17354,UI27,Credious,Development,"working on XXX ""As an agent I should be able to add new add-on to a prospect""",2019-03-12,07:02:22,7.039444444444444,30.871343675233465,Front End Developer,217.32
 17355,UI06,GDP,DevOps,XXX_ea_logger service,2019-03-12,00:44:02,0.7338888888888888,26.0,Senior Devops,19.08
-17356,UI29, Credious,QA,Sanity testing on production,2019-03-12,00:58:18,0.9716666666666667,18.000116904372224,Quality Assurance,17.49
+17356,UI29,Credious,QA,Sanity testing on production,2019-03-12,00:58:18,0.9716666666666667,18.000116904372224,Quality Assurance,17.49
 17357,UI22,Credious,DevOps,Kick Off with x,2019-03-12,00:29:10,0.4861111111111111,29.99865561281649,Devops,14.58
 17358,UI26,Credious,Development,"As an agent, I should be able to subscribe a user to an addon",2019-03-12,03:49:15,3.8208333333333333,19.998799231508166,Junior Back End Developer,76.41
 17359,UI35,Sinbuffer,Development,XXX update rates calculation,2019-03-12,03:12:24,3.206666666666667,34.99945315348159,Senior Full-Stack Developer,112.23
@@ -17382,14 +17382,14 @@
 17382,UI15,TeachZip,Development,daily standup,2019-03-12,00:15:00,0.25,29.888416578108394,Project Manager / Tech Lead,7.47
 17383,UI20,TeachZip,Development,Attending daily standup with XXX,2019-03-12,00:26:50,0.44722222222222224,26.476039184537992,Back End Developer,11.84
 17384,UI35,Sinbuffer,Development,XXX update rates calculation,2019-03-12,03:57:26,3.957222222222222,34.99945315348159,Senior Full-Stack Developer,138.5
-17385,UI29, Credious,QA,Sanity testing on production,2019-03-12,01:00:02,1.0005555555555556,18.000116904372224,Quality Assurance,18.01
+17385,UI29,Credious,QA,Sanity testing on production,2019-03-12,01:00:02,1.0005555555555556,18.000116904372224,Quality Assurance,18.01
 17386,UI33,Finizon,Development,investigating offer-notes issue from tradelines api+ start planning the creditor filter,2019-03-12,02:07:10,2.1194444444444445,54.99794220273777,Back End Developer,116.57
 17387,UI20,Finizon,Development,Working on Accept offer from any status,2019-03-12,00:15:58,0.26611111111111113,26.476039184537992,Back End Developer,7.05
 17388,UI32,AgeSolvency,Development,team improvement plan,2019-03-12,01:18:00,1.3,64.82347534602076,Project Manager / Tech Lead,84.27
 17389,UI45,Finizon,Development,Weekly with XXX,2019-03-12,00:46:08,0.768888888888889,53.06601671309192,Project Manager / Tech Lead,40.8
 17390,UI20,Finizon,Development,Working on duplicate programs,2019-03-12,01:01:25,1.023611111111111,26.476039184537992,Back End Developer,27.1
 17391,UI26,Credious,Development,"As an agent, I should be able to subscribe a user to an addon",2019-03-12,03:42:51,3.714166666666667,19.998799231508166,Junior Back End Developer,74.28
-17392,UI29, Credious,QA,Sanity testing on production,2019-03-12,00:55:05,0.9180555555555555,18.000116904372224,Quality Assurance,16.53
+17392,UI29,Credious,QA,Sanity testing on production,2019-03-12,00:55:05,0.9180555555555555,18.000116904372224,Quality Assurance,16.53
 17393,UI13,Credious,Development,Debugging issue with prospects creation in prod,2019-03-12,00:42:24,0.7066666666666667,63.92045454545454,Senior Back End Developer,45.17
 17394,UI06,Fintech,DevOps,Claude P connect to the XXX,2019-03-12,00:27:00,0.45,26.0,Senior Devops,11.7
 17395,UI45,Finizon,Development,Program can be uploaded twice (different file),2019-03-12,00:30:54,0.515,53.06601671309192,Project Manager / Tech Lead,27.33
@@ -17397,21 +17397,21 @@
 17397,UI45,Finizon,Development,XXX Team Sprint Planning,2019-03-12,00:41:17,0.6880555555555555,53.06601671309192,Project Manager / Tech Lead,36.51
 17398,UI06,Fintech,DevOps,XXX Team Sprint Planning,2019-03-12,00:40:18,0.6716666666666666,26.0,Senior Devops,17.46
 17399,UI08,Credious,DevOps,XXX Team Sprint Planning,2019-03-12,00:39:41,0.6613888888888889,26.996885274268905,Devops,17.86
-17400,UI29, Credious,QA,Sanity testing on staging,2019-03-12,00:06:34,0.10944444444444446,18.000116904372224,Quality Assurance,1.97
+17400,UI29,Credious,QA,Sanity testing on staging,2019-03-12,00:06:34,0.10944444444444446,18.000116904372224,Quality Assurance,1.97
 17401,UI23,Credious,Development,"[XXX GDS] Working AddOns feature, reviewing flow of offers",2019-03-12,01:14:56,1.248888888888889,22.999681061427566,Back End Developer,28.72
 17402,UI29,PilotAxis,QA,Setting up simulators in smartthings,2019-03-12,00:30:16,0.5044444444444445,18.000116904372224,Quality Assurance,9.08
 17403,UI45,Sinbuffer,DevOps,AWS - call with XXX,2019-03-12,00:26:06,0.435,53.06601671309192,Project Manager / Tech Lead,23.08
 17404,UI33,Finizon,Development,start planning the creditor filter+developing backend side,2019-03-12,02:08:45,2.1458333333333335,54.99794220273777,Back End Developer,118.02
 17405,UI31,GDP,DevOps,Restore database migration,2019-03-12,02:30:00,2.5,19.99970704555442,Devops,50.0
 17406,UI06,GDP,DevOps,Read-Only Redshift user for XXX,2019-03-12,00:14:30,0.24166666666666667,26.0,Senior Devops,6.28
-17407,UI29, Credious,QA,Sanity testing on production,2019-03-12,00:47:59,0.7997222222222222,18.000116904372224,Quality Assurance,14.4
+17407,UI29,Credious,QA,Sanity testing on production,2019-03-12,00:47:59,0.7997222222222222,18.000116904372224,Quality Assurance,14.4
 17408,UI35,Finizon,Development,XXX sprint planning,2019-03-12,00:45:41,0.7613888888888889,34.99945315348159,Senior Full-Stack Developer,26.65
 17409,UI35,Sinbuffer,Development,XXX update rates calculation,2019-03-12,00:22:56,0.3822222222222222,34.99945315348159,Senior Full-Stack Developer,13.38
 17410,UI06,GDP,DevOps,Read-Only Redshift user for XXX,2019-03-12,00:09:10,0.15277777777777776,26.0,Senior Devops,3.97
 17411,UI45,GDP,DevOps,Add 'Bermuda' beneficiary option to XXX fields,2019-03-12,00:22:32,0.37555555555555553,53.06601671309192,Project Manager / Tech Lead,19.93
 17412,UI26,Credious,Development,"As an agent, I should be able to subscribe a user to an addon",2019-03-12,03:04:29,3.0747222222222224,19.998799231508166,Junior Back End Developer,61.49
-17413,UI29, Credious,QA,Sanity testing on production,2019-03-12,00:24:34,0.40944444444444444,18.000116904372224,Quality Assurance,7.37
-17414,UI29, Credious,QA,Working on XPRT production automation,2019-03-12,01:19:00,1.3166666666666667,18.000116904372224,Quality Assurance,23.7
+17413,UI29,Credious,QA,Sanity testing on production,2019-03-12,00:24:34,0.40944444444444444,18.000116904372224,Quality Assurance,7.37
+17414,UI29,Credious,QA,Working on XPRT production automation,2019-03-12,01:19:00,1.3166666666666667,18.000116904372224,Quality Assurance,23.7
 17415,UI16,TeachZip,Development,[New FAFSA] Add design to the pre-lead funnel [Layout for pages],2019-03-12,01:36:11,1.6030555555555557,29.067543792549532,Full-Stack Developer,46.6
 17416,UI11,Credious,QA,Catching up to prod bugs and automation review,2019-03-12,00:47:33,0.7925,25.00111111111111,Quality Assurance,19.81
 17417,UI35,Sinbuffer,Development,XXX tasks analysis,2019-03-12,01:45:46,1.7627777777777778,34.99945315348159,Senior Full-Stack Developer,61.7
@@ -17421,7 +17421,7 @@
 17421,UI22,Credious,DevOps,Kick Off with XXX - Review Accounts - Access and getting familiar with the Environments,2019-03-13,00:08:58,0.14944444444444444,29.99865561281649,Devops,4.48
 17422,UI22,Credious,DevOps,Kick Off with XXX - Review Accounts - Access and getting familiar with the Environments,2019-03-13,01:05:10,1.086111111111111,29.99865561281649,Devops,32.58
 17423,UI20,Finizon,Development,Working on adding context to logs,2019-03-13,00:45:50,0.7638888888888888,26.476039184537992,Back End Developer,20.22
-17424,UI29, Credious,QA,Sanity testing on production,2019-03-13,00:59:50,0.9972222222222221,18.000116904372224,Quality Assurance,17.95
+17424,UI29,Credious,QA,Sanity testing on production,2019-03-13,00:59:50,0.9972222222222221,18.000116904372224,Quality Assurance,17.95
 17425,UI16,TeachZip,Development,[New FAFSA] Add design to the pre-lead funnel [Adjusting tooltips and adding strips to progress bar],2019-03-13,03:43:31,3.725277777777778,29.067543792549532,Full-Stack Developer,108.28
 17426,UI37,PilotAxis,Development,XXX: bug fixes on C++ crash,2019-03-13,08:04:00,8.066666666666666,30.50682936975664,Front End Developer,246.09
 17427,UI35,Finizon,Development,Review - Program can be uploaded twice (different file),2019-03-13,02:54:16,2.904444444444444,34.99945315348159,Senior Full-Stack Developer,101.65
@@ -17433,7 +17433,7 @@
 17433,UI20,Finizon,Development,Working on adding context to logs,2019-03-13,01:05:22,1.0894444444444444,26.476039184537992,Back End Developer,28.84
 17434,UI01,GDP,Development,Detecting bug in production / Meeting regarding bugs in production / Code Quality Assurance,2019-03-13,09:09:13,9.153611111111111,52.4620446804826,Senior Full-Stack Developer,480.22
 17435,UI15,Credious,Development,"troubleshoot, fix and test ownership issue in prod, management talks",2019-03-13,09:49:59,9.833055555555555,29.888416578108394,Project Manager / Tech Lead,293.89
-17436,UI29, Credious,QA,Working on XPRT production automation,2019-03-13,01:09:44,1.162222222222222,18.000116904372224,Quality Assurance,20.92
+17436,UI29,Credious,QA,Working on XPRT production automation,2019-03-13,01:09:44,1.162222222222222,18.000116904372224,Quality Assurance,20.92
 17437,UI13,Credious,Development,Meeting with the dev team to discuss issue with wrong ownership when creating prospects and debugging the issue in production,2019-03-13,02:01:26,2.0238888888888886,63.92045454545454,Senior Back End Developer,129.37
 17438,UI36,WeVape,Development,"deployment to testing, PR and fixes: In-store notifications and text changes",2019-03-13,02:15:00,2.25,30.000202730098668,Senior Full-Stack Developer,67.5
 17439,UI32,PilotAxis,Development,Call with XXX - deeplinking doorbell,2019-03-13,01:44:30,1.7416666666666667,64.82347534602076,Project Manager / Tech Lead,112.9
@@ -17446,37 +17446,37 @@
 17446,UI11,Credious,QA,Review QA Procees,2019-03-13,00:37:00,0.6166666666666667,25.00111111111111,Quality Assurance,15.42
 17447,UI14,Credious,Development,Prospect owner bug,2019-03-13,02:19:05,2.3180555555555555,27.25166916473634,Front End Developer,63.17
 17448,UI06,Sinbuffer,DevOps,Add tests to CI/CD (with XXX),2019-03-13,03:21:32,3.358888888888889,26.0,Senior Devops,87.33
-17449,UI29, Credious,QA,Working on XPRT production automation,2019-03-13,00:43:47,0.7297222222222223,18.000116904372224,Quality Assurance,13.14
+17449,UI29,Credious,QA,Working on XPRT production automation,2019-03-13,00:43:47,0.7297222222222223,18.000116904372224,Quality Assurance,13.14
 17450,UI26,Credious,Development,"As an agent, I should be able to subscribe a user to an addon",2019-03-13,05:32:46,5.546111111111111,19.998799231508166,Junior Back End Developer,110.92
 17451,UI46,Credious,QA,call with x,2019-03-13,00:22:06,0.3683333333333333,14.001321877065433,Quality Assurance,5.16
 17452,UI23,Credious,Development,"[XXX GDS] Working AddOns feature, continue reviewing offers endpoints and checking XXX programs details flow",2019-03-13,01:33:50,1.5638888888888889,22.999681061427566,Back End Developer,35.97
 17453,UI36,WeVape,Development,deployment to production and testing,2019-03-13,00:55:31,0.9252777777777778,30.000202730098668,Senior Full-Stack Developer,27.76
-17454,UI29, Credious,QA,Sanity testing on staging,2019-03-13,00:25:02,0.4172222222222222,18.000116904372224,Quality Assurance,7.51
+17454,UI29,Credious,QA,Sanity testing on staging,2019-03-13,00:25:02,0.4172222222222222,18.000116904372224,Quality Assurance,7.51
 17455,UI35,Sinbuffer,Development,XXX tasks analysis,2019-03-13,00:24:43,0.41194444444444445,34.99945315348159,Senior Full-Stack Developer,14.42
 17456,UI16,TeachZip,Development,Estimating tasks,2019-03-13,00:26:04,0.43444444444444447,29.067543792549532,Full-Stack Developer,12.63
-17457,UI29, Credious,QA,Sanity testing on staging,2019-03-13,00:24:56,0.41555555555555557,18.000116904372224,Quality Assurance,7.48
+17457,UI29,Credious,QA,Sanity testing on staging,2019-03-13,00:24:56,0.41555555555555557,18.000116904372224,Quality Assurance,7.48
 17458,UI13,Credious,Development,"Brainstorming prod issue with with x and XXX and doing a hotfix, preparing script in CRM to pull recent created prospects and running it on production",2019-03-13,04:14:45,4.245833333333334,63.92045454545454,Senior Back End Developer,271.4
 17459,UI16,TeachZip,Development,Daily Meeting,2019-03-13,00:14:09,0.23583333333333334,29.067543792549532,Full-Stack Developer,6.86
 17460,UI20,TeachZip,Development,Attending daily standup with XXX,2019-03-13,00:12:37,0.21027777777777779,26.476039184537992,Back End Developer,5.57
-17461,UI29, Credious,QA,Fixing some automation scenarios in production,2019-03-13,00:56:04,0.9344444444444444,18.000116904372224,Quality Assurance,16.82
+17461,UI29,Credious,QA,Fixing some automation scenarios in production,2019-03-13,00:56:04,0.9344444444444444,18.000116904372224,Quality Assurance,16.82
 17462,UI32,PilotAxis,Development,Code refactor and improvement,2019-03-13,02:36:43,2.6119444444444446,64.82347534602076,Project Manager / Tech Lead,169.32
 17463,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-13,02:42:59,2.716388888888889,27.25166916473634,Front End Developer,74.03
 17464,UI20,TeachZip,Development,Working on support a new set of interests,2019-03-13,00:33:14,0.553888888888889,26.476039184537992,Back End Developer,14.66
 17465,UI35,Sinbuffer,Development,XXX tasks analysis,2019-03-13,02:21:09,2.3525,34.99945315348159,Senior Full-Stack Developer,82.34
 17466,UI08,PilotAxis,DevOps,Set up s3 user and access,2019-03-13,00:18:11,0.3030555555555555,26.996885274268905,Devops,8.18
 17467,UI36,PilotAxis,Development,setting up expo and mobile app,2019-03-13,00:44:07,0.7352777777777777,30.000202730098668,Senior Full-Stack Developer,22.06
-17468,UI29, Credious,QA,Working on the CICD on production using automation,2019-03-13,00:09:07,0.15194444444444444,18.000116904372224,Quality Assurance,2.74
+17468,UI29,Credious,QA,Working on the CICD on production using automation,2019-03-13,00:09:07,0.15194444444444444,18.000116904372224,Quality Assurance,2.74
 17469,UI15,TeachZip,Development,daily standup,2019-03-13,00:15:00,0.25,29.888416578108394,Project Manager / Tech Lead,7.47
 17470,UI33,Finizon,Development,developing frontend side of creditor filter,2019-03-13,02:48:40,2.811111111111111,54.99794220273777,Back End Developer,154.61
 17471,UI36,PilotAxis,Development,setting up expo and mobile app,2019-03-13,01:59:01,1.9836111111111112,30.000202730098668,Senior Full-Stack Developer,59.51
 17472,UI06,Sinbuffer,DevOps,Close public access for XXX Debts production,2019-03-13,00:43:33,0.7258333333333333,26.0,Senior Devops,18.87
-17473,UI29, Credious,QA,Fixing some automation scenarios in production,2019-03-13,00:46:08,0.768888888888889,18.000116904372224,Quality Assurance,13.84
+17473,UI29,Credious,QA,Fixing some automation scenarios in production,2019-03-13,00:46:08,0.768888888888889,18.000116904372224,Quality Assurance,13.84
 17474,UI23,Credious,Development,"[XXX GDS] Working AddOns feature, continue reviewing offers endpoints and checking XXX programs details flow",2019-03-13,02:25:54,2.4316666666666666,22.999681061427566,Back End Developer,55.93
 17475,UI32,PilotAxis,Development,Code review - uploading snapshot to S3 and saving expo tokens to notification table,2019-03-13,01:11:44,1.1955555555555555,64.82347534602076,Project Manager / Tech Lead,77.5
 17476,UI06,GDP,DevOps,Add tests to CI/CD (with XXX),2019-03-13,01:13:04,1.2177777777777778,26.0,Senior Devops,31.66
 17477,UI35,Finizon,Development,Bermuda - Two types of file uploading,2019-03-13,02:09:18,2.155,34.99945315348159,Senior Full-Stack Developer,75.42
 17478,UI20,Finizon,Development,Working on external beneficiary API,2019-03-13,00:38:00,0.6333333333333333,26.476039184537992,Back End Developer,16.77
-17479,UI29, Credious,QA,Working on XPRT production automation,2019-03-13,00:11:04,0.18444444444444444,18.000116904372224,Quality Assurance,3.32
+17479,UI29,Credious,QA,Working on XPRT production automation,2019-03-13,00:11:04,0.18444444444444444,18.000116904372224,Quality Assurance,3.32
 17480,UI14,Credious,Development,login bug on improvement branch (Migue),2019-03-13,01:09:03,1.1508333333333332,27.25166916473634,Front End Developer,31.36
 17481,UI20,Finizon,Development,Working on updating beneficiary to XXX in payments,2019-03-13,00:04:57,0.0825,26.476039184537992,Back End Developer,2.18
 17482,UI20,TeachZip,Development,Working on support a new set of interests,2019-03-13,03:56:18,3.9383333333333335,26.476039184537992,Back End Developer,104.27
@@ -17492,16 +17492,16 @@
 17492,UI11,Credious,QA,Create Jmeter Performance Test Plan,2019-03-13,02:33:13,2.553611111111111,25.00111111111111,Quality Assurance,63.84
 17493,UI08,Credious,DevOps,Debug XXX Debts,2019-03-13,00:46:56,0.7822222222222223,26.996885274268905,Devops,21.12
 17494,UI31,GDP,DevOps,XXX onboarding,2019-03-13,00:11:56,0.19888888888888887,19.99970704555442,Devops,3.98
-17495,UI29, Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-13,01:01:42,1.0283333333333333,18.000116904372224,Quality Assurance,18.51
+17495,UI29,Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-13,01:01:42,1.0283333333333333,18.000116904372224,Quality Assurance,18.51
 17496,UI06,GDP,DevOps,XXX Debts production VPC peering,2019-03-13,00:29:48,0.49666666666666665,26.0,Senior Devops,12.91
 17497,UI20,TeachZip,Development,Working on support a new set of interests,2019-03-13,00:53:09,0.8858333333333333,26.476039184537992,Back End Developer,23.45
-17498,UI29, Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-13,00:40:36,0.6766666666666666,18.000116904372224,Quality Assurance,12.18
+17498,UI29,Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-13,00:40:36,0.6766666666666666,18.000116904372224,Quality Assurance,12.18
 17499,UI23,Credious,Development,"[XXX GDS] Working AddOns feature, continue reviewing offers endpoints and checking XXX programs details flow",2019-03-13,01:11:55,1.198611111111111,22.999681061427566,Back End Developer,27.57
 17500,UI16,TeachZip,Development,[New FAFSA] Add design to the pre-lead funnel [Triggering hidding top bar animation on click event and adjusting UI on Recommendations screen],2019-03-13,01:30:00,1.5,29.067543792549532,Full-Stack Developer,43.6
 17501,UI35,Finizon,Development,Bermuda - Two types of file uploading,2019-03-13,01:13:42,1.2283333333333335,34.99945315348159,Senior Full-Stack Developer,42.99
 17502,UI16,TeachZip,Development,Can't submit from develop,2019-03-14,00:53:00,0.8833333333333333,29.067543792549532,Full-Stack Developer,25.68
 17503,UI15,Credious,Development,"maagement talks, sprint status, code review",2019-03-14,04:26:41,4.4447222222222225,29.888416578108394,Project Manager / Tech Lead,132.85
-17504,UI29, Credious,QA,Sanity testing on production,2019-03-14,01:09:56,1.1655555555555555,18.000116904372224,Quality Assurance,20.98
+17504,UI29,Credious,QA,Sanity testing on production,2019-03-14,01:09:56,1.1655555555555555,18.000116904372224,Quality Assurance,20.98
 17505,UI35,Finizon,Development,Bermuda - Two types of file uploading,2019-03-14,00:20:03,0.33416666666666667,34.99945315348159,Senior Full-Stack Developer,11.7
 17506,UI11,Credious,QA,QA Meeting and Performance Testing setup/execution to Create Propects endpoint,2019-03-14,02:01:03,2.0175,25.00111111111111,Quality Assurance,50.44
 17507,UI13,Credious,Development,"Creating PRs for agent and CRM, internal meeting with the dev team to discuss add ons implementation on GDS, debugging issuw with prospect having affiiate in firm_name",2019-03-14,04:35:22,4.589444444444444,63.92045454545454,Senior Back End Developer,293.36
@@ -17510,18 +17510,18 @@
 17510,UI22,Credious,DevOps,DevOps - Weekly,2019-03-14,00:25:00,0.4166666666666667,29.99865561281649,Devops,12.5
 17511,UI37,PilotAxis,Development,"XXX: Impoving C++ code, added debugging info",2019-03-14,08:00:00,8.0,30.50682936975664,Front End Developer,244.05
 17512,UI36,PilotAxis,Development,Deep linking to live view,2019-03-14,02:27:00,2.45,30.000202730098668,Senior Full-Stack Developer,73.5
-17513,UI29, Credious,QA,Sanity testing on production,2019-03-14,00:16:40,0.2777777777777778,18.000116904372224,Quality Assurance,5.0
+17513,UI29,Credious,QA,Sanity testing on production,2019-03-14,00:16:40,0.2777777777777778,18.000116904372224,Quality Assurance,5.0
 17514,UI20,TeachZip,Development,Working on reviewing submit bug in develop,2019-03-14,02:04:00,2.066666666666667,26.476039184537992,Back End Developer,54.72
 17515,UI24,CareBetter,Design,"Working on a new design proposal of the XXX website, we are focusing to show something more like a web application",2019-03-14,06:02:00,6.033333333333333,19.9995183044316,Designer,120.66
 17516,UI23,Credious,Development,[XXX GDS] Working AddOns feature,2019-03-14,03:09:37,3.1602777777777775,22.999681061427566,Back End Developer,72.69
-17517,UI29, Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-14,02:20:07,2.335277777777778,18.000116904372224,Quality Assurance,42.04
+17517,UI29,Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-14,02:20:07,2.335277777777778,18.000116904372224,Quality Assurance,42.04
 17518,UI27,Credious,Development,"working on XXX: ""improvements(checking state error)""",2019-03-14,05:19:00,5.316666666666666,30.871343675233465,Front End Developer,164.13
 17519,UI46,AgeSolvency,QA,data mapping SF vs Client portal and formulas,2019-03-14,02:49:47,2.829722222222222,14.001321877065433,Quality Assurance,39.62
 17520,UI45,Finizon,Development,Approval experience requirements,2019-03-14,02:24:16,2.404444444444444,53.06601671309192,Project Manager / Tech Lead,127.59
 17521,UI26,Credious,Development,"When an enrollment agreement is created or updated, a callback should send XXX information to an external service",2019-03-14,07:01:35,7.026388888888889,19.998799231508166,Junior Back End Developer,140.52
 17522,UI20,TeachZip,Development,Working on reviewing status check jobs,2019-03-14,00:16:48,0.27999999999999997,26.476039184537992,Back End Developer,7.41
 17523,UI36,WeVape,Development,Korona: stock maintenance quantity wise,2019-03-14,03:50:00,3.8333333333333335,30.000202730098668,Senior Full-Stack Developer,115.0
-17524,UI29, Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-14,00:32:12,0.5366666666666666,18.000116904372224,Quality Assurance,9.66
+17524,UI29,Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-14,00:32:12,0.5366666666666666,18.000116904372224,Quality Assurance,9.66
 17525,UI20,TeachZip,Development,Attending daily standup with XXX,2019-03-14,00:13:07,0.21861111111111112,26.476039184537992,Back End Developer,5.79
 17526,UI16,TeachZip,Development,Daily Meeting,2019-03-14,00:12:09,0.2025,29.067543792549532,Full-Stack Developer,5.89
 17527,UI20,TeachZip,Development,Working on reviewing status check jobs,2019-03-14,01:30:40,1.511111111111111,26.476039184537992,Back End Developer,40.01
@@ -17532,14 +17532,14 @@
 17532,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-14,02:38:25,2.640277777777778,27.25166916473634,Front End Developer,71.95
 17533,UI45,Finizon,Development,"Add ""Creditors"" filter to ""Tradelines"" and ""Eligible Accounts"" tabs",2019-03-14,01:07:56,1.1322222222222222,53.06601671309192,Project Manager / Tech Lead,60.08
 17534,UI15,TeachZip,Development,daily standup,2019-03-14,00:15:00,0.25,29.888416578108394,Project Manager / Tech Lead,7.47
-17535,UI29, Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-14,00:03:55,0.06527777777777778,18.000116904372224,Quality Assurance,1.18
+17535,UI29,Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-14,00:03:55,0.06527777777777778,18.000116904372224,Quality Assurance,1.18
 17536,UI13,Credious,Development,"Testing training environment, debugging different issues and making a list with remaining things to do in order to have it ready, debugging XXX issue with offer notes and meeting with XXX to dicuss the issue",2019-03-14,02:24:18,2.405,63.92045454545454,Senior Back End Developer,153.73
 17537,UI29,PilotAxis,QA,Setting up simulators in smartthings and Twilio,2019-03-14,01:22:45,1.3791666666666667,18.000116904372224,Quality Assurance,24.83
 17538,UI45,Sinbuffer,QA,Standup,2019-03-14,00:20:47,0.34638888888888886,53.06601671309192,Project Manager / Tech Lead,18.38
 17539,UI06,Sinbuffer,DevOps,XXX prod,2019-03-14,02:25:00,2.4166666666666665,26.0,Senior Devops,62.83
 17540,UI45,Finizon,Development,Release Schedule,2019-03-14,00:57:46,0.9627777777777777,53.06601671309192,Project Manager / Tech Lead,51.09
 17541,UI46,Credious,QA,QA Standup,2019-03-14,00:22:26,0.3738888888888889,14.001321877065433,Quality Assurance,5.23
-17542,UI29, Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-14,02:22:00,2.3666666666666667,18.000116904372224,Quality Assurance,42.6
+17542,UI29,Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-14,02:22:00,2.3666666666666667,18.000116904372224,Quality Assurance,42.6
 17543,UI22,Credious,DevOps,XXX New Networking Deployment Plan /// documentation and terraform code review,2019-03-14,00:17:47,0.29638888888888887,29.99865561281649,Devops,8.89
 17544,UI20,TeachZip,Development,Working on reviewing status check jobs,2019-03-14,00:56:36,0.9433333333333334,26.476039184537992,Back End Developer,24.98
 17545,UI20,Finizon,Development,Working on documents,2019-03-14,01:18:51,1.3141666666666667,26.476039184537992,Back End Developer,34.79
@@ -17578,7 +17578,7 @@
 17578,UI06,Sinbuffer,DevOps,XXX prod Slack Approve,2019-03-15,04:48:10,4.802777777777778,26.0,Senior Devops,124.87
 17579,UI37,PilotAxis,Development,"XXX: update C++ code, try the code with a sequence of images",2019-03-15,06:01:43,6.028611111111111,30.50682936975664,Front End Developer,183.91
 17580,UI27,Credious,Development,"working on XXX: ""improvements( fixes react redux)"", ""As an agent I should be able to add new add-on to a prospect""",2019-03-15,08:05:48,8.096666666666668,30.871343675233465,Front End Developer,249.95
-17581,UI29, Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-15,02:08:11,2.136388888888889,18.000116904372224,Quality Assurance,38.46
+17581,UI29,Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-15,02:08:11,2.136388888888889,18.000116904372224,Quality Assurance,38.46
 17582,UI35,Sinbuffer,Development,XXX UI extras,2019-03-15,02:36:11,2.6030555555555557,34.99945315348159,Senior Full-Stack Developer,91.11
 17583,UI01,GDP,Development,Testing the debts-service,2019-03-15,01:56:51,1.9475,52.4620446804826,Senior Full-Stack Developer,102.17
 17584,UI20,TeachZip,Development,Working on reviewing status check jobs,2019-03-15,01:45:00,1.75,26.476039184537992,Back End Developer,46.33
@@ -17587,10 +17587,10 @@
 17587,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-15,00:40:21,0.6725,27.25166916473634,Front End Developer,18.33
 17588,UI23,Credious,Development,[XXX GDS] Working AddOns feature,2019-03-15,02:58:17,2.971388888888889,22.999681061427566,Back End Developer,68.34
 17589,UI26,Credious,Development,"When an enrollment agreement is created or updated, a callback should send XXX information to an external service",2019-03-15,02:08:47,2.1463888888888887,19.998799231508166,Junior Back End Developer,42.93
-17590,UI29, Credious,QA,Sanity testing on staging,2019-03-15,00:40:50,0.6805555555555555,18.000116904372224,Quality Assurance,12.25
+17590,UI29,Credious,QA,Sanity testing on staging,2019-03-15,00:40:50,0.6805555555555555,18.000116904372224,Quality Assurance,12.25
 17591,UI14,Credious,Development,"As an agent, I should be able to save Bank's name as it is",2019-03-15,03:05:56,3.0988888888888892,27.25166916473634,Front End Developer,84.45
-17592,UI29, Credious,QA,Sanity testing on staging,2019-03-15,00:12:20,0.20555555555555557,18.000116904372224,Quality Assurance,3.7
-17593,UI29, Credious,QA,CHecking tickets for 03/11/19 - 03/19/19 Sprint,2019-03-15,00:24:20,0.40555555555555556,18.000116904372224,Quality Assurance,7.3
+17592,UI29,Credious,QA,Sanity testing on staging,2019-03-15,00:12:20,0.20555555555555557,18.000116904372224,Quality Assurance,3.7
+17593,UI29,Credious,QA,CHecking tickets for 03/11/19 - 03/19/19 Sprint,2019-03-15,00:24:20,0.40555555555555556,18.000116904372224,Quality Assurance,7.3
 17594,UI16,TeachZip,Development,Daily Meeting,2019-03-15,00:09:33,0.15916666666666665,29.067543792549532,Full-Stack Developer,4.63
 17595,UI20,TeachZip,Development,Attending daily standup with XXX,2019-03-15,00:12:00,0.2,26.476039184537992,Back End Developer,5.3
 17596,UI15,TeachZip,Development,"daily standup, code review, stg deployment, trello update",2019-03-15,02:42:18,2.705,29.888416578108394,Project Manager / Tech Lead,80.85
@@ -17598,20 +17598,20 @@
 17598,UI22,Credious,DevOps,"Docker Setup for all of our repos --> task assigned, check every ms running in prod, check the conf of linked ms, correct typos, make local test of the containers, making test conecting to ec2 instances",2019-03-15,04:53:50,4.897222222222222,29.99865561281649,Devops,146.91
 17599,UI32,PilotAxis,Development,"Code refactor and improvement - implementing history, fixing bugs",2019-03-15,06:15:12,6.253333333333333,64.82347534602076,Project Manager / Tech Lead,405.36
 17600,UI11,Credious,QA,Populate CSV file w/body content for performance testing,2019-03-15,01:37:00,1.6166666666666667,25.00111111111111,Quality Assurance,40.42
-17601,UI29, Credious,QA,CHecking tickets for 03/11/19 - 03/19/19 Sprint,2019-03-15,00:04:29,0.07472222222222222,18.000116904372224,Quality Assurance,1.35
+17601,UI29,Credious,QA,CHecking tickets for 03/11/19 - 03/19/19 Sprint,2019-03-15,00:04:29,0.07472222222222222,18.000116904372224,Quality Assurance,1.35
 17602,UI41,PilotAxis,Development,Refactor call with XXX,2019-03-15,02:02:00,2.033333333333333,69.15146948003014,Senior Front End Developer,140.61
 17603,UI35,Sinbuffer,Development,XXX UI extras,2019-03-15,03:25:13,3.4202777777777778,34.99945315348159,Senior Full-Stack Developer,119.71
-17604,UI29, Credious,QA,Checking tickets for 03/12/19 Release,2019-03-15,00:49:22,0.8227777777777777,18.000116904372224,Quality Assurance,14.81
+17604,UI29,Credious,QA,Checking tickets for 03/12/19 Release,2019-03-15,00:49:22,0.8227777777777777,18.000116904372224,Quality Assurance,14.81
 17605,UI20,TeachZip,Development,Working on reviewing status check jobs,2019-03-15,01:07:27,1.1241666666666668,26.476039184537992,Back End Developer,29.76
 17606,UI01,GDP,Development,Testing the debts-service,2019-03-15,00:30:31,0.5086111111111111,52.4620446804826,Senior Full-Stack Developer,26.68
-17607,UI29, Credious,QA,Sanity testing on production,2019-03-15,00:20:00,0.3333333333333333,18.000116904372224,Quality Assurance,6.0
+17607,UI29,Credious,QA,Sanity testing on production,2019-03-15,00:20:00,0.3333333333333333,18.000116904372224,Quality Assurance,6.0
 17608,UI20,Finizon,Development,Working on testing project,2019-03-15,00:33:40,0.5611111111111111,26.476039184537992,Back End Developer,14.86
 17609,UI06,Sinbuffer,DevOps,XXX Project Env,2019-03-15,00:37:30,0.625,26.0,Senior Devops,16.25
 17610,UI11,Credious,QA,Run performance testing,2019-03-15,00:47:07,0.7852777777777777,25.00111111111111,Quality Assurance,19.63
 17611,UI20,TeachZip,Development,Working on program field and issue when value req.params not present,2019-03-15,01:27:00,1.45,26.476039184537992,Back End Developer,38.39
 17612,UI36,PilotAxis,Development,lock down mode,2019-03-15,00:38:00,0.6333333333333333,30.000202730098668,Senior Full-Stack Developer,19.0
 17613,UI24,GDP,Design,"Working on implement the add ons feature on the agent screen resolution (1360 x 600) based on the XXX's requierement, additionally I'm designing a new launch icon",2019-03-15,05:50:00,5.833333333333333,19.9995183044316,Designer,116.66
-17614,UI29, Credious,QA,Working on the CICD on production using automation,2019-03-15,00:21:15,0.35416666666666663,18.000116904372224,Quality Assurance,6.38
+17614,UI29,Credious,QA,Working on the CICD on production using automation,2019-03-15,00:21:15,0.35416666666666663,18.000116904372224,Quality Assurance,6.38
 17615,UI45,Sinbuffer,Development,Deploy XXX,2019-03-15,01:19:44,1.3288888888888888,53.06601671309192,Project Manager / Tech Lead,70.52
 17616,UI14,Credious,Development,Provide a total count of tradelines included in program,2019-03-15,03:09:22,3.156111111111111,27.25166916473634,Front End Developer,86.01
 17617,UI20,Finizon,Development,Working on testing project,2019-03-15,00:37:00,0.6166666666666667,26.476039184537992,Back End Developer,16.33
@@ -17619,7 +17619,7 @@
 17619,UI23,Credious,Development,[XXX GDS] Working AddOns feature,2019-03-15,00:59:17,0.9880555555555555,22.999681061427566,Back End Developer,22.72
 17620,UI31,GDP,DevOps,XXX onboarding,2019-03-15,01:09:00,1.15,19.99970704555442,Devops,23.0
 17621,UI45,Sinbuffer,Development,Deploy XXX,2019-03-15,00:24:29,0.40805555555555556,53.06601671309192,Project Manager / Tech Lead,21.65
-17622,UI29, Credious,QA,Working on the CICD on production using automation,2019-03-15,01:34:34,1.576111111111111,18.000116904372224,Quality Assurance,28.37
+17622,UI29,Credious,QA,Working on the CICD on production using automation,2019-03-15,01:34:34,1.576111111111111,18.000116904372224,Quality Assurance,28.37
 17623,UI32,PilotAxis,Development,Call with XXX - setting up the environment,2019-03-15,02:26:00,2.4333333333333336,64.82347534602076,Project Manager / Tech Lead,157.74
 17624,UI10,TeachZip,Development,Update all WP Core to 5.1.1 and all Plugins on production and staging server,2019-03-15,01:50:07,1.835277777777778,24.999022164276404,Front End Developer,45.88
 17625,UI24,CareBetter,Design,Working on start with some new adjustments of the last XXX proposal based on the last feedback received by XXX,2019-03-15,03:43:00,3.716666666666667,19.9995183044316,Designer,74.33
@@ -17666,7 +17666,7 @@
 17666,UI27,Credious,Development,"working on XXX: ""Fixes for Add-ons""",2019-03-18,07:18:49,7.313611111111111,30.871343675233465,Front End Developer,225.78
 17667,UI14,Credious,Development,"As an agent, I should be able to exit the focus when editing mini cards",2019-03-18,00:28:00,0.4666666666666667,27.25166916473634,Front End Developer,12.72
 17668,UI45,Finizon,Development,XXX - One on One,2019-03-18,00:51:22,0.856111111111111,53.06601671309192,Project Manager / Tech Lead,45.43
-17669,UI29, Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-18,00:20:43,0.34527777777777774,18.000116904372224,Quality Assurance,6.22
+17669,UI29,Credious,QA,Working on XPRT production automation and adding more scenarios,2019-03-18,00:20:43,0.34527777777777774,18.000116904372224,Quality Assurance,6.22
 17670,UI33,Finizon,Development,credit filter code refactXXXng and tests,2019-03-18,01:54:36,1.91,54.99794220273777,Back End Developer,105.05
 17671,UI08,Credious,DevOps,Set up logz.io logs,2019-03-18,01:41:07,1.6852777777777779,26.996885274268905,Devops,45.5
 17672,UI36,PilotAxis,Development,find the type of switches based on its device type and pass it to device event endpoint,2019-03-18,03:38:00,3.6333333333333333,30.000202730098668,Senior Full-Stack Developer,109.0
@@ -17679,18 +17679,18 @@
 17679,UI45,Sinbuffer,Development,Deploy XXX,2019-03-18,01:14:30,1.2416666666666667,53.06601671309192,Project Manager / Tech Lead,65.89
 17680,UI16,TeachZip,Development,Creating PRs for SSN and lead request fixes for staging as well,2019-03-18,00:28:14,0.47055555555555556,29.067543792549532,Full-Stack Developer,13.68
 17681,UI11,Credious,QA,XXX Weekly,2019-03-18,00:45:29,0.7580555555555556,25.00111111111111,Quality Assurance,18.95
-17682,UI29, Credious,QA,Checking tickets for 03/11/19 - 03/19/19 Sprint,2019-03-18,00:37:07,0.6186111111111111,18.000116904372224,Quality Assurance,11.14
+17682,UI29,Credious,QA,Checking tickets for 03/11/19 - 03/19/19 Sprint,2019-03-18,00:37:07,0.6186111111111111,18.000116904372224,Quality Assurance,11.14
 17683,UI20,TeachZip,Development,Working on doing changes in interests PR,2019-03-18,01:23:00,1.3833333333333333,26.476039184537992,Back End Developer,36.63
 17684,UI23,Credious,Development,XXX Team meeting - talking about improvements in general context,2019-03-18,00:43:59,0.7330555555555556,22.999681061427566,Back End Developer,16.86
 17685,UI16,TeachZip,Development,Fixing Rejected issues: [New FAFSA] Implement OTP (on-boarding) and new Password Creation (on login),2019-03-18,00:25:58,0.4327777777777778,29.067543792549532,Full-Stack Developer,12.58
-17686,UI29, Credious,QA,Checking tickets for 03/11/19 - 03/19/19 Sprint,2019-03-18,00:29:59,0.49972222222222223,18.000116904372224,Quality Assurance,9.0
+17686,UI29,Credious,QA,Checking tickets for 03/11/19 - 03/19/19 Sprint,2019-03-18,00:29:59,0.49972222222222223,18.000116904372224,Quality Assurance,9.0
 17687,UI08,Credious,DevOps,DevOps - Sprint Planning,2019-03-18,01:08:46,1.146111111111111,26.996885274268905,Devops,30.94
 17688,UI45,Sinbuffer,DevOps,DevOps Sprint Planning,2019-03-18,00:59:00,0.9833333333333333,53.06601671309192,Project Manager / Tech Lead,52.18
 17689,UI06,GDP,DevOps,DevOps meeting,2019-03-18,01:02:09,1.0358333333333334,26.0,Senior Devops,26.93
 17690,UI23,Credious,Development,XXX Experience Weekly Standup - discusing about testing planning for next features and deployments,2019-03-18,00:52:13,0.8702777777777778,22.999681061427566,Back End Developer,20.02
 17691,UI14,Credious,Development,"As an agent, I should be able to exit the focus when editing mini cards",2019-03-18,00:29:03,0.4841666666666667,27.25166916473634,Front End Developer,13.19
 17692,UI16,TeachZip,Development,"Updating interests enpoints to use name ""program""",2019-03-18,00:40:12,0.6699999999999999,29.067543792549532,Full-Stack Developer,19.48
-17693,UI29, Credious,QA,Sanity testing on staging,2019-03-18,00:29:20,0.4888888888888889,18.000116904372224,Quality Assurance,8.8
+17693,UI29,Credious,QA,Sanity testing on staging,2019-03-18,00:29:20,0.4888888888888889,18.000116904372224,Quality Assurance,8.8
 17694,UI15,TeachZip,Development,daily standup,2019-03-18,00:15:00,0.25,29.888416578108394,Project Manager / Tech Lead,7.47
 17695,UI45,Finizon,Development,XXX Team Sprint Planning,2019-03-18,00:30:25,0.5069444444444444,53.06601671309192,Project Manager / Tech Lead,26.9
 17696,UI20,TeachZip,Development,Attending daily standup with XXX,2019-03-18,00:11:00,0.18333333333333332,26.476039184537992,Back End Developer,4.85
@@ -17698,27 +17698,27 @@
 17698,UI16,TeachZip,Development,Daily Meeting,2019-03-18,00:05:25,0.09027777777777778,29.067543792549532,Full-Stack Developer,2.62
 17699,UI08,Credious,DevOps,XXX Team Sprint Planning,2019-03-18,00:14:16,0.23777777777777778,26.996885274268905,Devops,6.42
 17700,UI16,TeachZip,Development,Creating Interest PR for staging,2019-03-18,00:47:38,0.7938888888888889,29.067543792549532,Full-Stack Developer,23.08
-17701,UI29, Credious,QA,Sanity testing on staging,2019-03-18,00:13:56,0.23222222222222222,18.000116904372224,Quality Assurance,4.18
+17701,UI29,Credious,QA,Sanity testing on staging,2019-03-18,00:13:56,0.23222222222222222,18.000116904372224,Quality Assurance,4.18
 17702,UI20,TeachZip,Development,Working on doing changes in interests PR,2019-03-18,00:15:00,0.25,26.476039184537992,Back End Developer,6.62
-17703,UI29, Credious,QA,Sanity on production,2019-03-18,00:32:04,0.5344444444444444,18.000116904372224,Quality Assurance,9.62
+17703,UI29,Credious,QA,Sanity on production,2019-03-18,00:32:04,0.5344444444444444,18.000116904372224,Quality Assurance,9.62
 17704,UI45,Sinbuffer,Development,Deploy XXX,2019-03-18,00:31:30,0.525,53.06601671309192,Project Manager / Tech Lead,27.86
 17705,UI33,Finizon,Development,credit filter code refactXXXng and tests,2019-03-18,00:35:00,0.5833333333333334,54.99794220273777,Back End Developer,32.08
-17706,UI29, Credious,QA,Sanity on production,2019-03-18,00:19:01,0.3169444444444444,18.000116904372224,Quality Assurance,5.71
+17706,UI29,Credious,QA,Sanity on production,2019-03-18,00:19:01,0.3169444444444444,18.000116904372224,Quality Assurance,5.71
 17707,UI35,Sinbuffer,Development,XXX tests,2019-03-18,00:49:42,0.8283333333333334,34.99945315348159,Senior Full-Stack Developer,28.99
 17708,UI45,Sinbuffer,QA,QA Sprint Planning,2019-03-18,00:31:12,0.52,53.06601671309192,Project Manager / Tech Lead,27.59
 17709,UI20,Finizon,Development,Working on setting up XXX,2019-03-18,02:04:14,2.070555555555556,26.476039184537992,Back End Developer,54.82
 17710,UI45,Sinbuffer,Development,Deploy XXX,2019-03-18,01:48:27,1.8075,53.06601671309192,Project Manager / Tech Lead,95.92
 17711,UI35,Finizon,Development,Migration administration,2019-03-18,00:18:06,0.30166666666666664,34.99945315348159,Senior Full-Stack Developer,10.56
-17712,UI29, Credious,QA,Working on the CICD on production using automation,2019-03-18,00:37:22,0.6227777777777778,18.000116904372224,Quality Assurance,11.21
+17712,UI29,Credious,QA,Working on the CICD on production using automation,2019-03-18,00:37:22,0.6227777777777778,18.000116904372224,Quality Assurance,11.21
 17713,UI36,PilotAxis,Development,call with XXX on switches categXXXes,2019-03-18,00:27:37,0.4602777777777778,30.000202730098668,Senior Full-Stack Developer,13.81
 17714,UI35,Sinbuffer,Development,XXX sprint planning,2019-03-18,00:20:48,0.3466666666666666,34.99945315348159,Senior Full-Stack Developer,12.13
 17715,UI23,Credious,Development,[XXX GDS] Working AddOns feature,2019-03-18,06:14:51,6.2475000000000005,22.999681061427566,Back End Developer,143.69
 17716,UI33,Finizon,Development,credit filter code refactXXXng and tests,2019-03-18,02:58:48,2.98,54.99794220273777,Back End Developer,163.89
 17717,UI35,Finizon,Development,Migration administration,2019-03-18,00:27:00,0.45,34.99945315348159,Senior Full-Stack Developer,15.75
-17718,UI29, Credious,QA,creating new sprint on manual sheet,2019-03-18,00:11:31,0.19194444444444442,18.000116904372224,Quality Assurance,3.46
+17718,UI29,Credious,QA,creating new sprint on manual sheet,2019-03-18,00:11:31,0.19194444444444442,18.000116904372224,Quality Assurance,3.46
 17719,UI36,PilotAxis,Development,find the type of switches based on its device type and pass it to device event endpoint,2019-03-18,01:37:00,1.6166666666666667,30.000202730098668,Senior Full-Stack Developer,48.5
 17720,UI15,Credious,Development,"addons talk, code review",2019-03-18,01:33:31,1.5586111111111112,29.888416578108394,Project Manager / Tech Lead,46.58
-17721,UI29, Credious,QA,Working on the CICD on production using automation,2019-03-18,00:54:44,0.9122222222222223,18.000116904372224,Quality Assurance,16.42
+17721,UI29,Credious,QA,Working on the CICD on production using automation,2019-03-18,00:54:44,0.9122222222222223,18.000116904372224,Quality Assurance,16.42
 17722,UI35,Sinbuffer,Development,XXX training,2019-03-18,02:17:52,2.2977777777777777,34.99945315348159,Senior Full-Stack Developer,80.42
 17723,UI20,Finizon,Development,Reading about documentation - swagger,2019-03-18,00:48:23,0.8063888888888889,26.476039184537992,Back End Developer,21.35
 17724,UI45,Finizon,Development,XXX team meeting,2019-03-18,00:38:56,0.6488888888888888,53.06601671309192,Project Manager / Tech Lead,34.43
@@ -17729,18 +17729,18 @@
 17729,UI26,Credious,Development,"When an enrollment agreement is created or updated, a callback should send XXX information to an external service",2019-03-18,01:34:02,1.5672222222222223,19.998799231508166,Junior Back End Developer,31.34
 17730,UI24,CareBetter,Design,Working on finish some adjustments of the A-team landing pages according to XXX last comments and feedback,2019-03-18,04:16:00,4.266666666666667,19.9995183044316,Designer,85.33
 17731,UI08,TeachZip,DevOps,Update XXX-api startup script,2019-03-18,01:43:17,1.721388888888889,26.996885274268905,Devops,46.47
-17732,UI29, Credious,QA,Working on the CICD on production using automation,2019-03-18,00:06:19,0.10527777777777779,18.000116904372224,Quality Assurance,1.9
+17732,UI29,Credious,QA,Working on the CICD on production using automation,2019-03-18,00:06:19,0.10527777777777779,18.000116904372224,Quality Assurance,1.9
 17733,UI36,WeVape,Development,Weekly standup,2019-03-18,00:07:00,0.11666666666666667,30.000202730098668,Senior Full-Stack Developer,3.5
-17734,UI29, Credious,QA,QA Sprint planning,2019-03-18,00:42:15,0.7041666666666666,18.000116904372224,Quality Assurance,12.68
+17734,UI29,Credious,QA,QA Sprint planning,2019-03-18,00:42:15,0.7041666666666666,18.000116904372224,Quality Assurance,12.68
 17735,UI36,WeVape,Development,Korona bug fixes,2019-03-18,02:33:00,2.55,30.000202730098668,Senior Full-Stack Developer,76.5
 17736,UI11,Credious,QA,Automation handover w/XXX,2019-03-18,01:39:45,1.6624999999999999,25.00111111111111,Quality Assurance,41.56
 17737,UI31,GDP,DevOps,Fix debt service slack notificaiton,2019-03-18,01:37:01,1.6169444444444445,19.99970704555442,Devops,32.34
 17738,UI14,Credious,Development,"Update ""About Us"" text on XXX website",2019-03-18,01:06:07,1.1019444444444446,27.25166916473634,Front End Developer,30.03
-17739,UI29, Credious,QA,Working on the CICD on production using automation,2019-03-18,00:14:50,0.24722222222222223,18.000116904372224,Quality Assurance,4.45
-17740,UI29, Credious,QA,Working on the CICD on production using automation,2019-03-18,01:10:20,1.1722222222222223,18.000116904372224,Quality Assurance,21.1
-17741,UI29, Credious,QA,XXX Team meeting,2019-03-18,00:29:58,0.49944444444444447,18.000116904372224,Quality Assurance,8.99
+17739,UI29,Credious,QA,Working on the CICD on production using automation,2019-03-18,00:14:50,0.24722222222222223,18.000116904372224,Quality Assurance,4.45
+17740,UI29,Credious,QA,Working on the CICD on production using automation,2019-03-18,01:10:20,1.1722222222222223,18.000116904372224,Quality Assurance,21.1
+17741,UI29,Credious,QA,XXX Team meeting,2019-03-18,00:29:58,0.49944444444444447,18.000116904372224,Quality Assurance,8.99
 17742,UI10,TeachZip,Development,HTPFC article pages have poor page speed,2019-03-18,02:21:05,2.351388888888889,24.999022164276404,Front End Developer,58.78
-17743,UI29, Credious,QA,XXX Experience Weekly Standup,2019-03-18,00:49:58,0.8327777777777777,18.000116904372224,Quality Assurance,14.99
+17743,UI29,Credious,QA,XXX Experience Weekly Standup,2019-03-18,00:49:58,0.8327777777777777,18.000116904372224,Quality Assurance,14.99
 17744,UI08,PilotAxis,DevOps,Debug s3 expires issue,2019-03-18,00:30:10,0.5027777777777778,26.996885274268905,Devops,13.57
 17745,UI22,Credious,DevOps,New Networking Setup - Shadow XXX,2019-03-18,01:54:05,1.9013888888888888,29.99865561281649,Devops,57.04
 17746,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-18,01:25:30,1.425,27.25166916473634,Front End Developer,38.83
@@ -17748,7 +17748,7 @@
 17748,UI11,Credious,QA,Write Test Plan for Add-ons feature and regression to the new prod env,2019-03-18,01:13:00,1.2166666666666668,25.00111111111111,Quality Assurance,30.42
 17749,UI16,TeachZip,Development,Fixing Rejected issues: [New FAFSA] Implement OTP (on-boarding) and new Password Creation (on login),2019-03-18,02:07:44,2.128888888888889,29.067543792549532,Full-Stack Developer,61.88
 17750,UI23,Credious,Development,[XXX GDS] Working AddOns feature,2019-03-19,01:56:15,1.9375,22.999681061427566,Back End Developer,44.56
-17751,UI29, Credious,QA,XXX Experience automation KT session,2019-03-19,00:47:34,0.7927777777777778,18.000116904372224,Quality Assurance,14.27
+17751,UI29,Credious,QA,XXX Experience automation KT session,2019-03-19,00:47:34,0.7927777777777778,18.000116904372224,Quality Assurance,14.27
 17752,UI35,Sinbuffer,Development,XXX training,2019-03-19,01:58:00,1.9666666666666668,34.99945315348159,Senior Full-Stack Developer,68.83
 17753,UI22,Credious,DevOps,Networking Release Catch up,2019-03-19,00:13:00,0.21666666666666667,29.99865561281649,Devops,6.5
 17754,UI15,Credious,Development,"help with addons, CMS issues, management talk with QA and DevOps",2019-03-19,07:29:02,7.483888888888889,29.888416578108394,Project Manager / Tech Lead,223.68
@@ -17760,10 +17760,10 @@
 17760,UI16,TeachZip,Development,Fixing Rejected issues: [New FAFSA] Implement OTP (on-boarding) and new Password Creation (on login),2019-03-19,03:36:00,3.6,29.067543792549532,Full-Stack Developer,104.64
 17761,UI37,PilotAxis,Development,"XXX: fixed a crash, update C++ code",2019-03-19,05:07:00,5.116666666666666,30.50682936975664,Front End Developer,156.09
 17762,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-19,02:27:25,2.456944444444445,27.25166916473634,Front End Developer,66.96
-17763,UI29, Credious,QA,Sanity on production,2019-03-19,00:53:05,0.8847222222222222,18.000116904372224,Quality Assurance,15.93
+17763,UI29,Credious,QA,Sanity on production,2019-03-19,00:53:05,0.8847222222222222,18.000116904372224,Quality Assurance,15.93
 17764,UI45,Finizon,Development,"Add ""Creditors"" filter to ""Tradelines"" and ""Eligible Accounts"" tabs",2019-03-19,00:30:38,0.5105555555555555,53.06601671309192,Project Manager / Tech Lead,27.09
 17765,UI23,Credious,Development,"[XXX GDS] Working AddOns feature - adding endpoints, adding new relic, updating postman files",2019-03-19,04:07:03,4.1175,22.999681061427566,Back End Developer,94.7
-17766,UI29, Credious,QA,Sanity testing on staging,2019-03-19,00:13:13,0.2202777777777778,18.000116904372224,Quality Assurance,3.97
+17766,UI29,Credious,QA,Sanity testing on staging,2019-03-19,00:13:13,0.2202777777777778,18.000116904372224,Quality Assurance,3.97
 17767,UI01,GDP,Development,Developing debts-microservice,2019-03-19,10:23:09,10.385833333333332,52.4620446804826,Senior Full-Stack Developer,544.86
 17768,UI22,Credious,DevOps,New Networking Setup,2019-03-19,00:04:03,0.0675,29.99865561281649,Devops,2.02
 17769,UI20,TeachZip,Development,Working on student review bug,2019-03-19,00:35:24,0.5900000000000001,26.476039184537992,Back End Developer,15.62
@@ -17789,8 +17789,8 @@
 17789,UI16,TeachZip,Development,Discussing and fixing issues related to recommendations request params,2019-03-19,00:14:31,0.24194444444444446,29.067543792549532,Full-Stack Developer,7.03
 17790,UI45,Sinbuffer,Development,"XXX Instructions, Weekly with XXX",2019-03-19,01:33:26,1.5572222222222223,53.06601671309192,Project Manager / Tech Lead,82.64
 17791,UI06,Sinbuffer,DevOps,XXX prod,2019-03-19,00:25:00,0.4166666666666667,26.0,Senior Devops,10.83
-17792,UI29, Credious,QA,Updating automation flow,2019-03-19,00:15:22,0.2561111111111111,18.000116904372224,Quality Assurance,4.61
-17793,UI29, Credious,QA,Working on the CICD on production using automation,2019-03-19,01:37:37,1.6269444444444445,18.000116904372224,Quality Assurance,29.29
+17792,UI29,Credious,QA,Updating automation flow,2019-03-19,00:15:22,0.2561111111111111,18.000116904372224,Quality Assurance,4.61
+17793,UI29,Credious,QA,Working on the CICD on production using automation,2019-03-19,01:37:37,1.6269444444444445,18.000116904372224,Quality Assurance,29.29
 17794,UI06,GDP,DevOps,VPN access for XXX,2019-03-19,00:25:00,0.4166666666666667,26.0,Senior Devops,10.83
 17795,UI35,Sinbuffer,Development,XXX training,2019-03-19,04:33:33,4.559166666666666,34.99945315348159,Senior Full-Stack Developer,159.57
 17796,UI45,Finizon,DevOps,Deploy Training Env,2019-03-19,00:50:23,0.8397222222222223,53.06601671309192,Project Manager / Tech Lead,44.56
@@ -17948,12 +17948,12 @@
 17948,UI11,Credious,QA,"Meeting w/XXX, API Automation work",2019-03-22,00:39:48,0.6633333333333333,25.00111111111111,Quality Assurance,16.58
 17949,UI37,PilotAxis,Development,"XXX: fixed focus, update C++ code",2019-03-22,07:59:35,7.993055555555555,30.50682936975664,Front End Developer,243.84
 17950,UI36,WeVape,Development,Disable email notification for Bremerton,2019-03-22,04:15:00,4.25,30.000202730098668,Senior Full-Stack Developer,127.5
-17951,UI29, Credious,QA,Sanity testing on staging,2019-03-22,00:01:03,0.017499999999999998,18.000116904372224,Quality Assurance,0.32
-17952,UI29, Credious,QA,Sanity testing on staging,2019-03-22,00:05:52,0.09777777777777777,18.000116904372224,Quality Assurance,1.76
+17951,UI29,Credious,QA,Sanity testing on staging,2019-03-22,00:01:03,0.017499999999999998,18.000116904372224,Quality Assurance,0.32
+17952,UI29,Credious,QA,Sanity testing on staging,2019-03-22,00:05:52,0.09777777777777777,18.000116904372224,Quality Assurance,1.76
 17953,UI27,Revenify,Development,"working on CMS: ""Receive ""An unexpected error has occurred"" when creating new template"", """"Viewer"" page appears blank""",2019-03-22,07:12:04,7.2011111111111115,30.871343675233465,Front End Developer,222.31
 17954,UI26,Credious,Development,Implement detailed logs in GDS service,2019-03-22,09:10:35,9.176388888888889,19.998799231508166,Junior Back End Developer,183.52
 17955,UI35,Finizon,Development,XXX PR review,2019-03-22,02:31:12,2.52,34.99945315348159,Senior Full-Stack Developer,88.2
-17956,UI29, Credious,QA,Sanity testing on staging,2019-03-22,00:06:33,0.10916666666666668,18.000116904372224,Quality Assurance,1.97
+17956,UI29,Credious,QA,Sanity testing on staging,2019-03-22,00:06:33,0.10916666666666668,18.000116904372224,Quality Assurance,1.97
 17957,UI20,Finizon,Development,Working on documentation,2019-03-22,02:26:49,2.4469444444444446,26.476039184537992,Back End Developer,64.79
 17958,UI29,Credious,QA,Updating XXX backend automatoin for staging with CICD and Docker,2019-03-22,01:31:45,1.5291666666666666,18.000116904372224,Quality Assurance,27.53
 17959,UI16,TeachZip,Development,Updating Tax video A/B testing with new requirements,2019-03-22,01:57:13,1.953611111111111,29.067543792549532,Full-Stack Developer,56.79
@@ -17977,7 +17977,7 @@
 17977,UI20,Finizon,Development,Working on documentation,2019-03-22,04:03:26,4.057222222222222,26.476039184537992,Back End Developer,107.42
 17978,UI31,GDP,DevOps,XXX service terraform structure,2019-03-22,04:47:19,4.788611111111111,19.99970704555442,Devops,95.77
 17979,UI16,TeachZip,Development,Updating Tax video A/B testing with new requirements,2019-03-22,01:56:42,1.945,29.067543792549532,Full-Stack Developer,56.54
-17980,UI29, Credious,QA,Working on program detail backend endpoint using automation,2019-03-22,02:16:20,2.272222222222222,18.000116904372224,Quality Assurance,40.9
+17980,UI29,Credious,QA,Working on program detail backend endpoint using automation,2019-03-22,02:16:20,2.272222222222222,18.000116904372224,Quality Assurance,40.9
 17981,UI22,Credious,DevOps,Giving support to XXX XXX - ssh to instance - Deploy problems with gds_staging and agent ms,2019-03-22,00:50:38,0.8438888888888889,29.99865561281649,Devops,25.32
 17982,UI01,GDP,Development,Developing debts-service / Testing the debts-service,2019-03-22,02:22:01,2.3669444444444445,52.4620446804826,Senior Full-Stack Developer,124.17
 17983,UI36,WeVape,Development,Korona: stock maintenance quantity wise,2019-03-22,02:33:00,2.55,30.000202730098668,Senior Full-Stack Developer,76.5
@@ -17985,7 +17985,7 @@
 17985,UI22,Credious,DevOps,Urgent support for XXX G regarding CRM-trainning instance changing var value,2019-03-22,00:24:10,0.4027777777777778,29.99865561281649,Devops,12.08
 17986,UI22,Credious,DevOps,Giving support to XXX XXX - ssh to instance - Deploy problems with gds_staging and agent ms,2019-03-22,00:16:26,0.2738888888888889,29.99865561281649,Devops,8.22
 17987,UI22,Credious,DevOps,Problem with sidebar_updated - Supporting XXX - removing images from prod db lb_section and lb_elements,2019-03-22,00:34:38,0.5772222222222222,29.99865561281649,Devops,17.32
-17988,UI29, Credious,QA,Backend automation KT for new QA,2019-03-22,01:07:54,1.1316666666666666,18.000116904372224,Quality Assurance,20.37
+17988,UI29,Credious,QA,Backend automation KT for new QA,2019-03-22,01:07:54,1.1316666666666666,18.000116904372224,Quality Assurance,20.37
 17989,UI24,PilotAxis,Design,Working on some requierements of the hangar user on the ios Application based on the discussion that I had with XXX ,2019-03-22,04:59:00,4.983333333333333,19.9995183044316,Designer,99.66
 17990,UI14,Revenify,Development,"As a sales rep, I would like to be warned if I have unsaved data prior to leaving a page",2019-03-22,02:27:18,2.455,27.25166916473634,Front End Developer,66.9
 17991,UI10,TeachZip,Development,HTPFC article pages have poor page speed,2019-03-22,02:31:02,2.5172222222222222,24.999022164276404,Front End Developer,62.93
@@ -17995,25 +17995,25 @@
 17995,UI23,Credious,Development,[XXX XXX] adding missing test for Prospect Financial Data lib,2019-03-22,01:42:19,1.7052777777777777,22.999681061427566,Back End Developer,39.22
 17996,UI23,Credious,Development,[XXX XXX] adding missing test for Prospect Financial Data lib,2019-03-23,01:29:39,1.4941666666666666,22.999681061427566,Back End Developer,34.37
 17997,UI14,Revenify,Development,"As a sales rep, I would like to be warned if I have unsaved data prior to leaving a page",2019-03-23,01:37:37,1.6269444444444445,27.25166916473634,Front End Developer,44.34
-17998,UI29, Credious,QA,Working on 03/11/19 - 03/25/19 Sprint || Code Freeze 03/20/19,2019-03-23,01:32:13,1.5369444444444442,18.000116904372224,Quality Assurance,27.67
+17998,UI29,Credious,QA,Working on 03/11/19 - 03/25/19 Sprint || Code Freeze 03/20/19,2019-03-23,01:32:13,1.5369444444444442,18.000116904372224,Quality Assurance,27.67
 17999,UI14,Revenify,Development,"As a sales rep, I would like to be warned if I have unsaved data prior to leaving a page",2019-03-23,01:19:00,1.3166666666666667,27.25166916473634,Front End Developer,35.88
-18000,UI29, Credious,QA,Sanity testing on staging,2019-03-23,00:07:54,0.13166666666666665,18.000116904372224,Quality Assurance,2.37
-18001,UI29, Credious,QA,Sanity testing on production,2019-03-23,00:28:10,0.46944444444444444,18.000116904372224,Quality Assurance,8.45
+18000,UI29,Credious,QA,Sanity testing on staging,2019-03-23,00:07:54,0.13166666666666665,18.000116904372224,Quality Assurance,2.37
+18001,UI29,Credious,QA,Sanity testing on production,2019-03-23,00:28:10,0.46944444444444444,18.000116904372224,Quality Assurance,8.45
 18002,UI11,Credious,QA,Writing QA Plan,2019-03-23,02:13:38,2.227222222222222,25.00111111111111,Quality Assurance,55.68
 18003,UI22,Credious,DevOps,"Shadow XXX, giving support to x regarding gds_staging ms",2019-03-23,00:30:00,0.5,29.99865561281649,Devops,15.0
 18004,UI24,PilotAxis,Design,"Working on some adjustments of the hangars view, we are implementing my hangas and guest hangars tab based on the XXX's requierement ",2019-03-23,03:19:00,3.3166666666666664,19.9995183044316,Designer,66.33
 18005,UI36,WeVape,Development,"Order 1 hour issue fixes, deployment and testing",2019-03-23,01:42:25,1.7069444444444444,30.000202730098668,Senior Full-Stack Developer,51.21
 18006,UI22,Credious,DevOps,New Networking Setup - Terraform code with XXX and x,2019-03-23,00:04:07,0.06861111111111111,29.99865561281649,Devops,2.06
-18007,UI29, Credious,QA,Working on 03/11/19 - 03/25/19 Sprint || Code Freeze 03/20/19,2019-03-23,01:20:02,1.333888888888889,18.000116904372224,Quality Assurance,24.01
+18007,UI29,Credious,QA,Working on 03/11/19 - 03/25/19 Sprint || Code Freeze 03/20/19,2019-03-23,01:20:02,1.333888888888889,18.000116904372224,Quality Assurance,24.01
 18008,UI22,Credious,DevOps,Catchup with XXX,2019-03-23,00:26:00,0.43333333333333335,29.99865561281649,Devops,13.0
-18009,UI29, Credious,QA,Fixing Co-Program  scenarios in staging with latest changes,2019-03-23,01:14:10,1.2361111111111112,18.000116904372224,Quality Assurance,22.25
-18010,UI29, Credious,QA,Fixing Co-Program  scenarios in staging with latest changes,2019-03-23,00:11:00,0.18333333333333332,18.000116904372224,Quality Assurance,3.3
-18011,UI29, Credious,QA,Working on main applicant and co applicant endpoint backend automation,2019-03-23,02:03:18,2.0549999999999997,18.000116904372224,Quality Assurance,36.99
+18009,UI29,Credious,QA,Fixing Co-Program  scenarios in staging with latest changes,2019-03-23,01:14:10,1.2361111111111112,18.000116904372224,Quality Assurance,22.25
+18010,UI29,Credious,QA,Fixing Co-Program  scenarios in staging with latest changes,2019-03-23,00:11:00,0.18333333333333332,18.000116904372224,Quality Assurance,3.3
+18011,UI29,Credious,QA,Working on main applicant and co applicant endpoint backend automation,2019-03-23,02:03:18,2.0549999999999997,18.000116904372224,Quality Assurance,36.99
 18012,UI32,PilotAxis,Development,"Implementing guest mechanism on the frontend, Thermostat screen",2019-03-23,06:48:42,6.8116666666666665,64.82347534602076,Project Manager / Tech Lead,441.56
 18013,UI46,Credious,QA,smoke test suite creation,2019-03-23,02:41:20,2.688888888888889,14.001321877065433,Quality Assurance,37.65
 18014,UI46,Credious,QA,bug with update session reproducing,2019-03-23,00:29:10,0.4861111111111111,14.001321877065433,Quality Assurance,6.81
 18015,UI14,Revenify,Development,"As a sales rep, I would like to be warned if I have unsaved data prior to leaving a page",2019-03-24,01:03:50,1.0638888888888889,27.25166916473634,Front End Developer,28.99
-18016,UI29, Credious,QA,Fixing Co-Program  scenarios in staging with latest changes,2019-03-24,01:13:51,1.2308333333333334,18.000116904372224,Quality Assurance,22.16
+18016,UI29,Credious,QA,Fixing Co-Program  scenarios in staging with latest changes,2019-03-24,01:13:51,1.2308333333333334,18.000116904372224,Quality Assurance,22.16
 18017,UI33,Finizon,Development,"Adding ""Fund Availability"" filter- merge FROM dev and reopen PR again",2019-03-24,01:15:13,1.253611111111111,54.99794220273777,Back End Developer,68.95
 18018,UI33,Finizon,Development,Adding tutXXXal for how to add a new filter to XXX XXX,2019-03-24,00:33:00,0.55,54.99794220273777,Back End Developer,30.25
 18019,UI11,Credious,QA,Review/Test XXX APIs,2019-03-24,03:54:08,3.902222222222222,25.00111111111111,Quality Assurance,97.56
@@ -18034,7 +18034,7 @@
 18034,UI23,Credious,Development,"Checking Processor flow on SF reviewing External Ids attributes installed by package for Tradelines, Payment, Bank Account, Document objects",2019-03-25,01:17:31,1.2919444444444443,22.999681061427566,Back End Developer,29.71
 18035,UI11,Credious,QA,QA Team meeting,2019-03-25,01:02:39,1.0441666666666667,25.00111111111111,Quality Assurance,26.11
 18036,UI33,Finizon,Development,adding Account Delinquency filter- frontend,2019-03-25,02:54:22,2.906111111111111,54.99794220273777,Back End Developer,159.83
-18037,UI29, Credious,QA,Checking ticket for 03/11/19 - 03/25/19 Sprint| Code Freeze 03/20/19,2019-03-25,00:04:02,0.06722222222222222,18.000116904372224,Quality Assurance,1.21
+18037,UI29,Credious,QA,Checking ticket for 03/11/19 - 03/25/19 Sprint| Code Freeze 03/20/19,2019-03-25,00:04:02,0.06722222222222222,18.000116904372224,Quality Assurance,1.21
 18038,UI23,Credious,Development,"Checking Processor flow on SF reviewing External Ids attributes installed by package for Tradelines, Payment, Bank Account, Document objects",2019-03-25,00:09:04,0.1511111111111111,22.999681061427566,Back End Developer,3.48
 18039,UI23,Credious,Development,"Checking Processor flow on SF reviewing External Ids attributes installed by package for Tradelines, Payment, Bank Account, Document objects",2019-03-25,00:52:53,0.8813888888888889,22.999681061427566,Back End Developer,20.27
 18040,UI01,GDP,Development,Deployment of the Debts service / Logs parsing / Planning of new Features,2019-03-25,10:58:00,10.966666666666667,52.4620446804826,Senior Full-Stack Developer,575.33
@@ -18043,27 +18043,27 @@
 18043,UI23,Credious,Development,"Checking Processor flow on SF reviewing External Ids attributes installed by package for Tradelines, Payment, Bank Account, Document objects",2019-03-25,00:15:59,0.2663888888888889,22.999681061427566,Back End Developer,6.13
 18044,UI33,Finizon,Development,adding Account Delinquency filter- frontend,2019-03-25,00:13:25,0.22361111111111112,54.99794220273777,Back End Developer,12.3
 18045,UI22,Credious,DevOps,debts-api REDIS instance creation - gather logs  XXX-server project Prod -  XXX XXX,2019-03-25,02:38:56,2.648888888888889,29.99865561281649,Devops,79.46
-18046,UI29, Credious,QA,Sanity testing on staging for 03/11/19 - 03/25/19 Sprint,2019-03-25,01:12:26,1.2072222222222222,18.000116904372224,Quality Assurance,21.73
+18046,UI29,Credious,QA,Sanity testing on staging for 03/11/19 - 03/25/19 Sprint,2019-03-25,01:12:26,1.2072222222222222,18.000116904372224,Quality Assurance,21.73
 18047,UI06,GDP,DevOps,DevOps meeting,2019-03-25,00:52:33,0.8758333333333334,26.0,Senior Devops,22.77
 18048,UI08,Credious,DevOps,DevOps - Sprint Planning,2019-03-25,00:52:54,0.8816666666666667,26.996885274268905,Devops,23.8
 18049,UI45,Finizon,DevOps,Sprint Planning,2019-03-25,00:59:52,0.9977777777777778,53.06601671309192,Project Manager / Tech Lead,52.95
 18050,UI35,Finizon,Development,XXX PR review,2019-03-25,00:03:43,0.06194444444444445,34.99945315348159,Senior Full-Stack Developer,2.17
 18051,UI35,Finizon,Development,XXX realtime feature,2019-03-25,01:13:14,1.2205555555555556,34.99945315348159,Senior Full-Stack Developer,42.72
-18052,UI29, Credious,QA,Sanity testing on staging for 03/11/19 - 03/25/19 Sprint,2019-03-25,00:28:49,0.4802777777777778,18.000116904372224,Quality Assurance,8.65
+18052,UI29,Credious,QA,Sanity testing on staging for 03/11/19 - 03/25/19 Sprint,2019-03-25,00:28:49,0.4802777777777778,18.000116904372224,Quality Assurance,8.65
 18053,UI46,Credious,QA,call with XXX regarding automation,2019-03-25,00:13:00,0.21666666666666667,14.001321877065433,Quality Assurance,3.03
 18054,UI45,Finizon,Development,Sprint Planning,2019-03-25,01:00:21,1.0058333333333334,53.06601671309192,Project Manager / Tech Lead,53.38
 18055,UI06,Fintech,DevOps,XXX Planning and Standup,2019-03-25,00:45:44,0.7622222222222222,26.0,Senior Devops,19.82
-18056,UI29, Credious,QA,Sanity testing on staging for 03/11/19 - 03/25/19 Sprint,2019-03-25,00:18:08,0.3022222222222222,18.000116904372224,Quality Assurance,5.44
+18056,UI29,Credious,QA,Sanity testing on staging for 03/11/19 - 03/25/19 Sprint,2019-03-25,00:18:08,0.3022222222222222,18.000116904372224,Quality Assurance,5.44
 18057,UI15,Credious,Development,"Adjust sprint, management talks, organize XXX documents, write addons desing, update debt service document",2019-03-25,01:55:17,1.9213888888888888,29.888416578108394,Project Manager / Tech Lead,57.43
 18058,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-25,01:01:10,1.0194444444444444,27.25166916473634,Front End Developer,27.78
-18059,UI29, Credious,QA,Working on coprogram automation changes in staging,2019-03-25,01:53:03,1.8841666666666665,18.000116904372224,Quality Assurance,33.92
+18059,UI29,Credious,QA,Working on coprogram automation changes in staging,2019-03-25,01:53:03,1.8841666666666665,18.000116904372224,Quality Assurance,33.92
 18060,UI45,Finizon,QA,Sprint Planning,2019-03-25,00:37:58,0.6327777777777778,53.06601671309192,Project Manager / Tech Lead,33.58
 18061,UI45,Finizon,Development,Swagger documentation,2019-03-25,00:47:10,0.7861111111111111,53.06601671309192,Project Manager / Tech Lead,41.72
 18062,UI46,Credious,QA,QA Sprint  Planning,2019-03-25,00:40:26,0.6738888888888889,14.001321877065433,Quality Assurance,9.44
 18063,UI35,Finizon,Development,XXX realtime feature,2019-03-25,01:29:28,1.4911111111111113,34.99945315348159,Senior Full-Stack Developer,52.19
 18064,UI36,WeVape,Development,Korona: stock maintenance quantity wise,2019-03-25,03:18:00,3.3,30.000202730098668,Senior Full-Stack Developer,99.0
 18065,UI15,GDP,Development,success criteria review meeting,2019-03-25,00:35:19,0.5886111111111112,29.888416578108394,Project Manager / Tech Lead,17.59
-18066,UI29, Credious,QA,Working on coprogram automation changes in staging,2019-03-25,01:31:48,1.53,18.000116904372224,Quality Assurance,27.54
+18066,UI29,Credious,QA,Working on coprogram automation changes in staging,2019-03-25,01:31:48,1.53,18.000116904372224,Quality Assurance,27.54
 18067,UI45,Finizon,DevOps,npm install - docker fix,2019-03-25,00:46:12,0.77,53.06601671309192,Project Manager / Tech Lead,40.86
 18068,UI22,Credious,DevOps,AWS Pipeline status updated: debt-app-staging-pipeline - Failure -- XXX,2019-03-25,00:33:19,0.5552777777777779,29.99865561281649,Devops,16.66
 18069,UI33,Finizon,Development,adding Account Delinquency filter- frontend,2019-03-25,02:32:00,2.533333333333333,54.99794220273777,Back End Developer,139.33
@@ -18071,9 +18071,9 @@
 18071,UI45,Finizon,Development,XXX Weekly Standup,2019-03-25,00:31:28,0.5244444444444445,53.06601671309192,Project Manager / Tech Lead,27.83
 18072,UI06,GDP,DevOps,Add tests to CI/CD (with XXX),2019-03-25,00:15:00,0.25,26.0,Senior Devops,6.5
 18073,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-25,01:06:04,1.1011111111111112,27.25166916473634,Front End Developer,30.01
-18074,UI29, Credious,QA,Working on coprogram automation changes in staging,2019-03-25,00:04:17,0.07138888888888889,18.000116904372224,Quality Assurance,1.29
+18074,UI29,Credious,QA,Working on coprogram automation changes in staging,2019-03-25,00:04:17,0.07138888888888889,18.000116904372224,Quality Assurance,1.29
 18075,UI32,PilotAxis,Development,Improve ecobee thermostat screen,2019-03-25,02:29:51,2.4975,64.82347534602076,Project Manager / Tech Lead,161.9
-18076,UI29, Credious,QA,QA Sprint planning,2019-03-25,00:41:26,0.6905555555555556,18.000116904372224,Quality Assurance,12.43
+18076,UI29,Credious,QA,QA Sprint planning,2019-03-25,00:41:26,0.6905555555555556,18.000116904372224,Quality Assurance,12.43
 18077,UI23,Credious,Development,Reviewing with FE team the add-ons feature endpoints,2019-03-25,02:05:12,2.086666666666667,22.999681061427566,Back End Developer,47.99
 18078,UI22,Credious,DevOps,AWS Pipeline status updated: debt-app-staging-pipeline - Failure -- XXX,2019-03-25,00:32:49,0.5469444444444445,29.99865561281649,Devops,16.41
 18079,UI08,Credious,DevOps,New Networking Setup,2019-03-25,01:46:00,1.7666666666666666,26.996885274268905,Devops,47.69
@@ -18085,10 +18085,10 @@
 18085,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-25,03:13:38,3.227222222222222,27.25166916473634,Front End Developer,87.95
 18086,UI36,WeVape,Development,Korona demo/presentation,2019-03-25,00:50:00,0.8333333333333334,30.000202730098668,Senior Full-Stack Developer,25.0
 18087,UI23,Credious,Development,"Deployment of new Processor Clearone to production, continue adding test for GDS and XXX",2019-03-25,03:47:45,3.7958333333333334,22.999681061427566,Back End Developer,87.3
-18088,UI29, Credious,QA,Checking production automation,2019-03-25,00:16:36,0.27666666666666667,18.000116904372224,Quality Assurance,4.98
+18088,UI29,Credious,QA,Checking production automation,2019-03-25,00:16:36,0.27666666666666667,18.000116904372224,Quality Assurance,4.98
 18089,UI35,Finizon,Development,Reduce the number of failed programs,2019-03-25,02:26:15,2.4375000000000004,34.99945315348159,Senior Full-Stack Developer,85.31
 18090,UI06,GDP,DevOps,Debts - I helped XXX,2019-03-25,00:26:00,0.43333333333333335,26.0,Senior Devops,11.27
-18091,UI29, Credious,QA,Checking production automation,2019-03-26,00:21:52,0.3644444444444444,18.000116904372224,Quality Assurance,6.56
+18091,UI29,Credious,QA,Checking production automation,2019-03-26,00:21:52,0.3644444444444444,18.000116904372224,Quality Assurance,6.56
 18092,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-26,00:21:23,0.35638888888888887,27.25166916473634,Front End Developer,9.71
 18093,UI08,Credious,DevOps,New Networking Setup,2019-03-26,01:14:00,1.2333333333333334,26.996885274268905,Devops,33.3
 18094,UI15,Credious,Development,"management talk, addressing long pull issue and hotfix",2019-03-26,02:48:37,2.8102777777777774,29.888416578108394,Project Manager / Tech Lead,83.99
@@ -18106,7 +18106,7 @@
 18106,UI01,GDP,Development,Weekly Standup / Debts Service Development,2019-03-26,09:29:31,9.491944444444444,52.4620446804826,Senior Full-Stack Developer,497.97
 18107,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-26,02:05:21,2.089166666666667,27.25166916473634,Front End Developer,56.93
 18108,UI06,GDP,DevOps,New Networking Setup,2019-03-26,02:00:18,2.005,26.0,Senior Devops,52.13
-18109,UI29, Credious,QA,Working On Co program Scenarios,2019-03-26,01:16:29,1.274722222222222,18.000116904372224,Quality Assurance,22.95
+18109,UI29,Credious,QA,Working On Co program Scenarios,2019-03-26,01:16:29,1.274722222222222,18.000116904372224,Quality Assurance,22.95
 18110,UI20,Finizon,Development,Showing documentation,2019-03-26,00:30:30,0.5083333333333333,26.476039184537992,Back End Developer,13.46
 18111,UI45,AgeSolvency,DevOps,XXX - change hardware back to normal,2019-03-26,01:11:00,1.1833333333333333,53.06601671309192,Project Manager / Tech Lead,62.79
 18112,UI15,Credious,Development,weekly standup,2019-03-26,00:39:58,0.6661111111111111,29.888416578108394,Project Manager / Tech Lead,19.91
@@ -18123,7 +18123,7 @@
 18123,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-26,04:12:00,4.2,27.25166916473634,Front End Developer,114.46
 18124,UI32,PilotAxis,Development,Implementing services API and database migrations,2019-03-26,08:38:37,8.643611111111111,64.82347534602076,Project Manager / Tech Lead,560.31
 18125,UI20,TeachZip,Development,"Working on mapping old - new values for programs, include programs in applications return",2019-03-26,05:27:11,5.453055555555555,26.476039184537992,Back End Developer,144.38
-18126,UI29, Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-26,02:39:54,2.665,18.000116904372224,Quality Assurance,47.97
+18126,UI29,Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-26,02:39:54,2.665,18.000116904372224,Quality Assurance,47.97
 18127,UI16,TeachZip,Development,Disabling TXXXA popup on develop and staging,2019-03-26,00:34:00,0.5666666666666667,29.067543792549532,Full-Stack Developer,16.47
 18128,UI15,Credious,Development,update PA fee rate validation and update fee templates,2019-03-26,00:18:18,0.305,29.888416578108394,Project Manager / Tech Lead,9.12
 18129,UI35,Finizon,Development,Reduce the number of failed programs,2019-03-26,01:40:39,1.6774999999999998,34.99945315348159,Senior Full-Stack Developer,58.71
@@ -18140,7 +18140,7 @@
 18140,UI26,Credious,Development,Implement detailed logs in GDS service,2019-03-26,07:18:41,7.311388888888889,19.998799231508166,Junior Back End Developer,146.22
 18141,UI16,TeachZip,Development,Updating interets value to be a string,2019-03-26,02:43:00,2.716666666666667,29.067543792549532,Full-Stack Developer,78.97
 18142,UI08,TeachZip,DevOps,Backup fafsa prod db,2019-03-26,00:31:08,0.518888888888889,26.996885274268905,Devops,14.01
-18143,UI29, Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-26,01:45:27,1.7575,18.000116904372224,Quality Assurance,31.64
+18143,UI29,Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-26,01:45:27,1.7575,18.000116904372224,Quality Assurance,31.64
 18144,UI33,Finizon,Development,fixing Account Delinquency filter style,2019-03-26,01:38:25,1.6402777777777777,54.99794220273777,Back End Developer,90.21
 18145,UI36,WeVape,Development,Korona: stock maintenance quantity wise,2019-03-26,01:39:00,1.65,30.000202730098668,Senior Full-Stack Developer,49.5
 18146,UI45,Sinbuffer,Development,Weekly with XXX,2019-03-26,00:42:17,0.7047222222222221,53.06601671309192,Project Manager / Tech Lead,37.4
@@ -18156,7 +18156,7 @@
 18156,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-26,02:48:57,2.815833333333333,27.25166916473634,Front End Developer,76.74
 18157,UI29,Credious,QA,Working on the new XXX env testing and automation,2019-03-26,00:26:49,0.4469444444444445,18.000116904372224,Quality Assurance,8.05
 18158,UI20,Finizon,Development,Working on adding new endpoints to documentation,2019-03-26,01:44:48,1.7466666666666668,26.476039184537992,Back End Developer,46.24
-18159,UI29, Credious,QA,XXX Experience Weekly Standup,2019-03-26,00:34:29,0.5747222222222222,18.000116904372224,Quality Assurance,10.35
+18159,UI29,Credious,QA,XXX Experience Weekly Standup,2019-03-26,00:34:29,0.5747222222222222,18.000116904372224,Quality Assurance,10.35
 18160,UI23,Credious,Development,Adding new and fixing existing test for offers controllers on GDS,2019-03-26,03:43:35,3.726388888888889,22.999681061427566,Back End Developer,85.71
 18161,UI10,TeachZip,Development,HTPFC Database queries refactXXXng for Advance Custom Fields and Kili blocks,2019-03-27,01:54:02,1.9005555555555556,24.999022164276404,Front End Developer,47.51
 18162,UI20,TeachZip,Development,Working on adding validation to update script to allow new values,2019-03-27,00:54:00,0.9,26.476039184537992,Back End Developer,23.83
@@ -18166,13 +18166,13 @@
 18166,UI06,GDP,DevOps,VPN access list,2019-03-27,00:42:46,0.7127777777777777,26.0,Senior Devops,18.53
 18167,UI15,Credious,Development,"management talk, code review, fix FE app config and eslint",2019-03-27,03:12:23,3.206388888888889,29.888416578108394,Project Manager / Tech Lead,95.83
 18168,UI22,Credious,DevOps,Recreating ms crm in local,2019-03-27,02:09:39,2.160833333333333,29.99865561281649,Devops,64.82
-18169,UI29, Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-27,00:17:27,0.29083333333333333,18.000116904372224,Quality Assurance,5.24
+18169,UI29,Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-27,00:17:27,0.29083333333333333,18.000116904372224,Quality Assurance,5.24
 18170,UI01,GDP,Development,Developing debts-microservice,2019-03-27,10:40:34,10.67611111111111,52.4620446804826,Senior Full-Stack Developer,560.09
 18171,UI24,PilotAxis,Design,"Working on the option that the user will be able to to set a time for a service to access his hangar and a list device category the user can give access to: Secxty, Light, Thermostat, and additionally I'm working on the look and feel improvements of the application",2019-03-27,13:53:00,13.883333333333333,19.9995183044316,Designer,277.66
 18172,UI36,WeVape,Development,Korona: stock maintenance quantity wise,2019-03-27,02:50:00,2.8333333333333335,30.000202730098668,Senior Full-Stack Developer,85.0
 18173,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-27,02:13:35,2.226388888888889,27.25166916473634,Front End Developer,60.67
 18174,UI06,GDP,DevOps,VPN access for XXX,2019-03-27,00:13:57,0.2325,26.0,Senior Devops,6.04
-18175,UI29, Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-27,02:59:26,2.9905555555555554,18.000116904372224,Quality Assurance,53.83
+18175,UI29,Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-27,02:59:26,2.9905555555555554,18.000116904372224,Quality Assurance,53.83
 18176,UI06,GDP,DevOps,New Networking Setup,2019-03-27,00:22:16,0.37111111111111106,26.0,Senior Devops,9.65
 18177,UI20,Finizon,Development,Working on modify documentation,2019-03-27,01:54:00,1.9,26.476039184537992,Back End Developer,50.3
 18178,UI06,GDP,DevOps,VPN access list,2019-03-27,00:05:50,0.09722222222222221,26.0,Senior Devops,2.53
@@ -18190,11 +18190,11 @@
 18190,UI20,Finizon,Development,Working on modify documentation,2019-03-27,01:20:00,1.3333333333333333,26.476039184537992,Back End Developer,35.3
 18191,UI16,TeachZip,Development,Fixing conflicts on deployment PR to master,2019-03-27,01:20:00,1.3333333333333333,29.067543792549532,Full-Stack Developer,38.76
 18192,UI15,TeachZip,Development,"prepare fafsa-client deployment, prod deployment",2019-03-27,01:17:25,1.2902777777777776,29.888416578108394,Project Manager / Tech Lead,38.56
-18193,UI29, Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-27,00:24:05,0.4013888888888889,18.000116904372224,Quality Assurance,7.23
+18193,UI29,Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-27,00:24:05,0.4013888888888889,18.000116904372224,Quality Assurance,7.23
 18194,UI32,PilotAxis,Development,"Implementing services API and database migrations, researching ecobee API, improving FE views, talk with XXX - design improvements",2019-03-27,08:09:00,8.15,64.82347534602076,Project Manager / Tech Lead,528.31
 18195,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-27,03:54:00,3.9,27.25166916473634,Front End Developer,106.28
 18196,UI06,GDP,DevOps,I helped XXX,2019-03-27,00:17:13,0.28694444444444445,26.0,Senior Devops,7.46
-18197,UI29, Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-27,01:49:25,1.823611111111111,18.000116904372224,Quality Assurance,32.83
+18197,UI29,Credious,QA,Working on SecxtyQuestions Scenarios,2019-03-27,01:49:25,1.823611111111111,18.000116904372224,Quality Assurance,32.83
 18198,UI15,Credious,Development,"addons testing, management talk, build XXX improvement plan",2019-03-27,02:41:43,2.695277777777778,29.888416578108394,Project Manager / Tech Lead,80.56
 18199,UI45,Sinbuffer,DevOps,Create new AWS Account for ADR,2019-03-27,00:38:27,0.6408333333333333,53.06601671309192,Project Manager / Tech Lead,34.01
 18200,UI27,Revenify,Development,"working on  ""Add ""Financial Education"" link to footer"", ""Create new ""Financial Education"" sub-pages""",2019-03-27,05:27:09,5.452500000000001,30.871343675233465,Front End Developer,168.33
@@ -18205,12 +18205,12 @@
 18205,UI33,Finizon,Development,fixing  account delinquency filter cr+ setting up local crm server,2019-03-27,03:11:00,3.183333333333333,54.99794220273777,Back End Developer,175.08
 18206,UI11,Credious,QA,e2e Testing using ReadyAPI,2019-03-27,02:54:17,2.904722222222222,25.00111111111111,Quality Assurance,72.62
 18207,UI45,Finizon,Development,XXX Network Error,2019-03-27,00:58:45,0.9791666666666666,53.06601671309192,Project Manager / Tech Lead,51.96
-18208,UI29, Credious,QA,Working on Secxty Questions Scenarios,2019-03-27,00:54:27,0.9075,18.000116904372224,Quality Assurance,16.34
-18209,UI29, Credious,QA,Working On Tradeline Scenarios,2019-03-27,00:38:17,0.6380555555555555,18.000116904372224,Quality Assurance,11.49
+18208,UI29,Credious,QA,Working on Secxty Questions Scenarios,2019-03-27,00:54:27,0.9075,18.000116904372224,Quality Assurance,16.34
+18209,UI29,Credious,QA,Working On Tradeline Scenarios,2019-03-27,00:38:17,0.6380555555555555,18.000116904372224,Quality Assurance,11.49
 18210,UI08,Credious,DevOps,New Networking Setup,2019-03-27,04:35:41,4.594722222222222,26.996885274268905,Devops,124.04
 18211,UI06,GDP,DevOps,New Networking Setup,2019-03-27,04:35:25,4.590277777777778,26.0,Senior Devops,119.35
 18212,UI46,AgeSolvency,QA,Automation testing for XXX review,2019-03-27,02:37:42,2.6283333333333334,14.001321877065433,Quality Assurance,36.8
-18213,UI29, Credious,QA,Working on docker window image and running frontend automation,2019-03-27,00:10:30,0.175,18.000116904372224,Quality Assurance,3.15
+18213,UI29,Credious,QA,Working on docker window image and running frontend automation,2019-03-27,00:10:30,0.175,18.000116904372224,Quality Assurance,3.15
 18214,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-27,02:39:00,2.65,27.25166916473634,Front End Developer,72.22
 18215,UI16,TeachZip,Development,Create Backend Tracking in Google Analytics,2019-03-27,02:43:00,2.716666666666667,29.067543792549532,Full-Stack Developer,78.97
 18216,UI20,Finizon,Development,Working on modify documentation,2019-03-27,04:09:39,4.160833333333334,26.476039184537992,Back End Developer,110.16
@@ -18218,7 +18218,7 @@
 18218,UI11,Credious,QA,Add information to AirTable test cases,2019-03-27,01:59:32,1.9922222222222223,25.00111111111111,Quality Assurance,49.81
 18219,UI06,Fintech,DevOps,XXX Planning,2019-03-27,01:36:45,1.6125,26.0,Senior Devops,41.92
 18220,UI06,Fintech,DevOps,XXX Planning,2019-03-28,00:54:00,0.9,26.0,Senior Devops,23.4
-18221,UI29, Credious,QA,Working on the latest endpoint of XXX Experience,2019-03-28,01:07:49,1.1302777777777777,18.000116904372224,Quality Assurance,20.35
+18221,UI29,Credious,QA,Working on the latest endpoint of XXX Experience,2019-03-28,01:07:49,1.1302777777777777,18.000116904372224,Quality Assurance,20.35
 18222,UI20,Sinbuffer,Development,Attending standup XXX/approval/XXX projects,2019-03-28,00:57:00,0.95,26.476039184537992,Back End Developer,25.15
 18223,UI14,Credious,Development,Deploying XXX-client project to Staging,2019-03-28,00:30:10,0.5027777777777778,27.25166916473634,Front End Developer,13.7
 18224,UI11,Credious,QA,"QA Meeting, Meeting w/x, AirTable update",2019-03-28,02:15:00,2.25,25.00111111111111,Quality Assurance,56.25
@@ -18226,7 +18226,7 @@
 18226,UI16,TeachZip,Development,Create Backend Tracking in Google Analytics,2019-03-28,02:02:55,2.048611111111111,29.067543792549532,Full-Stack Developer,59.55
 18227,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-28,02:56:14,2.9372222222222226,27.25166916473634,Front End Developer,80.04
 18228,UI33,Finizon,Development,Eligible filter in Programs- backend,2019-03-28,01:43:00,1.7166666666666668,54.99794220273777,Back End Developer,94.41
-18229,UI29, Credious,QA,Working on secxtyQuestions Scenarios,2019-03-28,01:09:22,1.156111111111111,18.000116904372224,Quality Assurance,20.81
+18229,UI29,Credious,QA,Working on secxtyQuestions Scenarios,2019-03-28,01:09:22,1.156111111111111,18.000116904372224,Quality Assurance,20.81
 18230,UI45,Finizon,Development,XXX CRM service and XXX with XXX,2019-03-28,02:06:04,2.1011111111111114,53.06601671309192,Project Manager / Tech Lead,111.5
 18231,UI08,Credious,DevOps,New Networking Setup,2019-03-28,01:51:49,1.863611111111111,26.996885274268905,Devops,50.31
 18232,UI36,WeVape,Development,Korona: stock maintenance quantity wise,2019-03-28,03:44:00,3.7333333333333334,30.000202730098668,Senior Full-Stack Developer,112.0
@@ -18234,17 +18234,17 @@
 18234,UI23,Credious,Development,Checking on SF about offer-notes issue,2019-03-28,03:23:39,3.3941666666666666,22.999681061427566,Back End Developer,78.06
 18235,UI16,TeachZip,Development,Fixing TXXXA bug: not showing terms for age restricted students but requiring check,2019-03-28,01:28:00,1.4666666666666668,29.067543792549532,Full-Stack Developer,42.63
 18236,UI20,Finizon,Development,Working on modify documentation,2019-03-28,02:16:25,2.2736111111111112,26.476039184537992,Back End Developer,60.2
-18237,UI29, Credious,QA,Checking addon on staging,2019-03-28,00:23:42,0.395,18.000116904372224,Quality Assurance,7.11
+18237,UI29,Credious,QA,Checking addon on staging,2019-03-28,00:23:42,0.395,18.000116904372224,Quality Assurance,7.11
 18238,UI33,Finizon,Development,debug manager review notes,2019-03-28,01:38:00,1.6333333333333333,54.99794220273777,Back End Developer,89.83
 18239,UI11,Credious,QA,Meeting w/x,2019-03-28,00:30:00,0.5,25.00111111111111,Quality Assurance,12.5
 18240,UI35,Finizon,Development,Network errors persist,2019-03-28,02:35:25,2.590277777777778,34.99945315348159,Senior Full-Stack Developer,90.66
 18241,UI06,GDP,DevOps,New Networking Setup,2019-03-28,00:34:59,0.5830555555555555,26.0,Senior Devops,15.16
 18242,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-28,00:48:50,0.8138888888888889,27.25166916473634,Front End Developer,22.18
-18243,UI29, Credious,QA,Working on secxtyQuestions Scenarios,2019-03-28,00:48:52,0.8144444444444445,18.000116904372224,Quality Assurance,14.66
+18243,UI29,Credious,QA,Working on secxtyQuestions Scenarios,2019-03-28,00:48:52,0.8144444444444445,18.000116904372224,Quality Assurance,14.66
 18244,UI06,GDP,DevOps,DevOps meeting,2019-03-28,00:36:54,0.615,26.0,Senior Devops,15.99
 18245,UI45,Finizon,DevOps,"Standup, Networking Release",2019-03-28,01:01:27,1.0241666666666667,53.06601671309192,Project Manager / Tech Lead,54.35
 18246,UI08,Credious,DevOps,DevOps - Weekly,2019-03-28,00:58:54,0.9816666666666667,26.996885274268905,Devops,26.5
-18247,UI29, Credious,QA,Working on secxtyQuestions Scenarios,2019-03-28,01:13:59,1.2330555555555556,18.000116904372224,Quality Assurance,22.2
+18247,UI29,Credious,QA,Working on secxtyQuestions Scenarios,2019-03-28,01:13:59,1.2330555555555556,18.000116904372224,Quality Assurance,22.2
 18248,UI20,TeachZip,Development,Attending daily standup with XXX,2019-03-28,00:09:21,0.15583333333333332,26.476039184537992,Back End Developer,4.13
 18249,UI16,TeachZip,Development,Daily Meeting,2019-03-28,00:09:16,0.15444444444444444,29.067543792549532,Full-Stack Developer,4.49
 18250,UI33,Finizon,Development,Eligible filter in Programs- backend,2019-03-28,02:00:14,2.003888888888889,54.99794220273777,Back End Developer,110.21
@@ -18254,19 +18254,19 @@
 18254,UI23,Credious,Development,"Checking on SF about offer-notes issue, Notes query",2019-03-28,00:39:57,0.6658333333333334,22.999681061427566,Back End Developer,15.31
 18255,UI45,Finizon,QA,Standup,2019-03-28,00:31:44,0.528888888888889,53.06601671309192,Project Manager / Tech Lead,28.07
 18256,UI16,TeachZip,Development,Create Backend Tracking in Google Analytics,2019-03-28,01:16:39,1.2774999999999999,29.067543792549532,Full-Stack Developer,37.13
-18257,UI29, Credious,QA,Working on secxtyQuestions Scenarios,2019-03-28,00:17:30,0.2916666666666667,18.000116904372224,Quality Assurance,5.25
+18257,UI29,Credious,QA,Working on secxtyQuestions Scenarios,2019-03-28,00:17:30,0.2916666666666667,18.000116904372224,Quality Assurance,5.25
 18258,UI36,WeVape,Development,Korona: stock maintenance quantity wise,2019-03-28,02:23:00,2.3833333333333333,30.000202730098668,Senior Full-Stack Developer,71.5
 18259,UI23,Credious,Development,[XXX Job] working on enrich job information,2019-03-28,04:14:23,4.239722222222222,22.999681061427566,Back End Developer,97.51
 18260,UI35,Finizon,Development,Network errors persist,2019-03-28,00:23:25,0.3902777777777778,34.99945315348159,Senior Full-Stack Developer,13.66
 18261,UI14,Credious,Development,As an agent I should be able to add new add-on to a prospect,2019-03-28,00:26:48,0.44666666666666666,27.25166916473634,Front End Developer,12.17
-18262,UI29, Credious,QA,Working ON TradelineScenarios,2019-03-28,01:11:25,1.1902777777777778,18.000116904372224,Quality Assurance,21.43
+18262,UI29,Credious,QA,Working ON TradelineScenarios,2019-03-28,01:11:25,1.1902777777777778,18.000116904372224,Quality Assurance,21.43
 18263,UI20,Finizon,Development,Working on modify documentation,2019-03-28,03:19:12,3.32,26.476039184537992,Back End Developer,87.9
 18264,UI46,Credious,QA,QA standup,2019-03-28,00:48:50,0.8138888888888889,14.001321877065433,Quality Assurance,11.4
 18265,UI35,Finizon,Development,XXX sprint planning,2019-03-28,00:57:13,0.9536111111111111,34.99945315348159,Senior Full-Stack Developer,33.38
 18266,UI14,Revenify,Development,"[Testing] As a sales rep, I would like to be warned if I have unsaved data prior to leaving a page",2019-03-28,01:51:53,1.8647222222222224,27.25166916473634,Front End Developer,50.82
 18267,UI45,Finizon,QA,Call with XXX and XXX - Test Plan,2019-03-28,00:45:59,0.7663888888888889,53.06601671309192,Project Manager / Tech Lead,40.67
 18268,UI35,Finizon,Development,Network errors persist,2019-03-28,02:57:24,2.956666666666667,34.99945315348159,Senior Full-Stack Developer,103.48
-18269,UI29, Credious,QA,Sanity on production,2019-03-28,00:34:26,0.5738888888888889,18.000116904372224,Quality Assurance,10.33
+18269,UI29,Credious,QA,Sanity on production,2019-03-28,00:34:26,0.5738888888888889,18.000116904372224,Quality Assurance,10.33
 18270,UI06,GDP,DevOps,New Networking Setup,2019-03-28,00:14:00,0.23333333333333334,26.0,Senior Devops,6.07
 18271,UI06,Fintech,DevOps,XXX I helped XXXG,2019-03-28,00:27:31,0.45861111111111114,26.0,Senior Devops,11.92
 18272,UI16,TeachZip,Development,Create Backend Tracking in Google Analytics,2019-03-28,01:40:35,1.6763888888888887,29.067543792549532,Full-Stack Developer,48.73
@@ -18277,22 +18277,22 @@
 18277,UI08,Credious,DevOps,New Networking Setup,2019-03-28,01:14:21,1.2391666666666667,26.996885274268905,Devops,33.45
 18278,UI32,AgeSolvency,Development,XXX API research for document saving,2019-03-28,01:59:00,1.9833333333333334,64.82347534602076,Project Manager / Tech Lead,128.57
 18279,UI14,Revenify,Development,"[Testing] As a sales rep, I would like to be warned if I have unsaved data prior to leaving a page",2019-03-28,02:32:44,2.5455555555555556,27.25166916473634,Front End Developer,69.37
-18280,UI29, Credious,QA,QA Sprint planning,2019-03-28,00:41:01,0.6836111111111112,18.000116904372224,Quality Assurance,12.31
+18280,UI29,Credious,QA,QA Sprint planning,2019-03-28,00:41:01,0.6836111111111112,18.000116904372224,Quality Assurance,12.31
 18281,UI45,Finizon,Development,XXX CRM service and XXX,2019-03-28,00:23:11,0.3863888888888889,53.06601671309192,Project Manager / Tech Lead,20.5
 18282,UI24,PilotAxis,Design,"Working on finish the look and feel/Design improvements based on what I've been discussed with XXX, I uploaded on Marvel prototype and I sent the pdf to XXX",2019-03-28,02:13:00,2.216666666666667,19.9995183044316,Designer,44.33
 18283,UI08,TeachZip,DevOps,Follow-up call with Marco,2019-03-28,01:27:49,1.463611111111111,26.996885274268905,Devops,39.51
 18284,UI32,AgeSolvency,Development,Change SSN to accommodate only last 4 digits field,2019-03-28,02:35:23,2.5897222222222225,64.82347534602076,Project Manager / Tech Lead,167.87
-18285,UI29, Credious,QA,Working on networking taskforce testing,2019-03-28,01:06:40,1.1111111111111112,18.000116904372224,Quality Assurance,20.0
+18285,UI29,Credious,QA,Working on networking taskforce testing,2019-03-28,01:06:40,1.1111111111111112,18.000116904372224,Quality Assurance,20.0
 18286,UI15,Credious,Development,"code review, new relic and rollback deployment (stg and prod), reissue debt logs prod deployment",2019-03-28,05:57:01,5.950277777777778,29.888416578108394,Project Manager / Tech Lead,177.84
 18287,UI08,Credious,DevOps,New Networking Setup,2019-03-28,02:39:00,2.65,26.996885274268905,Devops,71.54
 18288,UI11,Credious,QA,Testing Nudebt,2019-03-28,01:03:16,1.0544444444444445,25.00111111111111,Quality Assurance,26.36
-18289,UI29, Credious,QA,Working on networking taskforce testing,2019-03-28,00:34:53,0.5813888888888888,18.000116904372224,Quality Assurance,10.47
+18289,UI29,Credious,QA,Working on networking taskforce testing,2019-03-28,00:34:53,0.5813888888888888,18.000116904372224,Quality Assurance,10.47
 18290,UI06,GDP,DevOps,New Networking Setup,2019-03-28,03:19:35,3.326388888888889,26.0,Senior Devops,86.49
 18291,UI24,GDP,Design,Working on some minor adjustments of the add ons module that we are including on the available plans on the XXX,2019-03-28,02:11:00,2.183333333333333,19.9995183044316,Designer,43.67
 18292,UI16,TeachZip,Development,Create Backend Tracking in Google Analytics,2019-03-28,02:10:20,2.172222222222222,29.067543792549532,Full-Stack Developer,63.14
 18293,UI23,Credious,Development,Implementing and deploying New Relic and Rollbar for each microservice,2019-03-28,05:01:17,5.021388888888889,22.999681061427566,Back End Developer,115.49
 18294,UI01,GDP,Development,Discussing solutions to the debts-microservice with x,2019-03-28,00:55:13,0.9202777777777778,52.4620446804826,Senior Full-Stack Developer,48.28
-18295,UI29, Credious,QA,Working on networking taskforce testing,2019-03-29,00:40:03,0.6675,18.000116904372224,Quality Assurance,12.02
+18295,UI29,Credious,QA,Working on networking taskforce testing,2019-03-29,00:40:03,0.6675,18.000116904372224,Quality Assurance,12.02
 18296,UI06,Fintech,DevOps,XXX I helped XXXG,2019-03-29,01:04:50,1.0805555555555555,26.0,Senior Devops,28.09
 18297,UI35,Finizon,Development,Network errors persist,2019-03-29,03:23:40,3.3944444444444444,34.99945315348159,Senior Full-Stack Developer,118.8
 18298,UI06,Fintech,DevOps,XXX I helped XXXG,2019-03-29,00:43:00,0.7166666666666667,26.0,Senior Devops,18.63
@@ -18307,14 +18307,14 @@
 18307,UI06,GDP,DevOps,New Networking Setup,2019-03-29,02:06:32,2.108888888888889,26.0,Senior Devops,54.83
 18308,UI22,Credious,DevOps,set local enviorment with docker crm,2019-03-29,01:35:35,1.5930555555555557,29.99865561281649,Devops,47.79
 18309,UI45,Finizon,DevOps,Networking Release,2019-03-29,01:04:45,1.0791666666666666,53.06601671309192,Project Manager / Tech Lead,57.27
-18310,UI29, Credious,QA,Checking Add-on tickets,2019-03-29,00:40:11,0.6697222222222222,18.000116904372224,Quality Assurance,12.06
+18310,UI29,Credious,QA,Checking Add-on tickets,2019-03-29,00:40:11,0.6697222222222222,18.000116904372224,Quality Assurance,12.06
 18311,UI16,TeachZip,Development,Daily Meeting,2019-03-29,00:19:37,0.3269444444444444,29.067543792549532,Full-Stack Developer,9.5
 18312,UI14,Credious,Development,Implement routing in FE,2019-03-29,00:27:04,0.45111111111111113,27.25166916473634,Front End Developer,12.29
-18313,UI29, Credious,QA,Re-testing Triage tickets,2019-03-29,00:07:30,0.125,18.000116904372224,Quality Assurance,2.25
+18313,UI29,Credious,QA,Re-testing Triage tickets,2019-03-29,00:07:30,0.125,18.000116904372224,Quality Assurance,2.25
 18314,UI23,Credious,Development,continue working on enrich information job,2019-03-29,01:22:46,1.3794444444444445,22.999681061427566,Back End Developer,31.73
 18315,UI35,Finizon,Development,Network errors persist,2019-03-29,04:03:17,4.054722222222222,34.99945315348159,Senior Full-Stack Developer,141.91
 18316,UI16,TeachZip,Development,Confirmation page: Add city and state next to school names,2019-03-29,03:28:00,3.466666666666667,29.067543792549532,Full-Stack Developer,100.77
-18317,UI29, Credious,QA,Re-testing Triage tickets,2019-03-29,01:09:55,1.1652777777777776,18.000116904372224,Quality Assurance,20.98
+18317,UI29,Credious,QA,Re-testing Triage tickets,2019-03-29,01:09:55,1.1652777777777776,18.000116904372224,Quality Assurance,20.98
 18318,UI36,PilotAxis,Development,Ecobee integation call with XXX,2019-03-29,00:07:46,0.12944444444444445,30.000202730098668,Senior Full-Stack Developer,3.88
 18319,UI15,Credious,Development,"management talk, sprint status",2019-03-29,01:39:07,1.6519444444444444,29.888416578108394,Project Manager / Tech Lead,49.37
 18320,UI23,Credious,Development,continue working on enrich information job,2019-03-29,00:33:25,0.5569444444444445,22.999681061427566,Back End Developer,12.81
@@ -18323,18 +18323,18 @@
 18323,UI06,GDP,DevOps,New Networking Setup,2019-03-29,00:55:57,0.9325,26.0,Senior Devops,24.24
 18324,UI36,WeVape,Development,weekly standup over slack and sent email asking update,2019-03-29,00:19:00,0.31666666666666665,30.000202730098668,Senior Full-Stack Developer,9.5
 18325,UI06,GDP,DevOps,New Networking Setup,2019-03-29,00:40:21,0.6725,26.0,Senior Devops,17.48
-18326,UI29, Credious,QA,Working on networking taskforce testing,2019-03-29,01:22:23,1.3730555555555557,18.000116904372224,Quality Assurance,24.72
+18326,UI29,Credious,QA,Working on networking taskforce testing,2019-03-29,01:22:23,1.3730555555555557,18.000116904372224,Quality Assurance,24.72
 18327,UI35,Finizon,Development,Reduce the number of failed programs,2019-03-30,01:02:56,1.048888888888889,34.99945315348159,Senior Full-Stack Developer,36.71
-18328,UI29, Credious,QA,Sanity on production,2019-03-30,00:56:12,0.9366666666666666,18.000116904372224,Quality Assurance,16.86
-18329,UI29, Credious,QA,Updating test cases,2019-03-30,00:27:08,0.45222222222222225,18.000116904372224,Quality Assurance,8.14
-18330,UI29, Credious,QA,Updating automation flow,2019-03-30,00:07:42,0.12833333333333333,18.000116904372224,Quality Assurance,2.31
+18328,UI29,Credious,QA,Sanity on production,2019-03-30,00:56:12,0.9366666666666666,18.000116904372224,Quality Assurance,16.86
+18329,UI29,Credious,QA,Updating test cases,2019-03-30,00:27:08,0.45222222222222225,18.000116904372224,Quality Assurance,8.14
+18330,UI29,Credious,QA,Updating automation flow,2019-03-30,00:07:42,0.12833333333333333,18.000116904372224,Quality Assurance,2.31
 18331,UI36,PilotAxis,Development,research to find ecobee device handler,2019-03-30,03:21:00,3.35,30.000202730098668,Senior Full-Stack Developer,100.5
-18332,UI29, Credious,QA,Checking Add-on tickets,2019-03-30,00:20:21,0.33916666666666667,18.000116904372224,Quality Assurance,6.11
+18332,UI29,Credious,QA,Checking Add-on tickets,2019-03-30,00:20:21,0.33916666666666667,18.000116904372224,Quality Assurance,6.11
 18333,UI32,PilotAxis,Development,Sprint planning - next week demo release,2019-03-30,06:51:20,6.855555555555555,64.82347534602076,Project Manager / Tech Lead,444.4
 18334,UI24,PilotAxis,Design,Working on continue with the entire application re-design based on the requierements provided by XXX,2019-03-30,04:22:00,4.366666666666666,19.9995183044316,Designer,87.33
 18335,UI06,AgeSolvency,DevOps,What if @cpaugh’s ip changes again?,2019-03-30,00:11:54,0.1983333333333333,26.0,Senior Devops,5.16
 18336,UI06,GDP,DevOps,check that the VPN can connect to the Redshift,2019-03-30,00:13:10,0.21944444444444444,26.0,Senior Devops,5.71
-18337,UI29, Credious,QA,Testing Add-on feature on staging,2019-03-30,01:11:35,1.1930555555555555,18.000116904372224,Quality Assurance,21.48
+18337,UI29,Credious,QA,Testing Add-on feature on staging,2019-03-30,01:11:35,1.1930555555555555,18.000116904372224,Quality Assurance,21.48
 18338,UI23,Credious,Development,[DATA TRANSFER] checking Lead details not transferring to SF issue,2019-03-30,01:42:16,1.7044444444444444,22.999681061427566,Back End Developer,39.2
 18339,UI32,PilotAxis,Development,Call with XXX - QA plan for Sky,2019-03-30,01:02:00,1.0333333333333334,64.82347534602076,Project Manager / Tech Lead,66.98
 18340,UI32,PilotAxis,Development,"Call with XXX - Demo release planning, Sprint planning - next week demo release, temporal access code for door lock design",2019-03-30,01:13:33,1.2258333333333336,64.82347534602076,Project Manager / Tech Lead,79.46
